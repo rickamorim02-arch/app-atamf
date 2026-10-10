@@ -1,4 +1,4 @@
-const SHELL_CACHE='atamf-shell-v1';const READING_CACHE='atamf-reading';const SHELL=['./','./index.html','./estudos.html?v=35','./questoes.json','./manifest.webmanifest','./icon.svg','./pwa.js?v=35'];
+const SHELL_CACHE='atamf-shell-v2';const READING_CACHE='atamf-reading';const SHELL=['./','./index.html','./estudos.html?v=35','./questoes.json','./questoes_portugues.json','./manifest.webmanifest','./icon.svg','./pwa.js?v=35'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(SHELL_CACHE).then(c=>c.addAll(SHELL))));
 self.addEventListener('activate',e=>e.waitUntil((async()=>{const reading=await caches.open(READING_CACHE),keys=await caches.keys();for(const name of keys){if(name.startsWith('atamf-offline-')){const old=await caches.open(name);for(const req of await old.keys()){const u=new URL(req.url);if(u.pathname.includes('/materiais/')&&u.pathname.toLowerCase().endsWith('.pdf')){const res=await old.match(req);if(res)await reading.put(req,res.clone())}}await caches.delete(name)}else if(name.startsWith('atamf-shell-')&&name!==SHELL_CACHE)await caches.delete(name)}await self.clients.claim()})()));
 async function reply(src,msg){if(src)src.postMessage(msg)}
