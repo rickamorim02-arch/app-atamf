@@ -677,7 +677,7 @@
       "id": "atamf-mat6-0048",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 02 - Diagramas Lógicos",
-      "q": "(QUADRIX/PREF. TIJUCAS DO SUL/2021) I. Todos os servidores da prefeitura de Tijucas do Sul receberão uma gratificação. Logo, alguns servidores da referida prefeitura não receberão gratificação. II. Enfermeiros estudaram na UFSC ou na Unisul. Beatriz é enfermeira e não estudou na Unisul. Logo, Beatriz estudou na UFSC. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 128 Aula 02 III. Alguns médicos são professores. Alguns professores estudaram na UFSC. Logo, todos os médicos estudaram na UFSC. Considerando os argumentos acima, assinale a alternativa correta",
+      "q": "(QUADRIX/PREF. TIJUCAS DO SUL/2021) I. Todos os servidores da prefeitura de Tijucas do Sul receberão uma gratificação. Logo, alguns servidores da referida prefeitura não receberão gratificação. II. Enfermeiros estudaram na UFSC ou na Unisul. Beatriz é enfermeira e não estudou na Unisul. Logo, Beatriz estudou na UFSC. III. Alguns médicos são professores. Alguns professores estudaram na UFSC. Logo, todos os médicos estudaram na UFSC. Considerando os argumentos acima, assinale a alternativa correta",
       "o": [
         "Apenas o argumento I é válido.",
         "Apenas o argumento II é válido.",
@@ -725,7 +725,7 @@
       "id": "atamf-mat6-0051",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 03 - Lógica de Primeira Ordem",
-      "q": "(FGV/ALEMA/2013) Considere a sentença: “Não é verdade que todo parlamentar de Brasília falta às sessões plenárias das sextas‐feiras no Congresso e retorna ao seu estado de origem.” Uma sentença logicamente equivalente a essa: Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 75 93 Aula 03",
+      "q": "(FGV/ALEMA/2013) Considere a sentença: “Não é verdade que todo parlamentar de Brasília falta às sessões plenárias das sextas‐feiras no Congresso e retorna ao seu estado de origem.” Uma sentença logicamente equivalente a essa:",
       "o": [
         "Nenhum parlamentar de Brasília falta às sessões plenárias das sextas‐feiras no Congresso e retorna ao seu estado de origem.",
         "Todo parlamentar de Brasília comparece às sessões plenárias das sextas‐feiras no Congresso ou retorna ao seu estado de origem.",
@@ -1060,7 +1060,7 @@
       "id": "atamf-mat6-0076",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 05 - Raciocício Sequencial",
-      "q": "(FGV/CM ARACAJU/2021) Um artista criou uma faixa decorativa com o nome do estado escrito diversas vezes em sequência: SERGIPESERGIPESERGIPESERG... Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 119 q p g Aula 05 A milésima letra dessa faixa é:",
+      "q": "(FGV/CM ARACAJU/2021) Um artista criou uma faixa decorativa com o nome do estado escrito diversas vezes em sequência: SERGIPESERGIPESERGIPESERG... g Aula 05 A milésima letra dessa faixa é:",
       "o": [
         "S;",
         "R;",
@@ -1108,7 +1108,7 @@
       "id": "atamf-mat6-0079",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 05 - Raciocício Sequencial",
-      "q": "(FCC/SABESP/2019) A palavra ABACAXI foi escrita repetida e seguidamente em um cartaz, sem espaços, de maneira a ter sempre 44 letras em cada linha e sempre continuando a palavra na linha seguinte a partir de onde foi interrompida na linha anterior. As três primeiras linhas do cartaz estão indicadas a seguir: ABACAXIABACAXIABACAXIABACAXIABACAXIAB ACAXIABACAXIABACAXIABACAXIABACAXIABAC AXIABACAXIABACAXIABACAXIABACAXIABACAXI Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 120 q p g Aula 05 Se o cartaz tem um total de 434 letras A, com todas as linhas completas, então a última letra do cartaz, ou seja, a última letra da última linha, é a",
+      "q": "(FCC/SABESP/2019) A palavra ABACAXI foi escrita repetida e seguidamente em um cartaz, sem espaços, de maneira a ter sempre 44 letras em cada linha e sempre continuando a palavra na linha seguinte a partir de onde foi interrompida na linha anterior. As três primeiras linhas do cartaz estão indicadas a seguir: ABACAXIABACAXIABACAXIABACAXIABACAXIAB ACAXIABACAXIABACAXIABACAXIABACAXIABAC AXIABACAXIABACAXIABACAXIABACAXIABACAXI g Aula 05 Se o cartaz tem um total de 434 letras A, com todas as linhas completas, então a última letra do cartaz, ou seja, a última letra da última linha, é a",
       "o": [
         "letra A.",
         "letra B.",
@@ -1204,7 +1204,7 @@
       "id": "atamf-mat6-0085",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 07 - Teoria dos Conjuntos",
-      "q": "(FGV/CODEBA/2010) Sejam 𝑨= {𝟎, 𝟏, 𝟐, 𝟑} e 𝑩= {𝟎, 𝟐, 𝟒} dois conjuntos. Com relação aos conjuntos A e B, analise as afirmativas a seguir: I. 𝑩 ⊂ 𝑨 II. 𝑨∪𝑩 = {𝟎, 𝟏, 𝟐, 𝟑, 𝟒} III. 𝑨 ∩ 𝑩 = {𝟎, 𝟐} Está(ão) correta(s) somente Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 142 172 Aula 07",
+      "q": "(FGV/CODEBA/2010) Sejam 𝑨= {𝟎, 𝟏, 𝟐, 𝟑} e 𝑩= {𝟎, 𝟐, 𝟒} dois conjuntos. Com relação aos conjuntos A e B, analise as afirmativas a seguir: I. 𝑩 ⊂ 𝑨 II. 𝑨∪𝑩 = {𝟎, 𝟏, 𝟐, 𝟑, 𝟒} III. 𝑨 ∩ 𝑩 = {𝟎, 𝟐} Está(ão) correta(s) somente",
       "o": [
         "I.",
         "II.",
@@ -1392,7 +1392,7 @@
       "id": "atamf-mat6-0098",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 07 - Teoria dos Conjuntos",
-      "q": "(FCC/SEDU-ES/2016) Dados os conjuntos 𝑨= {𝒙∈ℝ | −𝟑≤𝒙< 𝟗} 𝑩= {𝒚∈ℝ | −𝟕≤𝒚≤𝟓} 𝑪= {𝒛∈ℝ | −𝟓≤𝒛< 𝟑} 𝑫= (𝑨∩𝑩) ∪𝑪 Pode-se concluir, corretamente, que a quantidade de números inteiros que pertencem ao conjunto D é igual a Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 164 172 Aula 07",
+      "q": "(FCC/SEDU-ES/2016) Dados os conjuntos 𝑨= {𝒙∈ℝ | −𝟑≤𝒙< 𝟗} 𝑩= {𝒚∈ℝ | −𝟕≤𝒚≤𝟓} 𝑪= {𝒛∈ℝ | −𝟓≤𝒛< 𝟑} 𝑫= (𝑨∩𝑩) ∪𝑪 Pode-se concluir, corretamente, que a quantidade de números inteiros que pertencem ao conjunto D é igual a",
       "o": [
         "8.",
         "10.",
@@ -1596,7 +1596,7 @@
       "id": "atamf-mat6-0114",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 08 - Operações Básicas",
-      "q": "(AOCP/IPE-PREV/2022) Considere que o número de identificação de um processo em andamento seja formado por cinco algarismos, seguidos de um dígito verificador. Para a obtenção do dígito verificador, seguem-se as seguintes regras, nesta ordem: 1º) efetua-se a multiplicação dos cinco primeiros algarismos que identificam o processo; 2º) efetua-se a divisão do resultado da multiplicação, obtida anteriormente, por 9; Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 156 q p g Aula 08 3º) o algarismo que identifica o resto dessa divisão será o dígito verificador. Com base nessas informações, considere que um processo em andamento possua o número de identificação 12377-W, em que W é o dígito verificador. Então, é correto afirmar que o valor de W, nesse número de identificação, é igual a",
+      "q": "(AOCP/IPE-PREV/2022) Considere que o número de identificação de um processo em andamento seja formado por cinco algarismos, seguidos de um dígito verificador. Para a obtenção do dígito verificador, seguem-se as seguintes regras, nesta ordem: 1º) efetua-se a multiplicação dos cinco primeiros algarismos que identificam o processo; 2º) efetua-se a divisão do resultado da multiplicação, obtida anteriormente, por 9; g Aula 08 3º) o algarismo que identifica o resto dessa divisão será o dígito verificador. Com base nessas informações, considere que um processo em andamento possua o número de identificação 12377-W, em que W é o dígito verificador. Então, é correto afirmar que o valor de W, nesse número de identificação, é igual a",
       "o": [
         "8.",
         "6.",
@@ -1688,7 +1688,7 @@
       "id": "atamf-mat6-0120",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 08 - Operações Básicas",
-      "q": "(FAFIPA/PREF. ARAPONGAS/2020) Dada a expressão algébrica: Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 172 q p g Aula 08 𝟐𝒙+ 𝟗𝒙+ √𝟏𝟔𝟗+ 𝟐𝟐𝒙+ 𝟑√𝟐𝟕 Qual será o valor dessa expressão algébrica para 𝒙 = 𝟒?",
+      "q": "(FAFIPA/PREF. ARAPONGAS/2020) Dada a expressão algébrica: g Aula 08 𝟐𝒙+ 𝟗𝒙+ √𝟏𝟔𝟗+ 𝟐𝟐𝒙+ 𝟑√𝟐𝟕 Qual será o valor dessa expressão algébrica para 𝒙 = 𝟒?",
       "o": [
         "1000",
         "500",
@@ -1830,7 +1830,7 @@
       "id": "atamf-mat6-0129",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 12 - Regra de Três",
-      "q": "(UFRJ/UFRJ/2022) Por lei, a jornada de trabalho de um Assistente em Administração é de 40 (quarenta) horas semanais. Na Secretaria de Graduação de uma unidade acadêmica da UFRJ, onde estão lotados seis Assistentes em Administração, todos de igual eficiência, organizaram-se os trabalhos diários da seguinte forma: 6 horas de atendimento ao público discente e 2 horas executando rotinas administrativas, como tramitar processos, redigir e expedir documentos etc. Nesse ritmo, esses servidores conseguem atender cerca de 288 alunos por dia. Supondo-se que, num rearranjo organizacional, metade dessa equipe Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 73 Aula 12 trabalhasse as 8 horas diárias apenas executando as rotinas administrativas e o restante cumprisse suas 8 horas diárias apenas atendendo ao público discente, o número de alunos atendidos por esse setor em 5 dias passaria a ser igual a:",
+      "q": "(UFRJ/UFRJ/2022) Por lei, a jornada de trabalho de um Assistente em Administração é de 40 (quarenta) horas semanais. Na Secretaria de Graduação de uma unidade acadêmica da UFRJ, onde estão lotados seis Assistentes em Administração, todos de igual eficiência, organizaram-se os trabalhos diários da seguinte forma: 6 horas de atendimento ao público discente e 2 horas executando rotinas administrativas, como tramitar processos, redigir e expedir documentos etc. Nesse ritmo, esses servidores conseguem atender cerca de 288 alunos por dia. Supondo-se que, num rearranjo organizacional, metade dessa equipe trabalhasse as 8 horas diárias apenas executando as rotinas administrativas e o restante cumprisse suas 8 horas diárias apenas atendendo ao público discente, o número de alunos atendidos por esse setor em 5 dias passaria a ser igual a:",
       "o": [
         "3840",
         "960",
@@ -2436,7 +2436,7 @@
       "id": "atamf-mat6-0169",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 13 - Porcentagem",
-      "q": "(FCC / ISS Manaus - 2019) Fernando pagou R$ 100,00 de conta de água e R$ 120,00 de conta de luz referentes ao consumo no mês de janeiro. Se a conta de água sofreu redução mensal de 15% 4 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 135 149 q p g Aula 13 nos meses de fevereiro e março subsequentes, e a conta de luz sofreu aumento mensal de 10% nesses dois meses, para pagar as contas de água e de luz referentes ao consumo no mês de março, Fernando gastou, no total,",
+      "q": "(FCC / ISS Manaus - 2019) Fernando pagou R$ 100,00 de conta de água e R$ 120,00 de conta de luz referentes ao consumo no mês de janeiro. Se a conta de água sofreu redução mensal de 15% 4 g Aula 13 nos meses de fevereiro e março subsequentes, e a conta de luz sofreu aumento mensal de 10% nesses dois meses, para pagar as contas de água e de luz referentes ao consumo no mês de março, Fernando gastou, no total,",
       "o": [
         "R$ 2,55 a menos do que gastou nas contas referentes ao consumo no mês de janeiro.",
         "R$ 4,00 a mais do que gastou nas contas referentes ao consumo no mês de janeiro.",
@@ -2484,7 +2484,7 @@
       "id": "atamf-mat6-0172",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 13 - Porcentagem",
-      "q": "(VUNESP / TJ SP - 2019) A média aritmética simples dos números 9, 12, 13, 16, 16 e 24 é a soma de todos eles dividida por 6. O maior desses números supera essa média aritmética simples em 5 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 136 149 q p g Aula 13",
+      "q": "(VUNESP / TJ SP - 2019) A média aritmética simples dos números 9, 12, 13, 16, 16 e 24 é a soma de todos eles dividida por 6. O maior desses números supera essa média aritmética simples em 5 g Aula 13",
       "o": [
         "55%",
         "60%",
@@ -2596,7 +2596,7 @@
       "id": "atamf-mat6-0179",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 13 - Porcentagem",
-      "q": "(CESPE / TCE PB – 2018) Se um lojista aumentar o preço original de um produto em 10% e depois der um desconto de 20% sobre o preço reajustado, então, relativamente ao preço original, o preço final do produto será 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 140 149 q p g Aula 13",
+      "q": "(CESPE / TCE PB – 2018) Se um lojista aumentar o preço original de um produto em 10% e depois der um desconto de 20% sobre o preço reajustado, então, relativamente ao preço original, o preço final do produto será 2 g Aula 13",
       "o": [
         "12% inferior",
         "18% inferior",
