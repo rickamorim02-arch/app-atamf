@@ -4447,8 +4447,8 @@
         "SaaS (Software as a Service)",
         "PaaS (Platform as a Service)"
       ],
-      "r": "A",
-      "e": "Gabarito indicado na lista da apostila Aula 02-1 - Redes Sociais 1, questão 69. Ainda requer confronto individual com o comentário original.",
+      "r": "B",
+      "e": "Gabarito B confirmado no PDF original, Aula 02-1 - Redes Sociais 1, p. 72: IaaS exige que o cliente instale e configure recursos como sistema operacional, banco de dados e compiladores.",
       "source_number": 69
     },
     {
@@ -4462,8 +4462,8 @@
         "o provedor de serviços não fornece infraestrutura subjacente de software, mas fornece aplicativos por meio da Internet para o desenvolvimento de soluções de software.",
         "os usuários subscrevem o software e o acessam por meio da Web ou de APIs do fabricante, sem a necessidade que o provedor forneça infraestrutura subjacente."
       ],
-      "r": "B",
-      "e": "Gabarito indicado na lista da apostila Aula 02-1 - Redes Sociais 1, questão 70. Ainda requer confronto individual com o comentário original.",
+      "r": "A",
+      "e": "Gabarito A confirmado no PDF original, Aula 02-1 - Redes Sociais 1, p. 72: PaaS permite desenvolver aplicativos sem gerenciar a infraestrutura subjacente.",
       "source_number": 70
     },
     {
@@ -4478,8 +4478,8 @@
         "Infrastructure as a Service (IaaS).",
         "Platform as a Service (PaaS)."
       ],
-      "r": "B",
-      "e": "Gabarito indicado na lista da apostila Aula 02-1 - Redes Sociais 1, questão 75. Ainda requer confronto individual com o comentário original.",
+      "r": "E",
+      "e": "Gabarito E confirmado no PDF original, Aula 02-1 - Redes Sociais 1, p. 74: PaaS oferece ferramentas pré-montadas para desenvolver e entregar aplicativos.",
       "source_number": 75
     },
     {
