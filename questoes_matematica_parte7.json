@@ -1644,14 +1644,14 @@
       "t": "Aula 26 - Dispersão",
       "q": "(CESGRANRIO/BB/2021) Um pesquisador recebeu os dados de uma amostra de tamanho 100 de uma população e calculou a média amostral μ, o desvio padrão amostral σ e o coeficiente de variação amostral 𝝈 𝑪𝑽= . Antes de iniciar a análise, ele foi informado de que os dados dessa amostra estavam todos 𝝁 errados, mas que podiam ser corrigidos somando-se 3 a cada um dos dados que recebeu. Após fazer tal correção, o valor do coeficiente de variação amostral passou a ser 3𝜎",
       "o": [
-        "𝜇+ 300𝜎",
-        "𝜇+300 𝜎",
-        "𝜇+3 𝜎",
-        "𝜇+300 𝜎",
-        "𝜇+0,03"
+        "3σ/(μ+3)",
+        "300σ/(μ+300)",
+        "σ/(μ+3)",
+        "σ/(μ+300)",
+        "σ/(μ+0,03)"
       ],
       "r": "C",
-      "e": "A média, ao ser somada uma constante 𝑘, a nova média também será somada dessa constante, portanto, 𝜇+ 3. Já para a variância e desvio padrão, a soma da constante não tem influência. Assim, o valor do coeficiente de variação amostral passará a ser: 𝜎 𝐶𝑉= 𝜇+ 3 Fonte: Aula 26 - Dispersão_cropped.pdf, questão 14. [Texto recuperado de artefatos de paginação; gabarito ainda sujeito a validação matemática.]",
+      "e": "A média, ao ser somada uma constante 𝑘, a nova média também será somada dessa constante, portanto, 𝜇+ 3. Já para a variância e desvio padrão, a soma da constante não tem influência. Assim, o valor do coeficiente de variação amostral passará a ser: 𝜎 𝐶𝑉= 𝜇+ 3 Fonte: Aula 26 - Dispersão_cropped.pdf, questão 14. [Texto recuperado de artefatos de paginação; gabarito ainda sujeito a validação matemática.] [Auditoria etapa 2: Alternativas matemáticas restauradas da Aula 26 - Dispersão, questão 14, p. 302.]",
       "source_number": 14
     },
     {
@@ -1838,12 +1838,12 @@
       "o": [
         "apenas a média de cada uma das variáveis",
         "apenas a variância de cada uma das variáveis",
-        "apenas o desvio padrão de cada uma das variáveis 𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜",
-        "a relação de cada uma das variáveis 𝑚é𝑑𝑖𝑎",
-        "a relação de cada uma das variáveis 𝑚é𝑑𝑖𝑎"
+        "apenas o desvio padrão de cada uma das variáveis",
+        "a relação desvio padrão / média de cada uma das variáveis",
+        "a relação desvio padrão / média² de cada uma das variáveis"
       ],
       "r": "D",
-      "e": "Vamos analisar as alternativas: Alternativa A – Errada. A média não representa uma medida de variabilidade e sim de tendência central. Alternativa B – Errada. A variância é uma medida de dispersão absoluta, para comparar variáveis diferentes costumamos usar uma medida de dispersão relativa. Alternativa C - Errada. O desvio padrão é também uma medida de dispersão absoluta. Alternativa D – Correta. Conforme já dito, o coeficiente de variação é uma medida de dispersão relativa dada por: 𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜 𝐶𝑣= 𝑚é𝑑𝑖𝑎 Alternativa E – Errada. O item está errado porque a média no denominador não está elevada ao quadrado. Fonte: Aula 26 - Dispersão_cropped.pdf, questão 35.",
+      "e": "Vamos analisar as alternativas: Alternativa A – Errada. A média não representa uma medida de variabilidade e sim de tendência central. Alternativa B – Errada. A variância é uma medida de dispersão absoluta, para comparar variáveis diferentes costumamos usar uma medida de dispersão relativa. Alternativa C - Errada. O desvio padrão é também uma medida de dispersão absoluta. Alternativa D – Correta. Conforme já dito, o coeficiente de variação é uma medida de dispersão relativa dada por: 𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜 𝐶𝑣= 𝑚é𝑑𝑖𝑎 Alternativa E – Errada. O item está errado porque a média no denominador não está elevada ao quadrado. Fonte: Aula 26 - Dispersão_cropped.pdf, questão 35. [Auditoria etapa 2: Alternativas D e E restauradas da Aula 26 - Dispersão, questão 35, p. 232, conforme comentário explicativo.]",
       "source_number": 35
     },
     {
