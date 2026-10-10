@@ -61,21 +61,6 @@
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
     },
     {
-      "id": "atamf-mat6-0005",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 00 - Estruturas Lógicas",
-      "q": "(FUNDATEC/Pref. Panambi/2020) Assinale a alternativa que corresponde à tabela-verdade abaixo. V V F V F V F V V Aula 00 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 196 F F F",
-      "o": [
-        "Condicional.",
-        "Conjunção.",
-        "Disjunção.",
-        "Disjunção exclusiva.",
-        "Bicondicional."
-      ],
-      "r": "D",
-      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
-    },
-    {
       "id": "atamf-mat6-0006",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 00 - Estruturas Lógicas",
@@ -538,7 +523,7 @@
         "Nenhuma pessoa apreendida tem 21 anos ou mais ou é do sexo masculino.",
         "Nenhuma pessoa apreendida tem 21 anos ou mais e é do sexo masculino.",
         "Pelo menos uma das pessoas apreendidas tem menos de 21 anos e é do sexo feminino.",
-        "Pelo menos uma das pessoas apreendidas tem menos de 21 anos ou é do sexo feminino. FCC"
+        "Pelo menos uma das pessoas apreendidas tem menos de 21 anos ou é do sexo feminino."
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 5.",
@@ -570,7 +555,7 @@
         "Pelo menos um aluno não veio para a aula.",
         "Quase todos os alunos faltaram.",
         "Todos os alunos faltaram à aula.",
-        "Várias pessoas estão na sala, mas nem todos são alunos. CEBRASPE"
+        "Várias pessoas estão na sala, mas nem todos são alunos."
       ],
       "r": "B",
       "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 9.",
@@ -609,22 +594,6 @@
       "source_number": 2
     },
     {
-      "id": "atamf-mat6-0041",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 02 - Diagramas Lógicos",
-      "q": "(IBADE/CRC-RO/2022) Analise o diagrama lógico abaixo: Estudantes Ansiosos João De acordo com o diagrama, é correto afirmar que:",
-      "o": [
-        "Todos os estudantes não são ansiosos.",
-        "João é um estudante ansioso.",
-        "Nenhum ansioso é também estudante.",
-        "Alguns estudantes são ansiosos.",
-        "João não é estudante, mas é ansioso."
-      ],
-      "r": "D",
-      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 3.",
-      "source_number": 3
-    },
-    {
       "id": "atamf-mat6-0042",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 02 - Diagramas Lógicos",
@@ -639,22 +608,6 @@
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 4.",
       "source_number": 4
-    },
-    {
-      "id": "atamf-mat6-0043",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 02 - Diagramas Lógicos",
-      "q": "(IBADE/CRC-RO/2022) Considere o diagrama lógico abaixo: Mineiros Gostam de Pão de Queijo Advogados A partir desse diagrama, é possível concluir que:",
-      "o": [
-        "todo advogado gosta de pão de queijo.",
-        "nem todo advogado é mineiro.",
-        "alguns mineiros não gostam de pão de queijo.",
-        "alguns advogados não são mineiros.",
-        "todo mineiro gosta de pão de queijo."
-      ],
-      "r": "C",
-      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 5.",
-      "source_number": 5
     },
     {
       "id": "atamf-mat6-0044",
@@ -730,7 +683,7 @@
         "Apenas o argumento II é válido.",
         "Apenas o argumento III é válido.",
         "Os argumentos I e II são válidos.",
-        "Os argumentos II e III são válidos. CEBRASPE"
+        "Os argumentos II e III são válidos."
       ],
       "r": "E",
       "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 3.",
@@ -806,7 +759,7 @@
       "t": "Aula 03 - Lógica de Primeira Ordem",
       "q": "(CESGRANRIO/BR/2012) Considere a seguinte afirmativa: Ser analista de sistemas é condição necessária porém não suficiente para ser engenheiro de software. Considere os predicados 𝑨(𝒙) e 𝑬(𝒙) que representam respectivamente que 𝒙 é analista de sistemas e que x é engenheiro de software. Uma representação coerente da afirmativa acima, em lógica de primeira ordem, é",
       "o": [
-        "𝐴(𝑥) →𝐸(𝑥) Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 86 93 Aula 03",
+        "𝐴(𝑥) →𝐸(𝑥)",
         "𝐴(𝑥) →¬𝐸(𝑥)",
         "¬𝐴(𝑥) →𝐸(𝑥)",
         "¬𝐸(𝑥) →¬𝐴(𝑥)",
@@ -871,7 +824,7 @@
       "q": "(CESGRANRIO/INNOVA/2012) A lógica de predicados de primeira ordem foi escolhida para representar um conjunto de restrições que um modelo de dados deve satisfazer para adequar-se a um novo sistema. Considere os predicados 𝑷(𝒗), representando que v é um pedido, 𝑰(𝒘) representando que w é um item, e 𝑪(𝒗, 𝒘) representando que w consta em v, para quaisquer variáveis v e w. Qual a fórmula que pode ser usada para representar que, em qualquer pedido, consta ao menos um item?",
       "o": [
         "∀ 𝑥 ∀(𝑃(𝑥) ∧𝐼(𝑦) ∧𝐶(𝑥, 𝑦)",
-        "∃𝑥∃𝑦 𝑃(𝑥) ∧𝐼(𝑦) ∧𝐶(𝑥, 𝑦)) Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 87 93 Aula 03",
+        "∃𝑥∃𝑦 𝑃(𝑥) ∧𝐼(𝑦) ∧𝐶(𝑥, 𝑦))",
         "∀𝑥 (𝑃(𝑥) −> ∀𝑦(𝐼(𝑦) 𝐶(𝑥, 𝑦)))",
         "∀𝑥 (𝑃(𝑥) −> ∃𝑦(𝐼(𝑦) ∧𝐶(𝑥, 𝑦)))",
         "∃𝑥(𝑃(𝑥) ∧∀𝑦(𝐼(𝑦) 𝐶(𝑥, 𝑦))) Outras Bancas"
@@ -969,7 +922,7 @@
         "2.",
         "1.",
         "0.",
-        "-1. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 96 q p g Aula 05"
+        "-1."
       ],
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 3.",
@@ -1001,27 +954,11 @@
         "2.",
         "3.",
         "4.",
-        "5. FCC"
+        "5."
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 5.",
       "source_number": 5
-    },
-    {
-      "id": "atamf-mat6-0066",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 05 - Raciocício Sequencial",
-      "q": "(FCC/TRT-23/2022) Uma sequência numérica é uma lista ordenada de números. Em algumas sequências, a obtenção dos termos segue alguma regra bem definida. Considere as duas sequências descritas a seguir: − Sequência 1: o primeiro termo é igual a 10 e qualquer outro termo, a partir do segundo, é igual ao anterior acrescido de duas unidades. − Sequência 2: o primeiro termo é igual a 1, o segundo termo é igual a 3 e qualquer outro termo, a partir do terceiro, é igual à soma dos dois termos anteriores. O menor número que aparece nas duas sequências é:",
-      "o": [
-        "14",
-        "12",
-        "20",
-        "18 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 97 q p g Aula 05",
-        "16"
-      ],
-      "r": "D",
-      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 6.",
-      "source_number": 6
     },
     {
       "id": "atamf-mat6-0067",
@@ -1056,22 +993,6 @@
       "source_number": 8
     },
     {
-      "id": "atamf-mat6-0069",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 05 - Raciocício Sequencial",
-      "q": "(FCC/SABESP/2019) Em 1655, o matemático John Wallis desenvolveu uma série infinita para o cálculo 𝝅 de 𝟐, conforme mostra a fórmula abaixo: 𝝅 𝟐 𝟐= 𝟏∙𝟐𝟑∙𝟒𝟑∙𝟒𝟓∙𝟔𝟓∙𝟔𝟕∙𝟖𝟕∙𝟖𝟗∙𝟏𝟎𝟗∙… Com os termos desse produto infinito ordenados exatamente como na fórmula, a fração na 50ª posição é: 51",
-      "o": [
-        "53 50",
-        "49 26",
-        "25 26",
-        "27 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 98 q p g Aula 05 50",
-        "51"
-      ],
-      "r": "E",
-      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 9.",
-      "source_number": 9
-    },
-    {
       "id": "atamf-mat6-0070",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 05 - Raciocício Sequencial",
@@ -1081,43 +1002,11 @@
         "330.",
         "336.",
         "324.",
-        "348. CEBRASPE"
+        "348."
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 10.",
       "source_number": 10
-    },
-    {
-      "id": "atamf-mat6-0071",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 05 - Raciocício Sequencial",
-      "q": "(FGV/CBM-AM/2022) No plano cartesiano, a partir da origem, foi construído o caminho representado abaixo, mantendo o padrão do desenho. O comprimento da parte do caminho desde o início até o ponto (49, 1) é",
-      "o": [
-        "166.",
-        "168.",
-        "170.",
-        "172.",
-        "174. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 106 q p g Aula 05"
-      ],
-      "r": "E",
-      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 2.",
-      "source_number": 2
-    },
-    {
-      "id": "atamf-mat6-0072",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 05 - Raciocício Sequencial",
-      "q": "(FGV/TJ-RO/2021) Observe a sequência de figuras a seguir. Mantendo o padrão apresentado nas figuras acima, o número de bolinhas da figura 15 é:",
-      "o": [
-        "238;",
-        "244;",
-        "258;",
-        "270; ==b3d1f==",
-        "304."
-      ],
-      "r": "D",
-      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 3.",
-      "source_number": 3
     },
     {
       "id": "atamf-mat6-0073",
@@ -1127,9 +1016,9 @@
       "o": [
         "2.",
         "4.",
-        "3. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 108 q p g Aula 05",
+        "3.",
         "6.",
-        "5. CEBRASPE"
+        "5."
       ],
       "r": "C",
       "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 7.",
@@ -1209,7 +1098,7 @@
         "U.",
         "L.",
         "N.",
-        "I. FCC"
+        "I."
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 5.",
@@ -1257,7 +1146,7 @@
         "ABB.",
         "PQ.",
         "HA.",
-        "AAC. CEBRASPE"
+        "AAC."
       ],
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 8.",
@@ -1334,7 +1223,7 @@
       "q": "(FUNDATEC/PREF. TRAMANDAÍ/2021) Considerando dois conjuntos, A e B, sendo: A = {2,4,6,8,10,12} e B = {2,4,6,8,10,12,14,16}, assinale a alternativa correta.",
       "o": [
         "O conjunto A contém o conjunto B.",
-        "O conjunto A está contido no conjunto B. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 143 172 Aula 07",
+        "O conjunto A está contido no conjunto B.",
         "O conjunto B está contido no conjunto A.",
         "O conjunto B pertence ao conjunto A."
       ],
@@ -1343,29 +1232,13 @@
       "source_number": 8
     },
     {
-      "id": "atamf-mat6-0087",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 07 - Teoria dos Conjuntos",
-      "q": "(Cebraspe/ISS - CAMAÇARI/2024) Na figura precedente, que representa quatro conjuntos identificados por A, B, C e D, a região destacada corresponde a",
-      "o": [
-        "(𝐵−𝐶) ∩𝐷.",
-        "𝐵∩𝐷.",
-        "𝐵∩𝐶∩𝐷.",
-        "(𝐵−𝐷) ∩𝐶.",
-        "𝐵– 𝐷."
-      ],
-      "r": "A",
-      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 2.",
-      "source_number": 2
-    },
-    {
       "id": "atamf-mat6-0088",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 07 - Teoria dos Conjuntos",
       "q": "(SELECON/PREF. SÃO GONÇALO/2022) Sejam A e B conjuntos definidos da seguinte maneira: A = {pessoas que moram em São Gonçalo} B= {pessoas que trabalham em Niterói} O conjunto A – (A – B) representa o conjunto cujos elementos são pessoas que:",
       "o": [
         "moram em São Gonçalo e trabalham em Niterói",
-        "moram em Niterói e trabalham em São Gonçalo Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 147 172 Aula 07",
+        "moram em Niterói e trabalham em São Gonçalo",
         "moram em São Gonçalo e não trabalham em Niterói",
         "moram em Niterói e não trabalham em São Gonçalo"
       ],
@@ -1458,10 +1331,10 @@
       "q": "(FGV/AL-MT/2013) Suponha que o valor da expressão 𝟔− 𝟐 seja um número inteiro. O valor de x é necessariamente",
       "o": [
         "positivo.",
-        "par. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 163 172 Aula 07",
+        "par.",
         "múltiplo de 3.",
         "múltiplo de 6.",
-        "múltiplo de 12. FCC"
+        "múltiplo de 12."
       ],
       "r": "C",
       "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 5.",
@@ -1532,22 +1405,6 @@
       "source_number": 9
     },
     {
-      "id": "atamf-mat6-0099",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 07 - Teoria dos Conjuntos",
-      "q": "(FCC/PREF. SANTOS/2005) Na reta numérica representada abaixo, cada unidade está dividida em 5 partes iguais. As letras indicam os pontos das extremidades de cada parte. O número irracional √𝟏𝟐− √𝟓 pode ser localizado nesta reta entre os pontos.",
-      "o": [
-        "C e D",
-        "E e F",
-        "G e H",
-        "J e L",
-        "N e P CEBRASPE"
-      ],
-      "r": "B",
-      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 10.",
-      "source_number": 10
-    },
-    {
       "id": "atamf-mat6-0100",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 08 - Operações Básicas",
@@ -1579,28 +1436,13 @@
       "source_number": 4
     },
     {
-      "id": "atamf-mat6-0102",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 08 - Operações Básicas",
-      "q": "(GUALIMP/PREF. AREAL/2020) A reta numérica abaixo está dividida em segmentos de mesma medida.: Os símbolos , e representam números inteiros positivos. Qual o resultado da expressão + - ?",
-      "o": [
-        "120",
-        "200",
-        "220",
-        "160"
-      ],
-      "r": "A",
-      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 5.",
-      "source_number": 5
-    },
-    {
       "id": "atamf-mat6-0103",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 08 - Operações Básicas",
       "q": "(METROCAPITAL/PREF. N. ODESSA/2022) A professora Fernanda escreveu no quadro a seguinte operação com os números reais: −𝟕, 𝟓 = −𝟎, 𝟐𝟓 Sobre o resultado dessa operação, podemos afirmar que:",
       "o": [
         "é um número natural.",
-        "é um número inteiro negativo. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 144 q p g Aula 08",
+        "é um número inteiro negativo.",
         "é um número racional e inteiro.",
         "é um número real, mas não racional.",
         "é um número irracional."
@@ -1608,22 +1450,6 @@
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 6.",
       "source_number": 6
-    },
-    {
-      "id": "atamf-mat6-0104",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 08 - Operações Básicas",
-      "q": "(FGV/MPE-GO/2022) Na operação de multiplicação abaixo, cada letra representa um algarismo, letras diferentes representam algarismos diferentes e C não pode ser zero. O valor de A + B + C é igual a",
-      "o": [
-        "13.",
-        "14.",
-        "15.",
-        "16.",
-        "17."
-      ],
-      "r": "C",
-      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 8.",
-      "source_number": 8
     },
     {
       "id": "atamf-mat6-0105",
@@ -2152,7 +1978,7 @@
         "291,36.",
         "293,76.",
         "294,72.",
-        "246,56. 1 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 119 149 q p g Aula 13"
+        "246,56."
       ],
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 3.",
@@ -2200,7 +2026,7 @@
         "15",
         "14",
         "13",
-        "12 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 120 149 q p g Aula 13"
+        "12"
       ],
       "r": "C",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 6.",
@@ -2221,22 +2047,6 @@
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 7.",
       "source_number": 7
-    },
-    {
-      "id": "atamf-mat6-0143",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 13 - Porcentagem",
-      "q": "(VUNESP / Pref. SP - 2024) O gráfico apresenta a distribuição do número de alunos do terceiro e do quarto anos, turmas A e B, de determinada escola. Sabendo que o número de alunos do quarto ano corresponde a 3/5 do número de alunos do terceiro ano, é correto afirmar que o número de alunos do quarto ano, turma A, corresponde, do número de alunos do terceiro ano, turma B, a:",
-      "o": [
-        "80%",
-        "60%",
-        "90%",
-        "70% 3 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 121 149 q p g Aula 13",
-        "100%"
-      ],
-      "r": "B",
-      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 8.",
-      "source_number": 8
     },
     {
       "id": "atamf-mat6-0144",
@@ -2264,7 +2074,7 @@
         "718,08",
         "1.311,00",
         "1.734,48",
-        "1.918,40 4 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 122 149 q p g Aula 13"
+        "1.918,40"
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 12.",
@@ -2312,7 +2122,7 @@
         "770",
         "784",
         "836",
-        "894 5 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 123 149 q p g Aula 13"
+        "894"
       ],
       "r": "E",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 15.",
@@ -2408,7 +2218,7 @@
         "1.666.",
         "5.000.",
         "3.000.",
-        "2.083. 8 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 126 149 q p g Aula 13"
+        "2.083."
       ],
       "r": "C",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 25.",
@@ -2440,7 +2250,7 @@
         "64",
         "30",
         "25",
-        "16 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 129 149 q p g Aula 13"
+        "16"
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 6.",
@@ -2461,22 +2271,6 @@
       "r": "E",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 7.",
       "source_number": 7
-    },
-    {
-      "id": "atamf-mat6-0158",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 13 - Porcentagem",
-      "q": "(FGV / IBGE - 2017) Moacir entrevistou os funcionários de uma empresa que foram admitidos nos últimos cinco anos e anotou o ano em que==b3d1f== cada um ingressou na empresa. O quadro abaixo mostra a marcação que Moacir fez para obter as quantidades de funcionários admitidos em cada ano a partir de 2012. Desse grupo de funcionários, a porcentagem dos que foram admitidos depois de 2014 é:",
-      "o": [
-        "30%",
-        "32%",
-        "36%",
-        "40%",
-        "45% 3 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 130 149 q p g Aula 13"
-      ],
-      "r": "D",
-      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 8.",
-      "source_number": 8
     },
     {
       "id": "atamf-mat6-0159",
@@ -2520,7 +2314,7 @@
         "entre R$ 300 e R$ 310.",
         "entre R$ 311 e R$ 340.",
         "entre R$ 341 e R$ 350.",
-        "superior a R$ 350. 1 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 132 149 q p g Aula 13"
+        "superior a R$ 350."
       ],
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 3.",
@@ -2536,7 +2330,7 @@
         "Ana ganhou R$ 4,80 a mais do que Bete.",
         "Ana e Bete tiveram ganhos iguais.",
         "Ana ganhou R$ 34,00 a mais do que Bete.",
-        "Bete ganhou R$ 34,00 a mais do que Ana. 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 133 149 q p g Aula 13"
+        "Bete ganhou R$ 34,00 a mais do que Ana."
       ],
       "r": "B",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 5.",
@@ -2584,7 +2378,7 @@
         "12,0 mg/dL inferior.",
         "6,0 mg/dL inferior.",
         "14,8 mg/dL superior.",
-        "6,0 mg/dL superior. 3 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 134 149 q p g Aula 13"
+        "6,0 mg/dL superior."
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 8.",
@@ -2712,7 +2506,7 @@
         "4,5% e 4,6%",
         "4,7% e 4,8%",
         "4,8% e 4,9%",
-        "4,9% e 5,0% 6 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 137 149 q p g Aula 13"
+        "4,9% e 5,0%"
       ],
       "r": "B",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 16.",
@@ -2760,7 +2554,7 @@
         "aumentou 1,50%.",
         "caiu 12,80%.",
         "caiu 8,72%.",
-        "caiu 4,50%. 1 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 139 149 q p g Aula 13"
+        "caiu 4,50%."
       ],
       "r": "C",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 3.",
@@ -2872,7 +2666,7 @@
         "30%",
         "42%",
         "40%",
-        "36% 4 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 142 149 q p g Aula 13"
+        "36%"
       ],
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 12.",
@@ -2918,7 +2712,7 @@
       "o": [
         "um aumento de 5%.",
         "um aumento de 12,5%.",
-        "um aumento de 15%. 1 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 144 149 q p g Aula 13",
+        "um aumento de 15%.",
         "uma redução de 13%.",
         "uma redução de 15%."
       ],
@@ -2952,7 +2746,7 @@
         "25%",
         "20%",
         "28%",
-        "18% 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 145 149 q p g Aula 13"
+        "18%"
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 6.",
@@ -3012,11 +2806,11 @@
       "t": "Aula 13 - Porcentagem",
       "q": "(FGV / Pref. Paulínia - 2016) Uma fábrica de materiais para escritório começou a produzir em janeiro de 2013. No ano de 2014 a produção da fábrica foi 20% maior que a do ano anterior e, em 2015, por causa da crise, a produção da fábrica foi 30% menor do que a do ano anterior. Em relação a 2013, a produção de 2015 foi menor em",
       "o": [
-        "10% 3 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 146 149 q p g Aula 13",
+        "10%",
         "12%",
         "14%",
         "16%",
-        "18% 4 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 147 149 q p g Aula 13"
+        "18%"
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 10.",
@@ -3080,7 +2874,7 @@
         "7.",
         "8.",
         "9.",
-        "10. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 147 www estrategiaconcursos com br 174 Aula 14"
+        "10."
       ],
       "r": "D",
       "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 4.",
@@ -3096,7 +2890,7 @@
         "82 kg;",
         "87 kg;",
         "91 kg;",
-        "95 kg. FCC ■"
+        "95 kg."
       ],
       "r": "C",
       "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 5.",
@@ -3119,22 +2913,6 @@
       "source_number": 7
     },
     {
-      "id": "atamf-mat6-0199",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 14 - Equação de Primeiro Grau",
-      "q": "(FCC/TRT-4/2022) Uma balsa pode transportar, no máximo, ou 10 carros pequenos ou 6 caminhonetes em uma viagem. O balseiro nunca mistura carros pequenos com caminhonetes em uma mesma viagem e só faz a travessia com a capacidade máxima de sua balsa. Em um determinado dia fez 5 viagens e transportou ao todo 42 veículos. O número de caminhonetes transportadas nesse dia foi",
-      "o": [
-        "24",
-        "12",
-        "30",
-        "18",
-        "36 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 148 www estrategiaconcursos com br 174 Aula 14"
-      ],
-      "r": "B",
-      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 8.",
-      "source_number": 8
-    },
-    {
       "id": "atamf-mat6-0200",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 14 - Equação de Primeiro Grau",
@@ -3144,7 +2922,7 @@
         "24.",
         "18.",
         "20.",
-        "16. CEBRASPE"
+        "16."
       ],
       "r": "B",
       "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 10.",
@@ -3181,22 +2959,6 @@
       "r": "E",
       "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 3.",
       "source_number": 3
-    },
-    {
-      "id": "atamf-mat6-0203",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 14 - Equação de Primeiro Grau",
-      "q": "(FGV/PREF. SP/2023) Sabe-se que a soma dos cubos das raízes da equação 𝒙𝟐+ 𝒎𝒙+ 𝒏= 𝟎, onde m e n são reais, é 63. É correto afirmar que 𝒏 é igual a:",
-      "o": [
-        "𝑚2 + 63 𝑚2 63",
-        "+ 2 𝑚 𝑚2 21",
-        "+ 3 𝑚 𝑚3",
-        "+ 63 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 156 www estrategiaconcursos com br 174 Aula 14 𝑚3",
-        "+ 21 3"
-      ],
-      "r": "C",
-      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 4.",
-      "source_number": 4
     },
     {
       "id": "atamf-mat6-0204",
@@ -3256,7 +3018,7 @@
         "uma raiz igual ao dobro da outra.",
         "uma raiz igual à metade da outra.",
         "uma raiz igual ao triplo da outra.",
-        "uma raiz igual à terça parte da outra. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 157 www estrategiaconcursos com br 174 Aula 14"
+        "uma raiz igual à terça parte da outra."
       ],
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 9.",
@@ -3340,22 +3102,6 @@
       "r": "B",
       "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 3.",
       "source_number": 3
-    },
-    {
-      "id": "atamf-mat6-0213",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 14 - Equação de Primeiro Grau",
-      "q": "(IDECAN/CBM-ES/2022) Considerando 𝒙∈ℝ, determine o conjunto solução para a seguinte inequação do segundo grau. −𝟐𝒙𝟐+ 𝟑𝒙+ 𝟐≥𝟎 1",
-      "o": [
-        "𝑆= {𝑥∈ℝ | − ≤𝑥≤2} 2",
-        "𝑆= {𝑥∈ℝ | 𝑥≤2} 1",
-        "𝑆= {𝑥∈ℝ |𝑥≥− 2}",
-        "𝑆= {𝑥∈ℝ |0 ≤𝑥≤2} Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 168 www estrategiaconcursos com br 174 Aula 14 1",
-        "𝑆= {𝑥∈ℝ | − ≤𝑥≤0} 2"
-      ],
-      "r": "A",
-      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 4.",
-      "source_number": 4
     },
     {
       "id": "atamf-mat6-0214",
