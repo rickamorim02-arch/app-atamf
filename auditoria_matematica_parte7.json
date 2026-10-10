@@ -203,5 +203,30 @@
     }
   ],
   "scope": "Auditoria automatizada estrutural, sem certificação de gabaritos",
-  "date": "2026-10-10"
+  "date": "2026-10-10",
+  "followup": {
+    "validated": [
+      {
+        "id": "atamf-mat7-0031",
+        "answer": "B",
+        "proof": "Receita R(x)=x[660+30(70−x)]=−30x²+2760x. O vértice ocorre em x=−2760/(2×−30)=46 alunos. O resto de 46 por 5 é 1. Resposta: B."
+      }
+    ],
+    "quarantined": [
+      {
+        "id": "atamf-mat7-0168",
+        "reason": "Alternativas com frações corrompidas pela extração do PDF; resultado matemático calculável, mas letras não confiáveis",
+        "question": "(CESGRANRIO/LIQUIGÁS/2018) Uma amostra (𝒙𝟏, 𝒙𝟐, . . . , 𝒙𝟏𝟎) de tamanho 10 de uma população nos forneceu os seguintes valores 𝟏𝟎 𝟏𝟎 ∑𝒙𝒊= 𝟐𝟎 𝒆 ∑𝒙𝒊𝟐= 𝟏𝟒𝟎 . 𝒊=𝟏 𝒊=𝟏 Qual o valor do coeficiente de variação amostral? 7",
+        "options": [
+          "20 5",
+          "3 1",
+          "7 1",
+          "6",
+          "6"
+        ]
+      }
+    ],
+    "currentCount": 211,
+    "notice": "Conferência matemática integral ainda não concluída; não confundir verificação de estrutura com validação dos 211 gabaritos."
+  }
 }
