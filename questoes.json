@@ -727,6 +727,42 @@
       "id": "atamf-original-etica-006",
       "s": "Ética no Serviço Público",
       "t": "Questão original da apostila • Decreto 1.171/1994"
+    },
+    {
+      "id": "atamf-regime-original-0001",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Improbidade administrativa — questão original",
+      "q": "Constitui ato de improbidade administrativa caracterizado como enriquecimento ilícito auferir, seja de forma dolosa, seja de forma culposa, qualquer tipo de vantagem patrimonial indevida em razão do exercício de cargo público.",
+      "o": [
+        "Certo",
+        "Errado"
+      ],
+      "r": "B",
+      "e": "A Lei 8.429/1992, após a reforma de 2021, exige dolo; a modalidade culposa não basta. Aula 00 — Improbidade, p. 157, questão 1 (Cebraspe/Câmara dos Deputados 2026)."
+    },
+    {
+      "id": "atamf-regime-original-0002",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Improbidade administrativa — questão original",
+      "q": "Constitui ato de improbidade administrativa que causa lesão ao erário a conduta de auferir, mediante a prática de ato doloso ou culposo, qualquer tipo de vantagem patrimonial indevida em razão do exercício de cargo, mandato, função ou emprego em entidade pública.",
+      "o": [
+        "Certo",
+        "Errado"
+      ],
+      "r": "B",
+      "e": "A questão mistura enriquecimento ilícito do art. 9º com lesão ao erário e admite culpa, que não configura improbidade. Aula 00 — Improbidade, p. 157, questão 2 (Cebraspe/IBAMA 2025)."
+    },
+    {
+      "id": "atamf-regime-original-0003",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Improbidade administrativa — questão original",
+      "q": "A Lei de Improbidade Administrativa não é aplicável aos agentes políticos.",
+      "o": [
+        "Certo",
+        "Errado"
+      ],
+      "r": "B",
+      "e": "O art. 2º inclui agentes políticos no conceito de agentes públicos, ressalvadas particularidades jurisprudenciais. Aula 00 — Improbidade, p. 158, questão 5 (Cebraspe/INSA 2025)."
     }
   ]
 }
