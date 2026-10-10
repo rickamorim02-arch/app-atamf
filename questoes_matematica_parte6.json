@@ -1,0 +1,3377 @@
+{
+  "questions": [
+    {
+      "id": "atamf-mat6-0001",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 00 - Estruturas Lógicas",
+      "q": "(Pref SJ Basílios/2023) Assinale a assertiva representada pelo princípio que afirma que uma proposição não pode ser verdadeira e falsa ao mesmo tempo.",
+      "o": [
+        "Princípio do terceiro excluído.",
+        "Princípio da identidade.",
+        "Princípio da não contradição.",
+        "Princípio da ambiguidade.",
+        "Princípio da contagem. Comentários: Segundo o princípio da não contradição, uma proposição não pode ser verdadeira e falsa ao mesmo tempo."
+      ],
+      "r": "C",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0002",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 00 - Estruturas Lógicas",
+      "q": "(FUNDATEC/Pref Criciúma/2024) A negação da proposição “Kris estudou Português para o concurso” é:",
+      "o": [
+        "Talvez Kris tenha estudado Português para o concurso.",
+        "Kris não estudou Português para o concurso.",
+        "Pode ser que Kris não tenha estudado Português para o concurso.",
+        "Talvez Kris não tenha estudado Português para o concurso.",
+        "Kris estudou Português, mas não para o concurso. Comentários: Para se negar uma proposição simples, a maneira mais comum consiste em inserir um “não” antes do verbo. Logo, a negação da proposição “Kris estudou Português para o concurso” é: “Kris não estudou Português para o concurso”"
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0003",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 00 - Estruturas Lógicas",
+      "q": "(FUNDATEC/Pref Panambi/2020) A negação da seguinte proposição simples: “Panambi não é uma cidade de colonização alemã” é:",
+      "o": [
+        "Panambi é uma cidade de colonização italiana.",
+        "Panambi é uma cidade de colonização holandesa.",
+        "Panambi é uma cidade de colonização alemã.",
+        "Os alemães não participaram da colonização da cidade.",
+        "Os alemães contribuíram no processo de colonização da cidade. Comentários: Note que a proposição simples apresentada é uma sentença declarativa negativa: p: “Panambi não é uma cidade de colonização alemã.” Para negar a proposição em questão, basta remover o \"não\": p: “Panambi é uma cidade de colonização alemã.”"
+      ],
+      "r": "C",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0004",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 00 - Estruturas Lógicas",
+      "q": "(IDECAN/IBGE/2022) Na proposição “Se estudo Matemática, então aprendo sobre a vida”, qual alternativa representa sua correta simbologia?",
+      "o": [
+        "p→q",
+        "p ∨ q",
+        "p ∧ q",
+        "p  q",
+        "p v q  r Comentários: Considere as seguintes proposições simples: p: \"Estudo matemática.\" q: \"Aprendo sobre a vida.\" Note que a proposição do enunciado apresenta o conectivo \"Se... então\". Assim, podemos representar essa proposição composta como um condicional da forma p→q. p→q: “Se [estudo Matemática], então [aprendo sobre a vida].”"
+      ],
+      "r": "A",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0005",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 00 - Estruturas Lógicas",
+      "q": "(FUNDATEC/Pref. Panambi/2020) Assinale a alternativa que corresponde à tabela-verdade abaixo. V V F V F V F V V Aula 00 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 196 F F F",
+      "o": [
+        "Condicional.",
+        "Conjunção.",
+        "Disjunção.",
+        "Disjunção exclusiva.",
+        "Bicondicional. Comentários: Note que a tabela-verdade apresenta o caso em que a proposição composta é falsa somente quando ambas as proposições simples tiverem o mesmo valor. Trata-se da disjunção exclusiva."
+      ],
+      "r": "D",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0006",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 00 - Estruturas Lógicas",
+      "q": "(Instituto AOCP/Pref V Conquista/2023) Comumente observam-se algumas divergências entre o sentido dos conectivos para a lógica e para a língua portuguesa. É o caso do conectivo “OU”, por exemplo, que é empregado usualmente na língua portuguesa como indicativo para uma escolha enquanto a lógica utilizaria o “OU ... OU ...” para o mesmo fim. Observe os dizeres de um cartaz informativo no caixa de uma loja varejista: “PAGUE COM PIX E GANHE DESCONTO” Nesse caso, apesar do emprego do conectivo “E”, o sentido está associado a uma expressão condicional. Assim, assinale a alternativa que apresenta a reescrita do cartaz em uma estrutura condicional, mantendo o sentido pretendido.",
+      "o": [
+        "Ganhou desconto e pagou com PIX.",
+        "Ganhou desconto ou pagou com PIX.",
+        "Ou ganhou desconto ou pagou com PIX.",
+        "Só será aceito o pagamento se for com PIX.",
+        "Se pagar com PIX, então ganhará desconto. Comentários: Segundo o enunciado, os dizeres “Pague com Pix e ganhe desconto” apresenta o sentido de uma condicional, que costuma ser expressa por meio do conectivo “se...então”. Logo, a frase pode ser reescrita do seguinte modo: “Se [pagar com PIX], então [ganhará desconto].”"
+      ],
+      "r": "E",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0007",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 00 - Estruturas Lógicas",
+      "q": "(FCC/TRE SP/2017) Considere que uma expressão lógica envolva candidato (C), cargo político (P), votos (V) e ganhador (G). Para avaliar se uma dada expressão é verdadeira ou não, um Técnico deve usar uma Tabela da Verdade, que contém uma lista exaustiva de situações possíveis envolvendo as 4 variáveis. A Tabela da Verdade deve ter 4 colunas e",
+      "o": [
+        "8 linhas.",
+        "16 linhas.",
+        "4 linhas.",
+        "32 linhas.",
+        "64 linhas. Comentários: Deve-se entender que o enunciado apresenta uma situação de uma proposição composta formada por quatro proposições simples distintas. Sabemos que o número de linhas da tabela-verdade é 2n, sendo n o número de proposições simples distintas. Para o nosso caso, temos n = 4. Logo, o número de linhas é 24 = 16."
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0008",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 01 - Esquivalências Lógicas",
+      "q": "(FCC/IBMEC/2019) Dadas duas proposições lógicas P e Q, então a negação da sentença P ∧ Q é equivalente a",
+      "o": [
+        "(- P) ∨ (- Q)",
+        "(- P) ∧ (- Q)",
+        "- (P ∨ Q)",
+        "(- P) ∧ Q",
+        "P ∧ (- Q) Comentários: Originalmente, temos a conjunção de P com Q: P∧Q. Para negar uma conjunção, devemos utilizar De Morgan: negam-se as duas proposições e troca-se o \"e\" pelo \"ou\". Logo: ~(P∧Q) ≡ ~P ∨ ~Q"
+      ],
+      "r": "A",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 01 - Esquivalências Lógicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0009",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 04 - Lógica de Argumentação",
+      "q": "(Pref. Limoeiro de Anadia/2013) A afirmação “Um ________ pode ser representado de forma simbólica por P1&P2&P3&...& Pn→Q, onde P1, P2, ... Pn são denominados ________ e Q é denominada ________ do argumento.”",
+      "o": [
+        "Predicado; Hipóteses; Premissa.",
+        "Argumento Dedutivo; Premissas; Hipótese.",
+        "Argumento Indutivo; Variáveis; Conclusão.",
+        "Argumento Válido; Premissas; Hipótese.",
+        "Argumento Dedutivo; Premissas; Conclusão. Comentários: Trata-se de um argumento dedutivo em que P1; P2 ; ...; P3 são as premissas ou hipóteses e Q é a conclusão. Observação: lembre-se de que o conectivo \"&\" é uma conjunção, que poderia ter sido representada por \"∧\"."
+      ],
+      "r": "E",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 04 - Lógica de Argumentação_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0010",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(PREF. TURILÂNDIA/2024) Realizando a decomposição de um número de um número, encontramos 10000 + 900 + 70 + 3. O número decomposto foi:",
+      "o": [
+        "10970",
+        "10973",
+        "10993",
+        "19703",
+        "19790 Comentários: Pessoal, nessa questão, para encontrarmos o número decomposto, devemos realizar a soma indicada."
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 08 - Operações Básicas_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0011",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 09 - Potências de Dez",
+      "q": "(VUNESP/Pref. Sorocaba/2006) Escrevendo-se por extenso o resultado da expressão 2,5 × 104, tem- se:",
+      "o": [
+        "duzentos e cinquenta.",
+        "vinte e cinco mil.",
+        "duzentos e cinquenta mil.",
+        "vinte e cinco milhões.",
+        "duzentos e cinquenta milhões. Comentários: Para desenvolver 2,5 × 104, a vírgula entre o 2 e o 5 deve \"andar quatro casas\". Isso significa que: 2,5 × 104 = 25.000 Temos, portanto, vinte e cinco mil."
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0012",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 09 - Potências de Dez",
+      "q": "(AOCP/IPE Prev/2022) Em uma empresa estatal, constatou-se que, no último ano, foi consumido o equivalente a 1.200 xícaras de café, sendo que cada uma dessas xícaras é equivalente a 100 mL de café. Dessa forma, o número que representa a quantidade de café consumida nessa empresa no último ano, em litros, é",
+      "o": [
+        "150.",
+        "100.",
+        "135.",
+        "170.",
+        "120. Comentários: O total de ml de café consumidos é: 1.200 xícaras × 100mL/xícara = 120.000 ml Para converter ml para l, devemos realizar três avanços para a esquerda. Logo: 120.000mL = 120.000 × 10−1 × 10−1 × 10−1 l = 120.000 × 10−3 l = 120 l"
+      ],
+      "r": "E",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0013",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 09 - Potências de Dez",
+      "q": "(CESPE/CBM PA/2024) Uma equipe de bombeiros realiza determinado procedimento em 50 minutos. Se um treinamento for realizado para que esse tempo seja diminuído em 0,2 hora, então o tempo máximo que se deseja obter na realização desse procedimento após o treinamento será de",
+      "o": [
+        "12 minutos.",
+        "30 minutos.",
+        "38 minutos.",
+        "40 minutos.",
+        "48 minutos. Comentários: Após um treinamento, deseja-se que o tempo do procedimento seja reduzido em 0,2h. Como 1h = 60min, a redução desejada é: 0,2 × 60min = 𝟏𝟐 𝐦𝐢𝐧 Como o procedimento era realizado em 50min, o tempo que se deseja obter para a realização do procedimento é: 50min −12min = 38min"
+      ],
+      "r": "C",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0014",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 09 - Potências de Dez",
+      "q": "(CESPE/CPRM/2016) A represa X, que abastece de água determinada cidade, tem capacidade para 480 milhões de metros cúbicos de água. A capacidade da represa X é de",
+      "o": [
+        "4.800 km³.",
+        "0,48 km³.",
+        "4,8 km³.",
+        "48 km³.",
+        "480 km³. Comentários: A capacidade informada é de 480.000.000 m3. Devemos transformar essa capacidade km3. Para converter m3 para km3, devemos realizar três avanços para a esquerda. Logo: 480.000.000 m3 = 480.000.000 × 10−3 × 10−3 × 10−3 km3 = 480.000.000 × (10−3)3 km3 = 480.000.000 × 10−9 km3 0,48 km3"
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0015",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 09 - Potências de Dez",
+      "q": "(FCC/TRT 23/2022) Uma apresentação musical com duração de uma hora e meia foi transmitida ao vivo de Lisboa e começou às 21 horas, horário local. Se o horário de Lisboa está adiantado 4 horas em relação a São Paulo, a apresentação terminou, no horário de São Paulo, às",
+      "o": [
+        "00h30min",
+        "2h30min",
+        "14h30min",
+        "19h30min",
+        "18h30min Comentários: Note que, como o horário de Lisboa está adiantado em 4 horas em relação a São Paulo, a apresentação, que começou às 21h do horário de Lisboa, começou às 21h−4h = 17h do horário de São Paulo. Como a apresentação musical teve duração de 1h30min, a apresentação terminou, no horário de São Paulo, às 17h + 1h30min= 18h30min."
+      ],
+      "r": "E",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0016",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(Pref. Sananduva/2020) O número romano XXXVIII escrito no sistema de numeração decimal é:",
+      "o": [
+        "37.",
+        "38.",
+        "39.",
+        "40.",
+        "41. Comentários: Um algarismo menor à direita deve ser somado. XXX corresponde a 10 + 10 + 10 = 30 e VIII corresponde a 5 + 3 = 8. Devemos tratar XXXVI como [XXX][VIII]. Temos, portanto, 30 + 8 = 38."
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0017",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(Pref. N Horizonte/2019) Recentemente comemoramos a passagem da Sexta-feira Santa, ou a Paixão de Cristo. Segundo a história, Jesus foi crucificado e morto aos 33 anos de idade pelos romanos. Assinale a alternativa que indica, em numeração romana, a idade de Cristo ao morrer.",
+      "o": [
+        "XXLIII.",
+        "XXXIIV.",
+        "XXXIII.",
+        "LLLXXX.",
+        "XXLCIII. Comentários: Podemos representar 30 por XXX e 3 por III. Logo, 33 é dado por XXXIII."
+      ],
+      "r": "C",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0018",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(Pref. Angra/2015) A sequência binária 1011101, quando convertida para um número decimal, irá ser representada por",
+      "o": [
+        "135.",
+        "93.",
+        "32.",
+        "256.",
+        "22. Comentários: Observe abaixo a correlação entre os algarismos do número binário e as potências de 2. Temos, então: 𝟏× 26 + 𝟎× 25 + 𝟏× 24 + 𝟏× 23 + 𝟏× 22 + 𝟎× 21 + 𝟏× 20 = 64 + 0 + 16 + 8 + 4 + 0 + 1 = 93 Logo, o número binário 10111012 corresponde a 93 em base 10."
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0019",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(VUNESP/Pref. Marataízes/2014) Considere o número 42315 do nosso sistema decimal de numeração. Nesse caso, é correto afirmar que",
+      "o": [
+        "4 indica a quantidade máxima de dezenas de milhar que esse número tem.",
+        "2 indica a quantidade máxima de unidades de milhar que esse número tem.",
+        "3 indica a quantidade máxima de centenas que esse número tem.",
+        "1 indica a quantidade máxima de dezenas que esse número tem.",
+        "5 indica a quantidade máxima de unidades que esse número tem. Comentários: Temos as seguintes ordens para os dígitos do número 42315: Logo, o dígito 4 indica a quantidade máxima de dezenas de milhar que esse número tem."
+      ],
+      "r": "A",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0020",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(CESGRANRIO/TCE-RO/2007) No sistema binário de numeração, só se utilizam os algarismos 0 e 1. Os números naturais, normalmente representados na base decimal, podem ser também escritos na base binária como mostrado: De acordo com esse padrão lógico, o número 15 na base decimal, ao ser representado na base binária, corresponderá a:",
+      "o": [
+        "1000",
+        "1010",
+        "1100",
+        "1111",
+        "10000 Comentários: Para transformar um número inteiro decimal em binário, podemos aplicar o método das divisões sucessivas. Logo, 15(10) = 1111(2)."
+      ],
+      "r": "D",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0021",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(Instituto AOCP/Pref. Angra/2015) A sequência binária 1011101, quando convertida para um número decimal, irá ser representada por",
+      "o": [
+        "135.",
+        "93.",
+        "32.",
+        "256.",
+        "22. Comentários: Para transformar o número binário para o sistema decimal, podemos transformá-lo em uma soma de potências de base 2. Para o número 1011101, temos: 𝟏× 26 + 𝟎× 25 + 𝟏× 24 + 𝟏× 23 + 𝟏× 22 + 𝟎× 21 + 𝟏× 20 = 64 + 0 + 16 + 8 + 4 + 0 + 1 = 83"
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0022",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(Instituto AOCP/Pref. Angra/2015) A conversão do número decimal 25 para sua forma binária resultará em",
+      "o": [
+        "10101.",
+        "11101.",
+        "11001.",
+        "11011.",
+        "11110. Comentários: Para transformar um número inteiro decimal em binário, podemos aplicar o método das divisões sucessivas. Logo, 25(10) = 11001(2)."
+      ],
+      "r": "C",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0023",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(FCC/TCE-SP/2008) O número 1001011, do sistema binário de numeração, no sistema decimal de numeração equivale a um número x tal que",
+      "o": [
+        "0 < x < 26",
+        "25 < x < 51",
+        "50 < x < 75",
+        "74 < x < 100",
+        "x > 99 Comentários: Para converter o número binário para o sistema decimal, podemos transformá-lo em uma soma de potências de base 2. Para o número 1001011, temos: 𝟏× 26 + 𝟎× 25 + 𝟎× 24 + 𝟏× 23 + 𝟎× 22 + 𝟏× 21 + 𝟏× 20 = 64 + 8 + 2 + 1 = 75 Logo, 𝑥 está entre 74 e 100."
+      ],
+      "r": "D",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0024",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(FCC/MPU/2006) O número decimal 157, quando expresso em binário, é igual a",
+      "o": [
+        "01111001",
+        "11001100",
+        "10011101",
+        "11011001",
+        "11001101 Comentários: Para transformar um número inteiro decimal em binário, podemos aplicar o método das divisões sucessivas. Logo, 157(10) = 10011101(2)."
+      ],
+      "r": "C",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0025",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 10 - Sistema Decimal",
+      "q": "(FUNDATEC/Pref Candelária/2022) Analise as assertivas a seguir e assinale a alternativa que apresenta apenas números primos.",
+      "o": [
+        "1, 2, 3, 5 e 8.",
+        "4, 7, 11, 33 e 45.",
+        "1, 3, 5, 18 e 31.",
+        "2, 5, 7, 9 e 17.",
+        "2, 7, 11, 19 e 23. Comentários: Conforme mostrado na teoria da aula, os números a seguir são os números primos até 47. São esses primos que você precisa decorar: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 Logo, a alternativa que apresenta apenas número primos é a letra E: 2, 7, 11, 19 e 23."
+      ],
+      "r": "E",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0026",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 11 - Frações",
+      "q": "(Pref. Sto. Augusto/2020) Ao simplificar a fração 12 36 obtém-se:",
+      "o": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "1/4",
+        "1/5 Comentários: Podemos representar o denominador da fração como 3×12 12 36 = 𝟏𝟐 3 × 𝟏𝟐 Simplificando o número 12, obtém-se: 12 36 = 1 3"
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0027",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 11 - Frações",
+      "q": "(Pref. SJC/2019) Duas grandezas y e x, diretamente proporcionais, são representadas, graficamente, por uma função cuja expressão algébrica é:",
+      "o": [
+        "𝑦 = 𝑎𝑥2 + 𝑏𝑥 + 𝑐, com a, b e c reais e 𝑎 · 𝑏 · 𝑐 ≠ 0",
+        "𝑦 = 𝑎𝑥2 + 𝑏𝑥, com a e b reais e 𝑎 · 𝑏 ≠ 0",
+        "𝑦 = 𝑎𝑥2, com 𝑎 ≠ 0, real",
+        "𝑦 = 𝑎𝑥 + 𝑏, com a e b reais e 𝑎 · 𝑏 ≠ 0",
+        "𝑦 = 𝑎𝑥, com 𝑎 ≠ 0, real Comentários: Duas grandezas diretamente proporcionais podem ser representadas graficamente por uma reta que passa pela origem do plano cartesiano. Assim, as grandezas 𝑦 e 𝑥 podem ser relacionadas pela função 𝑦= 𝑎𝑥, com 𝑎 diferente de zero. Nesse caso, 𝑎 é a constante de proporcionalidade 𝑘."
+      ],
+      "r": "E",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0028",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 11 - Frações",
+      "q": "(QUADRIX/Pref Alto P de Goiás/2023) Em um supermercado de Alto Paraíso-GO, uma peça inteira de queijo muçarela pesa 4,8 kg. Um comprador levou para casa um pedaço de queijo equivalente a 𝟑 𝟖 do peso total da peça. Assinale a alternativa que apresenta o peso do pedaço de queijo que o comprador levou para casa.",
+      "o": [
+        "1,2 kg",
+        "1,8 kg",
+        "3 kg",
+        "3,6 kg",
+        "4,2 kg Comentários: O comprador levou para casa um pedaço de queijo equivalente a 3 8 do peso total, que é 4,8kg. Portanto, o comprador levou para casa: 3 8 𝐝𝐞 4,8 = 3 8 × 4,8 = 3 × 4,8 8 = 3 × 0,6 = 1,8 kg"
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0029",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 11 - Frações",
+      "q": "(CESGRANRIO/LIQUIGÁS/2018) Colocar uma barra sobre o período é uma das formas de representar uma dízima periódica: 𝟎, 𝟑̅ = 𝟎, 𝟑𝟑𝟑… A expressão 𝟎, 𝟒̅ + 𝟎, 𝟏𝟔̅ é igual a:",
+      "o": [
+        "51 100",
+        "511 1000",
+        "11 18",
+        "14 15",
+        "5 9 Comentários: Vamos realizar a soma, separando o período de 0,16̅ do restante do número: 0, 4̅ + 0,16̅ = 4 9 + 0,1 + 0,06̅ = 4 9 + 0,1 + 1 10 × 0, 6̅ = 4 9 + 1 10 + 1 10 × 6 9 = 4 9 + 1 10 + 6 90 = 40 + 9 + 6 90 = 55 90 = 11 18"
+      ],
+      "r": "C",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0030",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 11 - Frações",
+      "q": "(Instituto AOCP/Pref Pinhais/2022) O número de cestas básicas arrecadadas nos quatro primeiros meses do ano de 2022, foi 12, 20, x e 30. Se esses números formam, nessa ordem, uma proporção, o valor de x é",
+      "o": [
+        "16.",
+        "18.",
+        "22.",
+        "24.",
+        "27. Comentários: Como 12, 20, 𝑥 e 30 formam uma proporção, temos: 12 20 = 𝑥 30 Realizando a multiplicação cruzada, temos: 12 × 30 = 𝑥× 20 360 = 20𝑥 20𝑥= 360 𝑥= 360 20 𝑥= 18"
+      ],
+      "r": "B",
+      "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
+    },
+    {
+      "id": "atamf-mat6-0031",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(INAZ/CORE-SP/2019 - adaptada) Qual das sentenças abaixo é uma sentença aberta?",
+      "o": [
+        "5+4=8.",
+        "O jogo foi bom.",
+        "Pelé é considerado o rei do futebol no Brasil.",
+        "2 + x = 10 para x = 8."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0032",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FGV/CM-SP/2024) Considere a afirmação referente aos candidatos de um concurso: “Todo candidato possui curso superior ou 5 anos de experiência”. A negação lógica dessa sentença é:",
+      "o": [
+        "Todo candidato não possui curso superior ou não possui 5 anos de experiência.",
+        "Todo candidato não possui curso superior e não possui 5 anos de experiência.",
+        "Há candidato que não possui curso superior ou não possui 5 anos de experiência.",
+        "Há candidato que possui curso superior, mas não possui 5 anos de experiência.",
+        "Há candidato que não possui curso superior e não possui 5 anos de experiência."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0033",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FGV/ALE-TO/2024) Considere a seguinte proposição condicional: Se todos os alunos da Escola Aristarco gostam de matemática, então, ao menos um deles ganha medalha na Olimpíada Nacional de Matemática. Se essa proposição é verdadeira, é correto afirmar que",
+      "o": [
+        "se nenhum dos alunos da Escola Aristarco gosta de Matemática, então nenhum deles ganha medalha na Olimpíada Nacional de Matemática.",
+        "se todos os alunos da Escola Aristarco ganham medalha na Olimpíada Nacional de Matemática, então, todos esses alunos gostam de Matemática.",
+        "se algum aluno da Escola Aristarco ganha medalha na Olimpíada Nacional de Matemática, então todos esses alunos gostam de Matemática.",
+        "se nenhum aluno da Escola Aristarco ganha medalha na Olimpíada Nacional de Matemática, então nenhum desses alunos gosta de Matemática.",
+        "se nenhum aluno da Escola Aristarco ganha medalha na Olimpíada Nacional de Matemática, então algum desses alunos não gosta de Matemática."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0034",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FGV/TCE-BA/2023) O entrevistador da PNAD (Pesquisa Nacional por Amostra de Domicílios) está fazendo a entrevista com o sr. João: Entrevistador: Quantos filhos maiores de 18 anos o senhor tem? Sr. João: Três. Entrevistador: Todos trabalham? Sr. João: Não. A partir do diálogo acima é correto concluir que:",
+      "o": [
+        "nenhum dos filhos de João trabalha;",
+        "os três filhos de João estudam;",
+        "pelo menos um filho de João estuda; Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 109 Aula 02",
+        "pelo menos um filho de João não trabalha;",
+        "apenas um filho de João não trabalha."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0035",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FGV/AGENERSA/2023) Três candidatos candidataram-se para o preenchimento de uma vaga em certo cargo de uma empresa. No processo de seleção, um diretor afirmou: “Todos os candidatos têm mais de 25 anos.” Considerando que essa afirmação é falsa, é correto concluir que",
+      "o": [
+        "Um dos candidatos tem 25 anos.",
+        "Todos os candidatos têm menos de 25 anos.",
+        "Todos os candidatos têm 25 anos ou menos.",
+        "Exatamente um candidato tem 25 anos ou menos.",
+        "Pelo menos um candidato tem 25 anos ou menos."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0036",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FGV/PM-SP/2023) Considere a seguinte afirmação: “Todas as pessoas apreendidas têm 21 anos ou mais e são do sexo masculino.” A negação dessa afirmação é:",
+      "o": [
+        "Nenhuma pessoa apreendida tem 21 anos ou mais ou é do sexo masculino.",
+        "Nenhuma pessoa apreendida tem 21 anos ou mais e é do sexo masculino.",
+        "Pelo menos uma das pessoas apreendidas tem menos de 21 anos e é do sexo feminino.",
+        "Pelo menos uma das pessoas apreendidas tem menos de 21 anos ou é do sexo feminino. FCC"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0037",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FCC/SEFAZ-SC/2021) Em um processo de licitação para o fornecimento de um sistema de informática a uma secretaria estadual, todas as empresas inscritas tiveram de submeter seus sistemas a diversos testes de desempenho. Em um desses testes, a condição para aprovação de um sistema era a seguinte: Todos os usuários da secretaria devem conseguir acessar o sistema e nenhum deles deve receber uma mensagem de erro ao enviar um e-mail. Sabe-se que o sistema da empresa X não foi aprovado nesse teste. Assim, é correto concluir que durante o teste do sistema dessa empresa, necessariamente,",
+      "o": [
+        "nenhum usuário da secretaria conseguiu acessar o sistema ou todos os usuários da secretaria receberam uma mensagem de erro ao enviar um e-mail.",
+        "todos os usuários da secretaria que conseguiram acessar o sistema receberam uma mensagem de erro ao enviar um e-mail.",
+        "pelo menos um usuário da secretaria não conseguiu acessar o sistema ou algum deles recebeu uma mensagem de erro ao enviar um e-mail. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 110 Aula 02",
+        "algum usuário da secretaria não conseguiu acessar o sistema e pelo menos um dos que conseguiram acessar recebeu uma mensagem de erro ao enviar um e-mail.",
+        "um grupo de usuários da secretaria não conseguiu acessar o sistema e, dentre os que conseguiram, ao menos um recebeu uma mensagem de erro ao enviar um e-mail."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0038",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FCC/SABESP/2018) A negação lógica da afirmação: \"Todos alunos vieram para a aula\", está contida na alternativa:",
+      "o": [
+        "A sala está cheia de alunos.",
+        "Pelo menos um aluno não veio para a aula.",
+        "Quase todos os alunos faltaram.",
+        "Todos os alunos faltaram à aula.",
+        "Várias pessoas estão na sala, mas nem todos são alunos. CEBRASPE"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0039",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FUNDATEC/SEPOG-RS/2022) Considerando que são verdadeiras as seguintes afirmações: - Existem administradores que são contadores. - Todos contadores são bons em matemática. É possível concluir que:",
+      "o": [
+        "Todos os administradores são bons em matemática.",
+        "Todos que são bons em matemática são administradores.",
+        "Nenhum contador é administrador.",
+        "Existem administradores bons em matemática.",
+        "Existem contadores que não são bons em matemática."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0040",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FEPESE/CINCATARINA/2022) Sobre um grupo de pessoas sabemos que é verdade que “Algumas das pessoas altas são ricas” e que “Nenhuma pessoa magra é rica”. Portanto, é necessariamente verdadeiro que:",
+      "o": [
+        "Nenhuma pessoa alta é magra.",
+        "Nenhuma pessoa magra é alta.",
+        "Alguma pessoa magra é alta.",
+        "Alguma pessoa alta é magra.",
+        "Alguma pessoa alta não é magra."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0041",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(IBADE/CRC-RO/2022) Analise o diagrama lógico abaixo: Estudantes Ansiosos João De acordo com o diagrama, é correto afirmar que:",
+      "o": [
+        "Todos os estudantes não são ansiosos.",
+        "João é um estudante ansioso. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 118 Aula 02",
+        "Nenhum ansioso é também estudante.",
+        "Alguns estudantes são ansiosos.",
+        "João não é estudante, mas é ansioso."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0042",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(IDECAN/IBGE/2022) Sabendo-se que toda pessoa que estuda matemática aprende sobre a vida e consegue tirar notas boas em concursos, é possível afirmar que:",
+      "o": [
+        "Existe alguém que estuda matemática e não aprende sobra a vida.",
+        "Existe alguém que estuda matemática e não consegue tirar boas notas em concursos.",
+        "Todas as pessoas que aprendem sobre a vida e consegue tirar boas notas em concursos estudam matemática.",
+        "Podem existir pessoas que aprendem sobre a vida, mas não conseguem tirar notas boas em concursos.",
+        "Todas as pessoas que tiram notas boas em concursos sempre aprendem sobre a vida."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0043",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(IBADE/CRC-RO/2022) Considere o diagrama lógico abaixo: Mineiros Gostam de Pão de Queijo Advogados A partir desse diagrama, é possível concluir que:",
+      "o": [
+        "todo advogado gosta de pão de queijo.",
+        "nem todo advogado é mineiro.",
+        "alguns mineiros não gostam de pão de queijo.",
+        "alguns advogados não são mineiros.",
+        "todo mineiro gosta de pão de queijo."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0044",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(FUNDATEC/PREF. VACARIA/2021) Considere as seguintes proposições verdadeiras: I. Ana estuda em Vacaria. II. Todos os que estudam em Vacaria são pessoas que gostam de Matemática. Disso, pode-se concluir que:",
+      "o": [
+        "Ana também gosta de Literatura.",
+        "Ana não gosta de Matemática.",
+        "Ana gosta de Matemática.",
+        "Ana mora em Vacaria. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 119 Aula 02",
+        "Ana não mora em Vacaria"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0045",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(QUADRIX/CREFITO13/2021) Todos os fisioterapeutas são defensores do Sistema Único de Saúde (SUS). A partir da proposição acima, é correto afirmar que",
+      "o": [
+        "o conjunto dos fisioterapeutas contém o conjunto dos defensores do SUS.",
+        "o conjunto dos defensores do SUS contém o conjunto dos fisioterapeutas.",
+        "todos os defensores do SUS são fisioterapeutas.",
+        "algum fisioterapeuta não é defensor do SUS.",
+        "ser defensor do SUS significa, necessariamente, ser fisioterapeuta. (QUADRIX/CRT-SP/2021) Considerando as sentenças lógicas abaixo, julgue os itens 09 e 10. - Alguns estudantes de matemática são bons alunos. - Todo jogador de xadrez é bom aluno. - Nenhum ciclista joga xadrez. - Alguns ciclistas são bons alunos. 9. Alguns ciclistas são estudantes de matemática. 10. Nem todo bom aluno joga xadrez. FGV"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0046",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(QUADRIX/CREF21/2021) Um professor de educação física apresentou as seguintes premissas para argumentar quanto aos benefícios de suas aulas: “Todo aluno que participa das aulas de educação física tira boas notas em matemática”; “Nenhum aluno dependente químico tira boas notas em matemática”; e “Maria participa das aulas de educação física”. Com base nessa situação hipotética, é correto afirmar que a conclusão válida para o argumento do professor é",
+      "o": [
+        "Maria é uma aluna dependente química.",
+        "Alguns alunos que participam das aulas de educação física são dependentes químicos.",
+        "Maria não tira boas notas em matemática.",
+        "Todo aluno que tira boas notas em matemática participa das aulas de educação física.",
+        "Maria tira boas notas em matemática."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0047",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(QUADRIX/CRQ XX/2021) - Todo engenheiro químico é bom na área de exatas. - Alguma pessoa boa na área de exatas trabalha no polo petroquímico. - Nenhum professor de química trabalha no polo petroquímico. - Algum engenheiro químico é professor de química. Considerando o argumento com as premissas acima apresentadas, é correto afirmar que a conclusão válida para esse argumento é:",
+      "o": [
+        "Toda pessoa boa na área de exatas é engenheiro químico.",
+        "Algum engenheiro químico trabalha no polo petroquímico.",
+        "Nenhum professor de química é bom na área de exatas.",
+        "Algum professor de química não é bom na área de exatas.",
+        "Alguma pessoa boa na área de exatas não trabalha no polo petroquímico."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0048",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 02 - Diagramas Lógicos",
+      "q": "(QUADRIX/PREF. TIJUCAS DO SUL/2021) I. Todos os servidores da prefeitura de Tijucas do Sul receberão uma gratificação. Logo, alguns servidores da referida prefeitura não receberão gratificação. II. Enfermeiros estudaram na UFSC ou na Unisul. Beatriz é enfermeira e não estudou na Unisul. Logo, Beatriz estudou na UFSC. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 128 Aula 02 III. Alguns médicos são professores. Alguns professores estudaram na UFSC. Logo, todos os médicos estudaram na UFSC. Considerando os argumentos acima, assinale a alternativa correta",
+      "o": [
+        "Apenas o argumento I é válido.",
+        "Apenas o argumento II é válido.",
+        "Apenas o argumento III é válido.",
+        "Os argumentos I e II são válidos.",
+        "Os argumentos II e III são válidos. CEBRASPE"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 02 - Diagramas Lógicos_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0049",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(FGV/PREF. OSASCO/2014) Seja O um conjunto de objetos e P, Q, R, S propriedades sobre esses objetos. Sabendo-se que para todo objeto x em O: 1. 𝑷(𝒙) é verdadeiro. 2. 𝑸(𝒙) é verdadeiro. 3. Se 𝑷(𝒙), 𝑸(𝒙) e 𝑹(𝒙) são verdadeiros então 𝑺(𝒙) é verdadeiro. Pode-se concluir, para todo x em O, que:",
+      "o": [
+        "se 𝑅(𝑥) é verdadeiro então 𝑆(𝑥) é verdadeiro;",
+        "𝑆(𝑥) e 𝑅(𝑥) são verdadeiros;",
+        "se 𝑃(𝑥) e 𝑄(𝑥) são verdadeiros então 𝑅(𝑥) é verdadeiro;",
+        "se 𝑃(𝑥) é verdadeiro ou 𝑄(𝑥) é verdadeiro então 𝑅(𝑥) é verdadeiro;",
+        "se 𝑆(𝑥) e 𝑄(𝑥) são verdadeiros então 𝑃(𝑥) e 𝑅(𝑥) são verdadeiros."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0050",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(FGV/ALEMA/2013) Considere a sentença a seguir. “Qualquer que seja o quadrilátero convexo, se ele é equilátero ou equiângulo então ele é regular.” Assinale a alternativa que indica a sentença logicamente equivalente à sentença acima.",
+      "o": [
+        "Qualquer que seja o quadrilátero convexo, se ele é regular então ele é equilátero ou equiângulo.",
+        "Existe um quadrilátero convexo que é equilátero ou equiângulo mas que não é regular.",
+        "Qualquer que seja o quadrilátero convexo, se ele não é equilátero ou não é equiângulo então ele não é regular.",
+        "Algum quadrilátero convexo não é regular, mas é equilátero ou equiângulo.",
+        "Qualquer que seja o quadrilátero convexo, ele não é equilátero nem é equiângulo, ou ele é regular."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0051",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(FGV/ALEMA/2013) Considere a sentença: “Não é verdade que todo parlamentar de Brasília falta às sessões plenárias das sextas‐feiras no Congresso e retorna ao seu estado de origem.” Uma sentença logicamente equivalente a essa: Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 75 93 Aula 03",
+      "o": [
+        "Nenhum parlamentar de Brasília falta às sessões plenárias das sextas‐feiras no Congresso e retorna ao seu estado de origem.",
+        "Todo parlamentar de Brasília comparece às sessões plenárias das sextas‐feiras no Congresso ou retorna ao seu estado de origem.",
+        "Algum parlamentar de Brasília comparece às sessões plenárias das sextas‐feiras no Congresso e não retorna ao seu estado de origem.",
+        "Algum parlamentar de Brasília comparece às sessões plenárias das sextas‐feiras no Congresso e retorna ao seu estado de origem.",
+        "Algum parlamentar de Brasília comparece às sessões plenárias das sextas‐feiras no Congresso ou não retorna ao seu estado de origem. FCC ==b3d1f=="
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0052",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(CESGRANRIO/TRANSPETRO/2018) Considere a seguinte sentença: “Todo aluno do curso de Informática estuda algum tópico de Matemática Discreta” e os seguintes predicados: 𝑨(𝒙): 𝒙 é aluno. 𝑰(𝒙): 𝒙 é do curso de Informática. 𝑬(𝒙, 𝒚): 𝒙 estuda 𝒚. 𝑻(𝒙): 𝒙 é tópico de Matemática Discreta. Uma forma de traduzi-la é",
+      "o": [
+        "∀𝑥((𝐴(𝑥) ∧𝐼(𝑥)) →∃𝑦(𝑇(𝑦) ∧𝐸(𝑥, 𝑦)))",
+        "∀𝑥(𝐴(𝑥) ∧𝐼(𝑥)) ∧∀𝑦(𝑇(𝑦) →𝐸(𝑥, 𝑦))",
+        "∃𝑥∀𝑦(𝐴(𝑥) ∧/(𝑥) ∧𝑇(𝑦) ∧¬𝐸(𝑥, 𝑦))",
+        "∀𝑥((𝐴(𝑥) ∧𝐼(𝑥)) →∀𝑦(𝑇(𝑦) →𝐸(𝑥, 𝑦)))",
+        "∃𝑥∀(𝐴(𝑥) ∧𝐼(𝑥) ∧𝑇(𝑦) ∧𝐸(𝑥, 𝑦))"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 13.",
+      "source_number": 13
+    },
+    {
+      "id": "atamf-mat6-0053",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(CESGRANRIO/BR/2012) Considere a seguinte afirmativa: Ser analista de sistemas é condição necessária porém não suficiente para ser engenheiro de software. Considere os predicados 𝑨(𝒙) e 𝑬(𝒙) que representam respectivamente que 𝒙 é analista de sistemas e que x é engenheiro de software. Uma representação coerente da afirmativa acima, em lógica de primeira ordem, é",
+      "o": [
+        "𝐴(𝑥) →𝐸(𝑥) Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 86 93 Aula 03",
+        "𝐴(𝑥) →¬𝐸(𝑥)",
+        "¬𝐴(𝑥) →𝐸(𝑥)",
+        "¬𝐸(𝑥) →¬𝐴(𝑥)",
+        "𝐸(𝑥) →𝐴(𝑥)"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 14.",
+      "source_number": 14
+    },
+    {
+      "id": "atamf-mat6-0054",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(CESGRANRIO/BR/2012) Considere a afirmativa “Todo gerente de projeto é programador”. Considere os predicados 𝑮(𝒙) e 𝑷(𝒙), que representam, respectivamente, que 𝒙 é gerente de projeto e que 𝒙 é programador. Uma representação coerente da afirmativa acima em lógica de primeira ordem é",
+      "o": [
+        "𝐺(𝑥) →¬𝑃(𝑥)",
+        "¬𝐺(𝑥) →𝑃(𝑥)",
+        "𝑃(𝑥) →𝐺(𝑥)",
+        "¬𝑃(𝑥) →𝐺(𝑥)",
+        "¬𝑃(𝑥) →¬𝐺(𝑥)"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 15.",
+      "source_number": 15
+    },
+    {
+      "id": "atamf-mat6-0055",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(CESGRANRIO/TRANSPETRO/2012) Considerando os predicados: chefe(𝒙) significando que 𝒙 é chefe, departamento(𝒙) significando que 𝒙 é um departamento e chefia (𝒙,𝒚) significando que 𝒙 chefia 𝒚, a restrição “Todo chefe chefia um departamento” pode ser expressa pela seguinte fórmula da lógica de predicados de primeira ordem:",
+      "o": [
+        "∀𝑥∀𝑦 chefe ∧(𝑥) departamento (𝑦) → chefia (𝑥, 𝑦)",
+        "∀𝑥∀𝑦 chefia (𝑥, 𝑦) ∧ chefe (𝑥) ∧ departamento (𝑦)",
+        "∀𝑥 chefe (𝑥) ∧ (∃𝑦 departamento (𝑦) → chefia (𝑥, 𝑦))",
+        "∀𝑥 chefe (𝑥) →∃𝑦 (departamento (𝑦) ∧ chefia (𝑥, 𝑦))",
+        "∀𝑥 chefe (𝑥) →¬∃𝑦 (departamento (𝑦) ∧ ¬chefia (𝑥, 𝑦))"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 16.",
+      "source_number": 16
+    },
+    {
+      "id": "atamf-mat6-0056",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(CESGRANRIO/LIQUIGÁS/2012) O predicado 𝒈(𝒙, 𝒚) é avaliado como verdadeiro se “x gosta de y\". A sentença “se uma pessoa não gosta de si mesma então não gosta de qualquer outra\" pode ser expressa em lógica de primeira ordem como",
+      "o": [
+        "¬𝑔(𝑖, 𝑖) → ∀𝑥¬𝑔(𝑖, 𝑥)",
+        "¬𝑔(𝑖, 𝑖) → ¬∀𝑥¬𝑔(𝑖, 𝑥)",
+        "Ǝ𝑥 𝑔(𝑥, 𝑖) → ¬Ǝ𝑥¬𝑔(𝑖, 𝑥)",
+        "Ǝ𝑥 𝑔(𝑖, 𝑥) → ¬∀𝑥¬𝑔(𝑖, 𝑥)",
+        "¬Ǝ𝑥¬𝑔(𝑥, 𝑖) → ¬∀𝑥¬𝑔(𝑖, 𝑥)"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 17.",
+      "source_number": 17
+    },
+    {
+      "id": "atamf-mat6-0057",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(CESGRANRIO/INNOVA/2012) A lógica de predicados de primeira ordem foi escolhida para representar um conjunto de restrições que um modelo de dados deve satisfazer para adequar-se a um novo sistema. Considere os predicados 𝑷(𝒗), representando que v é um pedido, 𝑰(𝒘) representando que w é um item, e 𝑪(𝒗, 𝒘) representando que w consta em v, para quaisquer variáveis v e w. Qual a fórmula que pode ser usada para representar que, em qualquer pedido, consta ao menos um item?",
+      "o": [
+        "∀ 𝑥 ∀(𝑃(𝑥) ∧𝐼(𝑦) ∧𝐶(𝑥, 𝑦)",
+        "∃𝑥∃𝑦 𝑃(𝑥) ∧𝐼(𝑦) ∧𝐶(𝑥, 𝑦)) Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 87 93 Aula 03",
+        "∀𝑥 (𝑃(𝑥) −> ∀𝑦(𝐼(𝑦) 𝐶(𝑥, 𝑦)))",
+        "∀𝑥 (𝑃(𝑥) −> ∃𝑦(𝐼(𝑦) ∧𝐶(𝑥, 𝑦)))",
+        "∃𝑥(𝑃(𝑥) ∧∀𝑦(𝐼(𝑦) 𝐶(𝑥, 𝑦))) Outras Bancas"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 18.",
+      "source_number": 18
+    },
+    {
+      "id": "atamf-mat6-0058",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(UFAL/PREF. ROTEIRO/2017) Considerando que os símbolos ¬, ∧, ∨, ∀ e ∃ representam negação, conjunção, disjunção, quantificador universal e quantificador existencial, respectivamente, e dado o conjunto de premissas {∀𝒙(¬𝑷(𝒙) ∧𝑸(𝒙))}, qual informação abaixo pode ser inferida?",
+      "o": [
+        "∀𝑥(𝑃(𝑥) ∧𝑄(𝑥))",
+        "∃𝑥(𝑃(𝑥) ∧𝑄(𝑥))",
+        "∀𝑥𝑃(𝑥)",
+        "∀𝑥𝑄(𝑥)",
+        "∃𝑥𝑃(𝑥)"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 19.",
+      "source_number": 19
+    },
+    {
+      "id": "atamf-mat6-0059",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(QUADRIX/CORECON-PE/2016) Milton Friedman, um economista americano, prêmio Nobel em economia, afirmou: “Quando usamos política monetária expansionista e a política fiscal expansionista, causamos a inflação.” Usando sentenças da lógica de primeira ordem, representa a afirmação de Friedman:",
+      "o": [
+        "∀𝑥((𝑃(𝑥) ∧ 𝑄(𝑥)) → 𝑅(𝑥))",
+        "𝑅(𝑥) → ∀𝑥((𝑃(𝑥) ∨ 𝑄(𝑥))",
+        "∀𝑥((𝑃(𝑥) ∨ 𝑄(𝑥)) → 𝑅(𝑥))",
+        "(𝑃(𝑥) ∨ 𝑄(𝑥)) → 𝑄(𝑥))",
+        "𝑄(𝑥) → ∀𝑥((𝑃(𝑥) ∨ 𝑅(𝑥))"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 20.",
+      "source_number": 20
+    },
+    {
+      "id": "atamf-mat6-0060",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 03 - Lógica de Primeira Ordem",
+      "q": "(UFAL/PREF. SÃO SEBASTIÃO/2015) Se os símbolos ¬, ∧, ∨, →, ↔, ∀ e ∃ representam a negação, conjunção, disjunção, condicional, bicondicional, para todo e existe, respectivamente, a negação da fórmula ∀𝒙(𝑷(𝒙) →𝑸(𝒙)) é equivalente à fórmula",
+      "o": [
+        "∃𝑥(𝑃(𝑥) ∨𝑄(𝑥))",
+        "∃𝑥(𝑃(𝑥) ∧¬𝑄(𝑥))",
+        "∃𝑥(¬𝑃(𝑥) →¬𝑄(𝑥))",
+        "∀𝑥(𝑃(𝑥) ∧¬𝑄(𝑥))",
+        "∀𝑥(¬𝑃(𝑥) ∨𝑄(𝑥))"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 03 - Lógica de Primeira Ordem_cropped.pdf, questão 21.",
+      "source_number": 21
+    },
+    {
+      "id": "atamf-mat6-0061",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/ALE-TO/2024) A seguir, são apresentados os 9 primeiros termos de uma sequência infinita de números inteiros. 𝟏𝟑, 𝟏𝟐, 𝟏𝟒, 𝟏𝟏, 𝟏𝟓, 𝟏𝟎, 𝟏𝟔, 𝟗, 𝟏𝟕, . .. Os termos são, alternadamente, maiores e menores que seus antecessores imediatos, seguindo um padrão de construção. Sabendo-se que esse padrão é mantido ao longo de toda a sequência, conclui-se que um termo negativo aparecerá pela primeira vez na",
+      "o": [
+        "28ª posição.",
+        "27ª posição.",
+        "26ª posição.",
+        "15ª posição.",
+        "14ª posição."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0062",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/CBM-RJ/2024) Considere a sequência de números naturais na qual o primeiro termo é 23 e cada termo a partir do segundo é 24 unidades maior do que o termo anterior a ele. O 100º termo dessa sequência é",
+      "o": [
+        "2423.",
+        "2400.",
+        "2399.",
+        "2324.",
+        "2323."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0063",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/PM-SP/2023) Uma sequência de números inteiros foi criada escolhendo-se os dois primeiros termos e, a partir do 3º termo, os próximos números da sequência foram calculados por meio de uma mesma operação básica envolvendo os dois antecessores imediatos. A seguir, são apresentados os seis primeiros termos dessa sequência numérica. 𝟐, −𝟏, 𝟏, 𝟎, 𝟏, 𝟏, . .. Seguindo esse padrão de construção, o valor do próximo termo é",
+      "o": [
+        "2.",
+        "1.",
+        "0.",
+        "-1. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 96 q p g Aula 05"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0064",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/BANESTES/2023) Alguns dos números que podem ser escritos na forma de fração apresentam periodicidade quando representados na forma decimal. Isto é, a partir de uma certa casa decimal, um dígito (ou uma sequência de dígitos) passa a se repetir infinitamente. Como exemplo, temos: 𝟏 𝟏𝟑= 𝟎, 𝟎𝟕𝟔𝟗𝟐𝟑𝟎𝟕𝟔𝟗𝟐𝟑𝟎𝟕𝟔𝟗𝟐𝟑𝟎𝟕𝟔… Nessa representação decimal, o 𝟏𝟐𝟑𝟐º dígito após a vírgula é",
+      "o": [
+        "7.",
+        "6.",
+        "3.",
+        "2.",
+        "0. ==b3d1f=="
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0065",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/CM TAUBATÉ/2022) Na sequência a seguir são utilizados apenas os dígitos 1, 2, 3, 4 e 5, e seus elementos obedecem a um determinado padrão. 𝟏 𝟐 𝟏 𝟐 𝟑 𝟒 𝟓 𝟒 𝟓 𝟒 𝟑 𝟐 𝟏 𝟐 𝟏 𝟐 𝟑 𝟒 𝟓 𝟒 𝟓 𝟒 𝟑 𝟐 𝟏 𝟐 𝟏 𝟐 𝟑 𝟒 𝟓 𝟒 𝟓 𝟒 𝟑 𝟐 𝟏 𝟐 𝟏 𝟐 𝟑 𝟒 . .. O 500º termo dessa sequência é:",
+      "o": [
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5. FCC"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0066",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/TRT-23/2022) Uma sequência numérica é uma lista ordenada de números. Em algumas sequências, a obtenção dos termos segue alguma regra bem definida. Considere as duas sequências descritas a seguir: − Sequência 1: o primeiro termo é igual a 10 e qualquer outro termo, a partir do segundo, é igual ao anterior acrescido de duas unidades. − Sequência 2: o primeiro termo é igual a 1, o segundo termo é igual a 3 e qualquer outro termo, a partir do terceiro, é igual à soma dos dois termos anteriores. O menor número que aparece nas duas sequências é:",
+      "o": [
+        "14",
+        "12",
+        "20",
+        "18 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 97 q p g Aula 05",
+        "16"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0067",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/TRT-4/2022) Os apartamentos de um moderno edifício são numerados com três algarismos da seguinte maneira: o primeiro algarismo indica o andar e os dois seguintes o número do apartamento. Por exemplo, o apartamento numerado com 201 é o apartamento 01 do segundo andar. O edifício tem 6 andares com 15 apartamentos por andar. Os andares são numerados de 1 a 6, e, em cada andar, os apartamentos são numerados de 01 a 15. A quantidade de algarismos 2 necessária para numerar todos os apartamentos da forma descrita acima é:",
+      "o": [
+        "15",
+        "12",
+        "27",
+        "21",
+        "20"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0068",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/MANAUS PREV./2021) Ao longo de um mês, uma vinícola produz seis lotes de um vinho. Os lotes são numerados sequencialmente de 1 a 6, conforme vão sendo fabricados, o que quer dizer que o primeiro a ser fabricado é o lote 1, depois o lote 2 e assim sucessivamente até o lote 6. Para a venda dos lotes, o setor responsável deve sempre vender primeiro os lotes em estoque que foram fabricados mais recentemente. Se os seis lotes foram vendidos nesse mês, uma ordem das vendas que NÃO atende às orientações da empresa é",
+      "o": [
+        "⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗2 −3 −1 −4 −5 −6",
+        "⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗1 −2 −3 −5 −4 −6",
+        "⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗1 −3 −5 −6 −2 −4",
+        "⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗1 −2 −3 −4 −5 −6",
+        "⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗6 −5 −4 −3 −2 −1"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0069",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/SABESP/2019) Em 1655, o matemático John Wallis desenvolveu uma série infinita para o cálculo 𝝅 de 𝟐, conforme mostra a fórmula abaixo: 𝝅 𝟐 𝟐= 𝟏∙𝟐𝟑∙𝟒𝟑∙𝟒𝟓∙𝟔𝟓∙𝟔𝟕∙𝟖𝟕∙𝟖𝟗∙𝟏𝟎𝟗∙… Com os termos desse produto infinito ordenados exatamente como na fórmula, a fração na 50ª posição é: 51",
+      "o": [
+        "53 50",
+        "49 26",
+        "25 26",
+        "27 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 98 q p g Aula 05 50",
+        "51"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0070",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/TJ-MA/2019) Observando o padrão de formação da sequência infinita (2, 1, 3, 1, 1, 4, 1, 1, 1, 5, 1, 1, 1, 1, 6, …), nota-se que os termos iguais a 1 aparecem nas posições 2, 4, 5, 7, 8, 9, 11, e assim por diante. A 300ª vez em que o termo igual a 1 aparece nessa sequência está na posição:",
+      "o": [
+        "342.",
+        "330.",
+        "336.",
+        "324.",
+        "348. CEBRASPE"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 10.",
+      "source_number": 10
+    },
+    {
+      "id": "atamf-mat6-0071",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/CBM-AM/2022) No plano cartesiano, a partir da origem, foi construído o caminho representado abaixo, mantendo o padrão do desenho. O comprimento da parte do caminho desde o início até o ponto (49, 1) é",
+      "o": [
+        "166.",
+        "168.",
+        "170.",
+        "172.",
+        "174. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 106 q p g Aula 05"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0072",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/TJ-RO/2021) Observe a sequência de figuras a seguir. Mantendo o padrão apresentado nas figuras acima, o número de bolinhas da figura 15 é:",
+      "o": [
+        "238;",
+        "244;",
+        "258;",
+        "270; ==b3d1f==",
+        "304."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0073",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/CLDF/2018) Em um tabuleiro 3 × 3, todas as nove peças quadradas têm uma face branca e outra face preta. Essas peças são placas móveis que giram em torno de um eixo, exibindo ora a face branca, ora a face preta. O objetivo de um jogo que usa esse tabuleiro é, a partir de uma dada configuração inicial, fazer com que todas as peças quadradas exibam sua face branca. Para isso, as únicas operações possíveis, a cada jogada, são: − girar todas as peças de uma mesma linha, trocando a cor de cada uma ou − girar todas as peças de uma mesma coluna, trocando a cor de cada uma. Para a configuração inicial do tabuleiro dada acima, respeitando as regras, a quantidade mínima de jogadas que permite atingir o objetivo do jogo é igual a",
+      "o": [
+        "2.",
+        "4.",
+        "3. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 108 q p g Aula 05",
+        "6.",
+        "5. CEBRASPE"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0074",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/SSP-AM/2022) Considere a sequência das letras do alfabeto formada por 1 letra A, 2 letras B, 3 letras C, e assim por diante até o final com 26 letras Z. A B B C C C D D D D E E E E E ... A 100ª letra dessa sequência é",
+      "o": [
+        "M.",
+        "N.",
+        "O.",
+        "P.",
+        "Q."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0075",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/TJ-RO/2021) Na sala de arquivos de um escritório há 7 armários, cada um com 7 gavetas, sendo que cada gaveta comporta 15 pastas. - Os armários são identificados por A, B, C, ..., G. - As gavetas são numeradas com 1, 2, 3, ..., 7. - As pastas são numeradas com 01, 02, 03, ..., 15. A localização de uma pasta é dada por um código que indica o armário, a gaveta e a posição onde ela está. Por exemplo, uma pasta com o código B403 significa que ela é a 3ª pasta da gaveta 4 do armário B. Todas as pastas foram arquivadas em ordem, nenhum lugar ficou vazio e a última pasta colocada no arquivo foi a de código D512.O número total de pastas desse arquivo é:",
+      "o": [
+        "338;",
+        "342;",
+        "366;",
+        "387;",
+        "398."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0076",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/CM ARACAJU/2021) Um artista criou uma faixa decorativa com o nome do estado escrito diversas vezes em sequência: SERGIPESERGIPESERGIPESERG... Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 119 q p g Aula 05 A milésima letra dessa faixa é:",
+      "o": [
+        "S;",
+        "R;",
+        "G;",
+        "I;",
+        "P."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0077",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/IMBEL/2021) Um funcionário da fábrica da IMBEL de Juiz de Fora pensou em pintar uma faixa decorativa no muro externo da fábrica com o motivo abaixo: I M B E L J F I M B E L J F I M B E L J F ... Mantendo esse padrão, a 500ª letra dessa faixa será",
+      "o": [
+        "B. ==b3d1f==",
+        "E.",
+        "L.",
+        "J.",
+        "F."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0078",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FGV/PREF. PAULÍNIA/2021) Uma faixa decorativa foi desenhada usando a palavra PAULINIA e sua grafia ao contrário, AINILUAP seguidas, sem repetir a letra comum das extremidades: PAULINIAINILUAPAULINIAINILUAPAUL... A milésima letra dessa faixa é",
+      "o": [
+        "A.",
+        "U.",
+        "L.",
+        "N.",
+        "I. FCC"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0079",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/SABESP/2019) A palavra ABACAXI foi escrita repetida e seguidamente em um cartaz, sem espaços, de maneira a ter sempre 44 letras em cada linha e sempre continuando a palavra na linha seguinte a partir de onde foi interrompida na linha anterior. As três primeiras linhas do cartaz estão indicadas a seguir: ABACAXIABACAXIABACAXIABACAXIABACAXIAB ACAXIABACAXIABACAXIABACAXIABACAXIABAC AXIABACAXIABACAXIABACAXIABACAXIABACAXI Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 120 q p g Aula 05 Se o cartaz tem um total de 434 letras A, com todas as linhas completas, então a última letra do cartaz, ou seja, a última letra da última linha, é a",
+      "o": [
+        "letra A.",
+        "letra B.",
+        "letra C.",
+        "letra X.",
+        "letra I."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0080",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/SABESP/2018) Um código é constituído de duas letras dentre as 26 do alfabeto (inclui as letras K e W), podendo-se repetir letras livremente. O 1º código desse sistema é AA, e o 676º e último código do sistema é ZZ. A posição dos códigos nessa sequência segue a ordem alfabética das letras, como em um dicionário. Nesse sistema, SP será o",
+      "o": [
+        "457º código.",
+        "491º código.",
+        "510º código.",
+        "466º código.",
+        "484º código."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0081",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 05 - Raciocício Sequencial",
+      "q": "(FCC/CLDF/2018) Um software de construção e gerenciamento de planilhas de dados organiza-se em linhas numeradas e colunas indicadas por letras do alfabeto de 26 letras: A, B, ..., Z. A partir da 27º coluna, são usadas combinações das letras do alfabeto: AA, AB, AC..., AZ, BA, BB, BC..., BZ, ..., ZA, ZB, ZC, ..., ZZ, AAA, AAB, AAC, ..., AAZ, ABA, ABB, ABC..., ABZ... e assim por diante. Um secretário utiliza uma planilha desse software para registrar as correspondências que chegam diariamente ao escritório, durante todos os dias úteis do ano. Ele registra a data na primeira linha de uma coluna e, logo abaixo, em cada linha, as correspondências do dia; no dia seguinte, passa para a próxima coluna e faz o mesmo. Ainda que não haja correspondência em um determinado dia, ele anota a data e deixa o restante da coluna em branco. Em um ano com 252 dias úteis, se os registros das correspondências forem feitos a partir da coluna A, então a coluna da planilha com o registro da última correspondência será indicada por",
+      "o": [
+        "IR.",
+        "ABB.",
+        "PQ.",
+        "HA.",
+        "AAC. CEBRASPE"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 05 - Raciocício Sequencial_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0082",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/PREF. SALVADOR/2019) Em uma classe de 20 estudantes, 12 são meninas. Além disso, dos 20 estudantes, 15 gostam de Matemática. É correto concluir que",
+      "o": [
+        "nenhuma menina gosta de Matemática.",
+        "todas as meninas gostam de Matemática.",
+        "no máximo 7 meninas gostam de Matemática.",
+        "no mínimo 7 meninas gostam de Matemática.",
+        "exatamente 7 meninas gostam de Matemática."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0083",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/PREF. OSASCO/2014) Na matemática, as coleções são chamadas de conjuntos. Se uma coleção tem apenas um elemento, ela é dita um conjunto unitário. Um exemplo de conjunto unitário é a coleção formada pelos números que são:",
+      "o": [
+        "ao mesmo tempo, divisores de 4 e 9;",
+        "divisores de 4;",
+        "divisores de 9;",
+        "maiores que 4 e menores que 9;",
+        "formados pelos algarismos 4 e 9."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0084",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/PREF. OSASCO/2014) Conjunto é o nome dado, na Matemática, a qualquer coleção. Entretanto, uma coleção pode não ter elementos. Nesse caso, diz-se que esse é um conjunto vazio. Um exemplo de conjunto vazio é a coleção:",
+      "o": [
+        "de meses do ano que começam pela letra J;",
+        "de dias da semana que começam pela letra T;",
+        "dos números que são, ao mesmo tempo, pares e ímpares;",
+        "dos números menores que 10 e maiores que 6;",
+        "das pessoas brasileiras que são casadas."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0085",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/CODEBA/2010) Sejam 𝑨= {𝟎, 𝟏, 𝟐, 𝟑} e 𝑩= {𝟎, 𝟐, 𝟒} dois conjuntos. Com relação aos conjuntos A e B, analise as afirmativas a seguir: I. 𝑩 ⊂ 𝑨 II. 𝑨∪𝑩 = {𝟎, 𝟏, 𝟐, 𝟑, 𝟒} III. 𝑨 ∩ 𝑩 = {𝟎, 𝟐} Está(ão) correta(s) somente Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 142 172 Aula 07",
+      "o": [
+        "I.",
+        "II.",
+        "III.",
+        "I e II.",
+        "II e III."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0086",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FUNDATEC/PREF. TRAMANDAÍ/2021) Considerando dois conjuntos, A e B, sendo: A = {2,4,6,8,10,12} e B = {2,4,6,8,10,12,14,16}, assinale a alternativa correta.",
+      "o": [
+        "O conjunto A contém o conjunto B.",
+        "O conjunto A está contido no conjunto B. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 143 172 Aula 07",
+        "O conjunto B está contido no conjunto A.",
+        "O conjunto B pertence ao conjunto A."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0087",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(Cebraspe/ISS - CAMAÇARI/2024) Na figura precedente, que representa quatro conjuntos identificados por A, B, C e D, a região destacada corresponde a",
+      "o": [
+        "(𝐵−𝐶) ∩𝐷.",
+        "𝐵∩𝐷.",
+        "𝐵∩𝐶∩𝐷.",
+        "(𝐵−𝐷) ∩𝐶.",
+        "𝐵– 𝐷."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0088",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(SELECON/PREF. SÃO GONÇALO/2022) Sejam A e B conjuntos definidos da seguinte maneira: A = {pessoas que moram em São Gonçalo} B= {pessoas que trabalham em Niterói} O conjunto A – (A – B) representa o conjunto cujos elementos são pessoas que:",
+      "o": [
+        "moram em São Gonçalo e trabalham em Niterói",
+        "moram em Niterói e trabalham em São Gonçalo Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 147 172 Aula 07",
+        "moram em São Gonçalo e não trabalham em Niterói",
+        "moram em Niterói e não trabalham em São Gonçalo"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0089",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(IDECAN/SEFAZ-RR/2022) Seja 𝑨= {𝟏, 𝟐, 𝒆, 𝟑, 𝝅, 𝟒, 𝟓, 𝟔, 𝟕}, ℕ o conjunto dos naturais, ℤ conjuntos dos inteiros e ℚ conjunto dos racionais. Determine o conjunto E, fruto da operação 𝑬= 𝑨∩[(ℕ∩ℚ) ∪ℤ].",
+      "o": [
+        "𝐸= {𝑒, 𝜋}",
+        "𝐸= ∅",
+        "𝐸= {2,4,6}",
+        "𝐸= ℤ",
+        "𝐸= {1,2,3,4,5,6,7}"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0090",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/IMBEL/2021) Sabe-se que a soma de dez números naturais é par. Em relação a esses dez números é correto afirmar que",
+      "o": [
+        "todos são, obrigatoriamente, pares.",
+        "todos são, obrigatoriamente, ímpares.",
+        "pelo menos um deles é par.",
+        "a quantidade de números pares é ímpar.",
+        "a quantidade de números ímpares é par."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0091",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/MEC/2009) Sejam X e Y dois números inteiros positivos. Se X² + Y² é ímpar, então se pode afirmar de maneira correta que:",
+      "o": [
+        "𝑋𝑌 é par.",
+        "𝑌𝑋 é par.",
+        "𝑋𝑌 é par.",
+        "𝑋−𝑌 é par. E)𝑋+ 𝑌 é par."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0092",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/SEFAZ-MS/2006) O maior número inteiro que é menor que ou igual a -5,7 é:",
+      "o": [
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0093",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/ALESP/2002) Um número racional qualquer:",
+      "o": [
+        "Tem sempre um número finito de ordens (casas) decimais.",
+        "Tem sempre um número infinito de ordens (casas) decimais.",
+        "Não se pode expressar em forma decimal exata.",
+        "Tem sempre como denominador um número diferente de zero. 𝟓𝒙 𝒙"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0094",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FGV/AL-MT/2013) Suponha que o valor da expressão 𝟔− 𝟐 seja um número inteiro. O valor de x é necessariamente",
+      "o": [
+        "positivo.",
+        "par. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 163 172 Aula 07",
+        "múltiplo de 3.",
+        "múltiplo de 6.",
+        "múltiplo de 12. FCC"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0095",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FCC/PGE-AM/2022) Se escrevermos os números inteiros de 0 a 100, o número de vezes que aparecerá o algarismo 7 é:",
+      "o": [
+        "10",
+        "11",
+        "21",
+        "19",
+        "20"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0096",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FCC/PREF. SJRP/2019) Um número é dito palíndromo se é o mesmo quando lido da esquerda para a direita ou da direita para a esquerda. Por exemplo, 5225 é um palíndromo de quatro algarismos. Considere X o maior palíndromo de quatro algarismos e Y o menor palíndromo de cinco algarismos. A soma X + Y é:",
+      "o": [
+        "20000",
+        "20020",
+        "20099",
+        "20902",
+        "20202"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0097",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FCC/TRT-6/2006) Se x e y são números inteiros tais que x é par e y é ímpar, então é correto afirmar que",
+      "o": [
+        "x + y é par.",
+        "x + 2y é ímpar.",
+        "3x − 5y é par.",
+        "x . y é ímpar.",
+        "2x − y é ímpar."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0098",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FCC/SEDU-ES/2016) Dados os conjuntos 𝑨= {𝒙∈ℝ | −𝟑≤𝒙< 𝟗} 𝑩= {𝒚∈ℝ | −𝟕≤𝒚≤𝟓} 𝑪= {𝒛∈ℝ | −𝟓≤𝒛< 𝟑} 𝑫= (𝑨∩𝑩) ∪𝑪 Pode-se concluir, corretamente, que a quantidade de números inteiros que pertencem ao conjunto D é igual a Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 164 172 Aula 07",
+      "o": [
+        "8.",
+        "10.",
+        "11.",
+        "9.",
+        "12."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0099",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 07 - Teoria dos Conjuntos",
+      "q": "(FCC/PREF. SANTOS/2005) Na reta numérica representada abaixo, cada unidade está dividida em 5 partes iguais. As letras indicam os pontos das extremidades de cada parte. O número irracional √𝟏𝟐− √𝟓 pode ser localizado nesta reta entre os pontos.",
+      "o": [
+        "C e D",
+        "E e F",
+        "G e H",
+        "J e L",
+        "N e P CEBRASPE"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 07 - Teoria dos Conjuntos_cropped.pdf, questão 10.",
+      "source_number": 10
+    },
+    {
+      "id": "atamf-mat6-0100",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(IDECAN/IBGE/2022) 𝑿 𝟒 + 𝟓 𝒀 𝟖 𝟓 Qual o valor de 𝑿 e 𝒀 na soma:",
+      "o": [
+        "8 e 5",
+        "4 e 1",
+        "3 e 5",
+        "4 e 5",
+        "3 e 1"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0101",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(OMNI/PREF. S. J. BATISTA/2021) Na prova de matemática de Adriana tinha a seguinte questão: “O valor de (−𝟔) ∙ (𝟓) ∙ (𝟖), é:”. Sabendo que Adriana respondeu corretamente à questão, sua resposta foi:",
+      "o": [
+        "-38",
+        "240",
+        "34",
+        "NDA"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0102",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(GUALIMP/PREF. AREAL/2020) A reta numérica abaixo está dividida em segmentos de mesma medida.: Os símbolos , e representam números inteiros positivos. Qual o resultado da expressão + - ?",
+      "o": [
+        "120",
+        "200",
+        "220",
+        "160"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0103",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(METROCAPITAL/PREF. N. ODESSA/2022) A professora Fernanda escreveu no quadro a seguinte operação com os números reais: −𝟕, 𝟓 = −𝟎, 𝟐𝟓 Sobre o resultado dessa operação, podemos afirmar que:",
+      "o": [
+        "é um número natural.",
+        "é um número inteiro negativo. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 144 q p g Aula 08",
+        "é um número racional e inteiro.",
+        "é um número real, mas não racional.",
+        "é um número irracional."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0104",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FGV/MPE-GO/2022) Na operação de multiplicação abaixo, cada letra representa um algarismo, letras diferentes representam algarismos diferentes e C não pode ser zero. O valor de A + B + C é igual a",
+      "o": [
+        "13.",
+        "14.",
+        "15.",
+        "16.",
+        "17."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0105",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FAUEL/CM DOURADINA/2022) O número 𝟑√𝟐𝟔∙𝟓𝟗 é:",
+      "o": [
+        "primo.",
+        "par.",
+        "ímpar.",
+        "negativo."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0106",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(MAIS/IPREV SANTOS/2022) Sejam os números racionais 𝑨= (𝟐𝟕−𝟑)𝟎,𝟑𝟑𝟑 e 𝑩= (𝟐, 𝟒∙𝟏𝟎𝟑+ 𝟏)𝟎,𝟐𝟓 . Então o valor do produto 𝑨∙𝑩 é",
+      "o": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0107",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(OMNI/PREF. SJ BATISTA/2021) Considerando 56, elevado ao cubo, igual a X. O valor de X dividido por dois, menos um, é:",
+      "o": [
+        "175.616.",
+        "3.135.",
+        "87.807.",
+        "Nenhuma das alternativas."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0108",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FGV/SEE-PE/2016) Considere os números 𝑨 = 𝟐𝟎,𝟑 e 𝑩= 𝟐𝟎,𝟕 . Um valor aproximado, com 2 decimais, para A é 1,23. Um valor aproximado para B é",
+      "o": [
+        "1,47.",
+        "1,51.",
+        "1,58.",
+        "1,63.",
+        "1,69."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 11.",
+      "source_number": 11
+    },
+    {
+      "id": "atamf-mat6-0109",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FGV/PREF. SALVADOR/2019) Na expressão √𝟏𝟒+ √𝟏𝟎 = 𝒂+ √𝒃 √𝟏𝟒−√𝟏𝟎 Os números a e b são inteiros. Então, 𝒃−𝒂 é igual a",
+      "o": [
+        "25.",
+        "26.",
+        "27.",
+        "28.",
+        "29."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 12.",
+      "source_number": 12
+    },
+    {
+      "id": "atamf-mat6-0110",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FGV/SEE-PE/2016) Considere o conjunto de números {𝟏, 𝟐, 𝟐𝟐, 𝟐𝟑, . . . , 𝟐𝟐𝟎𝟏𝟓, 𝟐𝟐𝟎𝟏𝟔}. A diferença entre o maior elemento desse conjunto e a soma dos demais elementos é",
+      "o": [
+        "0.",
+        "1.",
+        "2.",
+        "22015.",
+        "−22015."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 13.",
+      "source_number": 13
+    },
+    {
+      "id": "atamf-mat6-0111",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(OBJETIVA/PREF. SÃO SIMÃO/2022) Gabriela compra 2 chaveiros e 5 selos para a sua coleção em cada mês. Sabendo-se que ela possui um total de 175 selos, ao todo, quantos chaveiros ela possui?",
+      "o": [
+        "68",
+        "76",
+        "72",
+        "74",
+        "70"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0112",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(AOCP/IPE PREV/2022) Em determinado evento a ser promovido por uma empresa, é do conhecimento dos planejadores que, utilizando-se copos descartáveis de 150 mL, é possível servir 136 pessoas com determinada bebida. Caso ocorra uma mudança de planos e decida-se utilizar copos descartáveis de 80 mL, a quantidade de pessoas a mais que serão servidas com essa bebida, além da quantidade inicial prevista, é igual a",
+      "o": [
+        "259 pessoas.",
+        "55 pessoas.",
+        "119 pessoas.",
+        "155 pessoas.",
+        "89 pessoas."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0113",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(UEPB/PREF. SOUSA/2022) Um pote cheio de sorvete pesa 420 g e, com apenas metade do sorvete, pesa 240 g. É CORRETO afirmar que o peso do pote vazio é de:",
+      "o": [
+        "80 g",
+        "60 g",
+        "50 g",
+        "70 g",
+        "90 g"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0114",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(AOCP/IPE-PREV/2022) Considere que o número de identificação de um processo em andamento seja formado por cinco algarismos, seguidos de um dígito verificador. Para a obtenção do dígito verificador, seguem-se as seguintes regras, nesta ordem: 1º) efetua-se a multiplicação dos cinco primeiros algarismos que identificam o processo; 2º) efetua-se a divisão do resultado da multiplicação, obtida anteriormente, por 9; Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 156 q p g Aula 08 3º) o algarismo que identifica o resto dessa divisão será o dígito verificador. Com base nessas informações, considere que um processo em andamento possua o número de identificação 12377-W, em que W é o dígito verificador. Então, é correto afirmar que o valor de W, nesse número de identificação, é igual a",
+      "o": [
+        "8.",
+        "6.",
+        "4.",
+        "2.",
+        "0."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0115",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FCM/PREF. TIMÓTEO/2022) Em um sacolão onde abacaxis e brócolis são vendidos na unidade, Cecília comprou uma dúzia de abacaxis por R$ 60,00. Se a unidade do brócolis é R$1,00 mais barata que a de cada abacaxi, o valor correto de uma dezena de brócolis, em reais, é igual a",
+      "o": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0116",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(RBO/CESAMA/2022) Um estacionamento cobra R$ 27,00 pela primeira hora e mais R$ 12,50 por hora adicional, e não trabalha com fração de hora. Num certo dia entrou 18 veículos e o proprietário obteve lucro bruto de R$ 961,00, então, o total de horas adicionais cobradas nesse dia foi:",
+      "o": [
+        "38",
+        "34",
+        "29",
+        "43"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0117",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FUNDEP/UFJF/2022) Em um campeonato de futebol, o time recebe 3 pontos por cada vitória, 1 ponto por empate e zero ponto por derrota. Sabendo que depois de 7 jogos um time tem 9 pontos, é correto afirmar:",
+      "o": [
+        "O time teve exatamente 3 vitórias.",
+        "O time teve pelo menos 2 vitórias.",
+        "O time teve pelo menos 1 vitória.",
+        "O time teve exatamente 3 empates.",
+        "O time teve pelo menos 1 derrota."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0118",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(IDIB/CRF MS/2021) Um livro contém 150 páginas, totalmente numeradas. Assinale a alternativa que indica a quantidade de algarismos utilizados para numerar todas as páginas.",
+      "o": [
+        "315 algarismos",
+        "327 algarismos",
+        "357 algarismos",
+        "342 algarismos"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 10.",
+      "source_number": 10
+    },
+    {
+      "id": "atamf-mat6-0119",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FUNDATEC/PREF. ESTÂNCIA VELHA/2020) Assinale a alternativa que apresenta a forma agrupada e reduzida do seguinte monômio: 𝟑𝒂𝒙 + 𝟓𝒃𝒙 –𝟏𝟐𝒂𝒙 – 𝟏𝟓𝒃𝒙 + 𝟒𝒙",
+      "o": [
+        "𝑎𝑏(– 9𝑥 – 10𝑥 + 4𝑥)",
+        "𝑥(– 9𝑎 – 10𝑏 + 4)",
+        "𝑏(–9𝑎 –10𝑥 + 4𝑥)",
+        "𝑎𝑥(– 9 – 10𝑏 + 4)"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0120",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(FAFIPA/PREF. ARAPONGAS/2020) Dada a expressão algébrica: Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 172 q p g Aula 08 𝟐𝒙+ 𝟗𝒙+ √𝟏𝟔𝟗+ 𝟐𝟐𝒙+ 𝟑√𝟐𝟕 Qual será o valor dessa expressão algébrica para 𝒙 = 𝟒?",
+      "o": [
+        "1000",
+        "500",
+        "324",
+        "100.",
+        "75"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0121",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 08 - Operações Básicas",
+      "q": "(PREF. ITAJÁI/2021) Desenvolvendo o produto notável (𝒙𝟑+ 𝒙)𝟐 temos:",
+      "o": [
+        "𝑥^6 + 𝑥2",
+        "𝑥^6 + 2𝑥^4 + 𝑥2",
+        "𝑥6 + 2𝑥2 + 1",
+        "𝑥6 + 𝑥2 + 1"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 08 - Operações Básicas_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0122",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(FUNDATEC/PREF. FLORES DA CUNHA/2022) Para produzir uma determinada peça automotiva, o sistema de máquinas de uma indústria leva um tempo de 48 segundos. Nessa situação, quanto tempo, em horas, será necessário, para esse mesmo sistema de máquinas produzir 150 peças automotivas?",
+      "o": [
+        "1 hora.",
+        "1 hora e 30 minutos.",
+        "2 horas.",
+        "2 horas e 30 minutos.",
+        "2 horas e 45 minutos."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0123",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(UNESC/PREF. LAGUNA/2022) Sabemos que para pintar 2,5 m² de parede são necessários 120 ml de tinta, quantos mililitros de tinta serão necessários para pintar uma parede que tem 4 m de largura, por 3 m de altura?",
+      "o": [
+        "Serão necessários 389 ml de tinta.",
+        "Serão necessários 910 ml de tinta.",
+        "Serão necessários 695 ml de tinta.",
+        "Serão necessários 576 ml de tinta.",
+        "Serão necessários 327 ml de tinta."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0124",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(UEPB/PREF. SOUSA/2022) Uma porção de 3 unidades de um determinado biscoito possui 18 g de carboidratos. Se uma pessoa consumir 7 biscoitos, a quantidade, em gramas, de carboidratos que ela irá ingerir é de:",
+      "o": [
+        "42",
+        "38",
+        "40",
+        "32",
+        "35 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 72 Aula 12"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0125",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(FUNDATEC/IPE SAÚDE/2022) Um avião, à velocidade de 760 km por hora, leva 1h25min para fazer um determinado percurso. Em quanto tempo, esse mesmo avião, faria a mesma viagem, se a velocidade fosse de 680 km por hora?",
+      "o": [
+        "1h35min.",
+        "1h45min.",
+        "1h55min.",
+        "2h15min.",
+        "2h35min."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0126",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(FAUEL/CM DOURADINA/2022) Para uma receita da vovó Edith são necessários 3 ovos para cada 5 colheres de sopa de óleo. Juca quer fazer a receita de vovó Edith utilizando 18 ovos. Quantas colheres de sopa de óleo Juca deve usar? ==b3d1f==",
+      "o": [
+        "18.",
+        "30.",
+        "48.",
+        "90."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0127",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(OBJETIVA/PREF. SIMÃO DIAS/2022) Certo corretor recebe uma comissão de R$ 600,00 a cada 2 imóveis vendidos. Considerando-se a mesma proporção, e supondo-se que, em certo mês, ele vendeu um total de 17 imóveis, ao todo, quanto esse corretor irá receber de comissão?",
+      "o": [
+        "R$ 5.100,00",
+        "R$ 5.200,00",
+        "R$ 5.300,00",
+        "R$ 5.400,00",
+        "R$ 5.500,00"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0128",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(OBJETIVA/PREF. SIMÃO DIAS/2022) Considerando-se que, a cada 5 dias, uma pessoa se exercita 3 vezes, ao todo, mantendo-se o mesmo ritmo de treino, quantas vezes essa pessoa irá se exercitar em 125 dias?",
+      "o": [
+        "66",
+        "69",
+        "72",
+        "73",
+        "75"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0129",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(UFRJ/UFRJ/2022) Por lei, a jornada de trabalho de um Assistente em Administração é de 40 (quarenta) horas semanais. Na Secretaria de Graduação de uma unidade acadêmica da UFRJ, onde estão lotados seis Assistentes em Administração, todos de igual eficiência, organizaram-se os trabalhos diários da seguinte forma: 6 horas de atendimento ao público discente e 2 horas executando rotinas administrativas, como tramitar processos, redigir e expedir documentos etc. Nesse ritmo, esses servidores conseguem atender cerca de 288 alunos por dia. Supondo-se que, num rearranjo organizacional, metade dessa equipe Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 73 Aula 12 trabalhasse as 8 horas diárias apenas executando as rotinas administrativas e o restante cumprisse suas 8 horas diárias apenas atendendo ao público discente, o número de alunos atendidos por esse setor em 5 dias passaria a ser igual a:",
+      "o": [
+        "3840",
+        "960",
+        "192",
+        "2160",
+        "540"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0130",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(FUNDATEC/PREF. FLORES DA CUNHA/2022) Em uma determinada empresa, 15 funcionários produzem 36.000 peças de calçados. Supondo que fossem 20 funcionários, com a mesma capacidade e ritmo de trabalho, quantas peças de calçados seriam produzidas nesse mesmo período de tempo?",
+      "o": [
+        "42000",
+        "48000",
+        "54000",
+        "58000",
+        "62000"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 10.",
+      "source_number": 10
+    },
+    {
+      "id": "atamf-mat6-0131",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(FUNDATEC/IPE SAÚDE/2022) Em uma empresa de peças para computadores, 24 funcionários trabalham na produção. Juntos, eles fazem, ao longo de 6h de trabalho diário, 960 peças. Após receber um grande pedido de um cliente, a empresa pretende contratar mais funcionários para entregar as peças que foram vendidas. Quantos funcionários novos a empresa deverá contratar para que possa produzir 1600 peças, se o trabalho for feito ao longo de 8h diárias?",
+      "o": [
+        "30 funcionários.",
+        "24 funcionários.",
+        "10 funcionários.",
+        "6 funcionários.",
+        "4 funcionários."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0132",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(INSTITUTO MAIS/IPREV SANTOS/2022) Em uma fábrica, 2 trabalhadores, com uma jornada de trabalho de 8 horas diárias, trabalhando durante 4 dias, são capazes de embalar 1.280 peças. Então, supondo-se iguais a produtividade de todos os trabalhadores, para que 3 trabalhadores sejam capazes de embalar 1.800 peças em 5 dias, é necessário que a jornada diária de trabalho seja de",
+      "o": [
+        "6 horas.",
+        "6 horas e 30 minutos.",
+        "7 horas.",
+        "7 horas e 30 minutos."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0133",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(LEGALLE/BADESUL/2022) Para atender 30 pessoas no caixa de um banco em uma hora são necessárias 5 pessoas no serviço. Quantas pessoas no atendimento serão necessárias para atender 126 pessoas em 03 horas?",
+      "o": [
+        "6.",
+        "7.",
+        "8.",
+        "9.",
+        "10."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0134",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(IBFC/DETRAN AM/2022) A empresa DEF identificou que os seus 5 funcionários consomem 8 litros de água por semana. Em 202X a empresa pretende contratar 15 novos funcionários. Assinale a alternativa correta, que informa a quantidade de litros que serão consumidos em 3 semanas, após as novas contratações.",
+      "o": [
+        "72",
+        "48",
+        "54",
+        "96"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0135",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(FEPESE/CASAN/2022) Em um hotel para animais, 6 empregados atendem 25 animais a cada 4 dias. Mantida essas proporções, quantos animais 8 empregados atendem em 6 dias?",
+      "o": [
+        "Mais de 49",
+        "Mais de 46 e menos de 49",
+        "Mais de 43 e menos de 46 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 82 Aula 12",
+        "Mais de 39 e menos de 43",
+        "Menos de 39"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0136",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 12 - Regra de Três",
+      "q": "(FEPESE/P. CIENTÍFICA - SC/2022) Uma cidade utiliza 9 caminhões, por 12 horas diárias, para transportar 500 toneladas de lixo para uma cidade vizinha. Mantidas as proporções, quantas toneladas de lixo 12 caminhões, utilizados por 8 horas diárias, transportam?",
+      "o": [
+        "Mais de 480",
+        "Mais de 470 e menos de 480",
+        "Mais de 460 e menos de 470",
+        "Mais de 450 e menos de 460",
+        "Menos de 450"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 10.",
+      "source_number": 10
+    },
+    {
+      "id": "atamf-mat6-0137",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / TCE RR - 2025) Em uma boutique, uma jaqueta é vendida por R$ 360,00 e uma blusa, por R$ 240,00. Em uma liquidação dessa boutique, Joana comprou a jaqueta com 30% de desconto e a blusa com 40% de desconto. Em relação ao valor total original, o desconto total conseguido por Joana representa um percentual de",
+      "o": [
+        "33%.",
+        "34%.",
+        "35%.",
+        "36%.",
+        "37%."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0138",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / TCE RR - 2025) Priscila compra um casaco de R$ 360,00 em promoção com 20% de desconto. Além disso, ela tem um cupom de desconto de R$ 20,00. Sobre o valor resultante após os descontos citados, paga-se um imposto de 8%. O valor total em reais que Priscila paga pelo casaco é",
+      "o": [
+        "289,44.",
+        "291,36.",
+        "293,76.",
+        "294,72.",
+        "246,56. 1 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 119 149 q p g Aula 13"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0139",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / PC MG - 2025) Durante uma operação da polícia civil para investigar fraudes fiscais, constatou-se que, em uma amostra de 600 documentos analisados, 55% apresentaram indícios de irregularidades. Ao examinar mais detalhadamente esses documentos com indícios, apurou- se que 30% dos valores neles declarados foram fraudados. Além disso, desses valores fraudulentos, um terço correspondeu a fraudes envolvendo notas “frias” emitidas por empresas fictícias. Com base nessas informações, o número total de documentos analisados que apresentaram indícios e que envolvem fraudes relacionadas a notas “frias” emitidas por empresas fictícias é",
+      "o": [
+        "30.",
+        "32.",
+        "33.",
+        "35.",
+        "36."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0140",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FCC / TRT 6ª Região - 2025) Um fabricante de sabonetes vende cada caixa por R$ 254,40. Uma caixa contém uma dúzia de embalagens e cada embalagem contém 4 sabonetes. Se um comprador solicita mais de 100 caixas, o fabricante faz um desconto de 5% no preço total, o fabricante recebeu um pedido de 6000 sabonetes. O valor a ser pago pelo comprador é",
+      "o": [
+        "R$ 31.800,00.",
+        "R$ 30.210,00.",
+        "R$ 33.390,00.",
+        "R$ 28.620,00.",
+        "R$ 32.500,00."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0141",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(CESGRANRIO / BNB - 2024) O ingresso para um evento em um clube custou R$ 45,00 para todo o público, excetuando-se apenas os estudantes, a quem foram dados 40% de desconto. O evento teve um público pagante de 106 pessoas e arrecadou um total de R$ 4.410,00. Nesse evento, a soma dos algarismos do número de pessoas que pagaram ingresso sem desconto é igual a",
+      "o": [
+        "16",
+        "15",
+        "14",
+        "13",
+        "12 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 120 149 q p g Aula 13"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0142",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(CESGRANRIO / BNB - 2024) Cerca de 36,7% dos aprovados no ITA estudaram em Fortaleza Um levantamento do Instituto Tecnológico de Aeronáutica (ITA) mostra que, nos vestibulares de 2012 a 2022, estudantes da capital cearense ocuparam 543 vagas, o que corresponde a cerca de 36,7% do total de vagas disponíveis. Fortaleza foi também a cidade que mais aprovou alunos em oito dos últimos 11 anos no ITA, um dos vestibulares mais difíceis do país. Disponívelem:https://g1.globo.com/ce/ceara/educacao/noticia/2022/12/15/36percent-dos-aprovados-no-ita- estuda-ram-em-fortaleza-entenda-por-que-o-ceara-tem-alta-apro-vacao.ghtml. Acesso em: 3 fev. 2024. Adaptado. Considerando-se o texto, o número total aproximado de vagas disponíveis, no período citado, é obtido por",
+      "o": [
+        "543 ∙100 ⁄36,7",
+        "543 ∙100 ⁄367",
+        "543 ∙100 ⁄0,367",
+        "543 ∙36,7⁄100",
+        "543 ∙367 ⁄100"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0143",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / Pref. SP - 2024) O gráfico apresenta a distribuição do número de alunos do terceiro e do quarto anos, turmas A e B, de determinada escola. Sabendo que o número de alunos do quarto ano corresponde a 3/5 do número de alunos do terceiro ano, é correto afirmar que o número de alunos do quarto ano, turma A, corresponde, do número de alunos do terceiro ano, turma B, a:",
+      "o": [
+        "80%",
+        "60%",
+        "90%",
+        "70% 3 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 121 149 q p g Aula 13",
+        "100%"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0144",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / CM SP - 2024) Há 24 anos, a idade do meu filho correspondia a 25% da idade que eu tinha. Hoje, a idade dele corresponde a 50% da que tenho. Se nenhum de nós morrer até lá, a idade dele corresponderá a 60% da idade que eu terei daqui a exatos",
+      "o": [
+        "20 anos.",
+        "18 anos.",
+        "16 anos.",
+        "15 anos.",
+        "12 anos."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 11.",
+      "source_number": 11
+    },
+    {
+      "id": "atamf-mat6-0145",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(CESGRANRIO / CMB - 2024) Uma pessoa que não exerce atividade remunerada contribui ao INSS facultativamente pagando 11% do salário mínimo nacional por mês. Em 2023, o salário mínimo nacional era R$ 1.302,00 nos quatro primeiros meses e R$ 1.320,00 nos demais meses do ano. Quanto essa pessoa pagou, em reais, ao INSS, em 2023?",
+      "o": [
+        "288,42",
+        "718,08",
+        "1.311,00",
+        "1.734,48",
+        "1.918,40 4 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 122 149 q p g Aula 13"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 12.",
+      "source_number": 12
+    },
+    {
+      "id": "atamf-mat6-0146",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FUNDATEC / ALERS - 2024) Após uma revisão de trabalho, foi proposta uma modificação salarial em uma empresa que visa aumentar o salário em 10%. Assim, os funcionários que trabalham e ganham por hora trabalhada deverão trabalhar 10 horas para ganhar o que antes ganhavam em quantas horas trabalhadas?",
+      "o": [
+        "10,1.",
+        "10,3.",
+        "10,5.",
+        "10,9.",
+        "11."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 13.",
+      "source_number": 13
+    },
+    {
+      "id": "atamf-mat6-0147",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / SSP AM - 2022) Em um saco há muitas bolinhas, todas do mesmo tamanho, algumas brancas, e as outras pretas. Dessas bolinhas, umas são mais leves e as outras, mais pesadas. Sabe-se que: 70% de todas as bolinhas são brancas. 25% das bolinhas leves são pretas. 60% das bolinhas pretas são pesadas. A porcentagem de bolinhas pesadas e brancas nesse saco é de",
+      "o": [
+        "26%",
+        "30%",
+        "34%",
+        "38%",
+        "42%"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 14.",
+      "source_number": 14
+    },
+    {
+      "id": "atamf-mat6-0148",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / CMSJC - 2022) No almoxarifado de uma empresa, o número de resmas de papel colorido corresponde a 12% do número de resmas de papel branco. Após a compra de 40 resmas de papel branco e 70 resmas de papel colorido, o número de resmas de papel branco excede o número de resmas de papel colorido em 586. Após a compra, a soma de resmas de papel branco e colorido no almoxarifado é igual a",
+      "o": [
+        "696",
+        "770",
+        "784",
+        "836",
+        "894 5 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 123 149 q p g Aula 13"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 15.",
+      "source_number": 15
+    },
+    {
+      "id": "atamf-mat6-0149",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / CBM AM - 2022) Um clube possuía, certo ano, mais de uma centena de sócios. No ano seguinte recebeu 54 novos sócios que correspondiam a 30% do número de sócios do ano anterior. No ano seguinte a esse, o clube recebeu novamente 54 novos sócios. A porcentagem que esses últimos novos sócios representam do número de sócios do ano anterior é, aproximadamente,",
+      "o": [
+        "30%.",
+        "27%.",
+        "25%.",
+        "23%.",
+        "21%."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 16.",
+      "source_number": 16
+    },
+    {
+      "id": "atamf-mat6-0150",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / GCM Osasco - 2022) Em uma empresa, 30% dos funcionários têm idade superior a 60 anos e, entre eles, 20% está de licença médica. Dos demais funcionários, apenas 6 estão de licença médica, o que corresponde a 4% do total de funcionários da empresa. O número de funcionários com idade superior a 60 anos que estão de licença médica é",
+      "o": [
+        "10.",
+        "9.",
+        "8.",
+        "7.",
+        "6."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 17.",
+      "source_number": 17
+    },
+    {
+      "id": "atamf-mat6-0151",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / SSP AM - 2022) Em um saco há 180 bolinhas, umas brancas, outras pretas e não há bolinhas de outra cor. Das bolinhas do saco, 60% são pretas. São retiradas N bolinhas brancas do saco e, então a porcentagem de bolinhas pretas do saco passou a ser de 80%. O valor de N é",
+      "o": [
+        "20",
+        "25",
+        "30",
+        "40",
+        "45"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 20.",
+      "source_number": 20
+    },
+    {
+      "id": "atamf-mat6-0152",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / Pref. Taubaté - 2022) Ontem, Maria pagou o valor R$ 46,00 em uma unidade de certo ==b3d1f== produto, e o dono da loja informou que esse valor já estava com aumento de 15%. Sem esse aumento, o preço que Maria pagaria nesse produto seria",
+      "o": [
+        "R$ 43,00.",
+        "R$ 42,00.",
+        "R$ 41,00.",
+        "R$ 40,00",
+        "R$ 39,00."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 21.",
+      "source_number": 21
+    },
+    {
+      "id": "atamf-mat6-0153",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / MPE GO - 2022) Antônio teve seu aluguel reajustado em 10%. O valor do aluguel reajustado é R$ 2.772,00. O valor do aluguel de Antônio antes do reajuste era",
+      "o": [
+        "R$ 2.072,00.",
+        "R$ 2.494,80.",
+        "R$ 2.520,00.",
+        "R$ 2.507,70.",
+        "R$ 2.527,20."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 24.",
+      "source_number": 24
+    },
+    {
+      "id": "atamf-mat6-0154",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / PM SP - 2022) Em um grupo de soldados recém-formados, 20% têm o ensino superior completo e, desses, 60% cursaram em instituição pública. Dos que não cursaram em instituição pública, 40% cursaram em faculdades, 30% cursaram em centros universitários, e os demais, em universidades particulares. Sabendo-se que, desse grupo, 150 soldados estudaram em universidades particulares, o número de soldados recém-formados, e que não têm ensino superior completo, é",
+      "o": [
+        "1.250.",
+        "1.666.",
+        "5.000.",
+        "3.000.",
+        "2.083. 8 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 126 149 q p g Aula 13"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 25.",
+      "source_number": 25
+    },
+    {
+      "id": "atamf-mat6-0155",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FCC / Pref. Recife - 2019) Em uma sala se encontra em reunião um grupo de pessoas formado por homens e mulheres. Em um determinado momento, 20% das mulheres deixaram o recinto e o número de mulheres ficou igual a 3/5 do número de homens. Se o total do grupo passou a ser de 32 pessoas, então a porcentagem de homens na sala passou a ser de",
+      "o": [
+        "84,52%",
+        "62,50%",
+        "56,25%",
+        "50,00%",
+        "87,50%"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0156",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FCC / AFAP - 2019) O time de futsal Campeões da Vida participou de um campeonato ganhando 40% e empatando 24% das partidas de que participou. Como perdeu 9 partidas no campeonato, o número de partidas disputadas pelo time foi de",
+      "o": [
+        "36",
+        "64",
+        "30",
+        "25",
+        "16 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 129 149 q p g Aula 13"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0157",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(CESPE / CPRM - 2016) Considere que 85% das residências de determinado município estão ligadas à rede de abastecimento de água tratada e que 60% dessas residências estão ligadas à rede de esgotamento sanitário. Nessa situação, a percentagem de residências do município que são servidas de água tratada e estão ligadas à rede de esgotamento sanitário é igual a",
+      "o": [
+        "40%",
+        "25%",
+        "15%",
+        "60%",
+        "51%"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0158",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / IBGE - 2017) Moacir entrevistou os funcionários de uma empresa que foram admitidos nos últimos cinco anos e anotou o ano em que==b3d1f== cada um ingressou na empresa. O quadro abaixo mostra a marcação que Moacir fez para obter as quantidades de funcionários admitidos em cada ano a partir de 2012. Desse grupo de funcionários, a porcentagem dos que foram admitidos depois de 2014 é:",
+      "o": [
+        "30%",
+        "32%",
+        "36%",
+        "40%",
+        "45% 3 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 130 149 q p g Aula 13"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0159",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / SEFAZ AM - 2022) Em certa quinta-feira o gerente de uma loja pediu ao seu funcionário para, com sua calculadora, multiplicar os preços de todos os produtos por 0,78, pois o dia seguinte seria a sexta-feira dos descontos. O desconto que a loja estava oferecendo era de",
+      "o": [
+        "0,78%.",
+        "78%.",
+        "0,22%.",
+        "22%.",
+        "2,2%."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0160",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / Docas PB - 2022) O preço de venda de um produto teve um aumento de 12%, quando comparado ao preço de venda praticado imediatamente anterior. Se, após o aumento, o preço de venda desse produto passou a ser de R$ 16,80, então o aumento, em reais, foi de",
+      "o": [
+        "R$ 1,60.",
+        "R$ 1,70.",
+        "R$ 1,80.",
+        "R$ 1,90.",
+        "R$ 2,00."
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0161",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(CESPE / IBGE – 2021) Daniel comercializava cada unidade do produto A por R$ 100 e cada unidade do produto B por R$ 200. No dia 8/4/2021, Daniel aumentou o preço da unidade do produto A em 10% e o preço da unidade do produto B em 30%. No dia 15/4/2021, pressionado pelos seus clientes, Daniel reduziu os preços então vigentes, tanto do produto A quanto do produto B, em 20%. Nessa situação, se Ernesto adquiriu de Daniel uma unidade do produto A e uma unidade do produto B no dia 16/4/2021, ele pagou por esses produtos um valor",
+      "o": [
+        "Inferior a R$ 300.",
+        "entre R$ 300 e R$ 310.",
+        "entre R$ 311 e R$ 340.",
+        "entre R$ 341 e R$ 350.",
+        "superior a R$ 350. 1 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 132 149 q p g Aula 13"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0162",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FCC / ALAP - 2020) Ana aplicou R$ 1.000,00 em um investimento que rendeu 8% no primeiro mês e 6% no segundo mês. Bete aplicou R$ 1.000,00 em um investimento que, após os dois primeiros meses, rendeu 14%. Comparando os ganhos de Ana e de Bete, é correto afirmar que, após os dois primeiros meses,",
+      "o": [
+        "Bete ganhou R$ 4,80 a mais do que Ana.",
+        "Ana ganhou R$ 4,80 a mais do que Bete.",
+        "Ana e Bete tiveram ganhos iguais.",
+        "Ana ganhou R$ 34,00 a mais do que Bete.",
+        "Bete ganhou R$ 34,00 a mais do que Ana. 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 133 149 q p g Aula 13"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0163",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / CMBP - 2020) Desconsiderando as inflações, o orçamento público de determinado município, em 2018, foi 10% menor que o orçamento público do ano anterior. Em 2019, o orçamento público do município em questão foi 10% maior que o de 2018. Sabendo-se que, para 2020, o orçamento público desse município foi 10% maior que o de 2019, então é verdade afirmar que, comparados ao de 2017, o orçamento público de 2020 foi maior em:",
+      "o": [
+        "10,0%",
+        "9,5%",
+        "8,9%",
+        "7,6%",
+        "6,0%"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0164",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / Pref. Angra RJ - 2019) Em uma região turística, uma pousada recebeu, em 2018, 20% mais hóspedes do que tinha recebido no ano anterior e, em 2019, recebeu 40% mais hóspedes do que em 2018. Nesse período, de 2017 a 2019, o aumento do número de hóspedes que a pousada recebeu foi de",
+      "o": [
+        "60%",
+        "62%",
+        "64%",
+        "66%",
+        "68%"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0165",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / FITO - 2020) Elisa fez um exame de sangue para verificar sua glicemia em jejum e o resultado foi de 260 mg/dL. Seu médico prescreveu remédio, dieta e exercícios para que alcançasse a taxa de 110 mg/dL que seria a sua meta. Um mês após iniciado o tratamento, em um segundo exame, verificou-se que sua taxa diminuiu em 40%. Elisa continuou o tratamento e vinte dias depois, em terceiro exame, constatou- se que sua taxa havia diminuído 20% em relação ao segundo exame. Desse modo, é correto afirmar que o resultado do terceiro exame indicou que a taxa de glicose de Elisa estava, em relação a sua meta, um valor igual a",
+      "o": [
+        "14,8 mg/dL inferior.",
+        "12,0 mg/dL inferior.",
+        "6,0 mg/dL inferior.",
+        "14,8 mg/dL superior.",
+        "6,0 mg/dL superior. 3 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 134 149 q p g Aula 13"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0166",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FCC / Pref. Recife - 2019) O preço de um determinado produto sofreu dois aumentos mensais consecutivos de 10% cada um deles. No mês seguinte ao segundo reajuste, teve seu preço reduzido em 15%. Supondo não ter havido nenhuma outra alteração de preço no período, o preço final do produto sofreu, em relação ao preço inicial (ou seja, antes do primeiro aumento),",
+      "o": [
+        "um aumento de 2,85%.",
+        "um aumento de 5%.",
+        "uma redução de 10%.",
+        "uma redução de 5%.",
+        "uma redução de 2,85%."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0167",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / FITO - 2020) Considere a seguinte informação para responder a questão. ==b3d1f== Em 2019, o número de pessoas atendidas em uma repartição pública, no mês de novembro, foi 15% menor que o número de pessoas atendidas, na mesma repartição, no mês de outubro. Se, no mês de outubro, o número de pessoas atendidas foi igual a 140, então, para saber o número de pessoas atendidas em novembro, pode-se corretamente efetuar a seguinte operação:",
+      "o": [
+        "140 – 0,15",
+        "140 ⋅ 0,85",
+        "140 – 1,15",
+        "140 ÷ 0,85",
+        "140 ⋅ 1,15"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 10.",
+      "source_number": 10
+    },
+    {
+      "id": "atamf-mat6-0168",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / Pref. Cananéia - 2020) Os preços dos produtos P e Q, em reais, eram representados por x e 0,8 x, respectivamente. Sabe-se que ambos os preços tiveram um aumento de 25%, e a soma dos dois preços, após o aumento, ficou igual a R$ 270,00. Desse modo, é correto afirmar que o preço do produto P, antes do aumento, era igual a",
+      "o": [
+        "R$ 150,00",
+        "R$ 145,00",
+        "R$ 140,00",
+        "R$ 125,00",
+        "R$ 120,00"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 11.",
+      "source_number": 11
+    },
+    {
+      "id": "atamf-mat6-0169",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FCC / ISS Manaus - 2019) Fernando pagou R$ 100,00 de conta de água e R$ 120,00 de conta de luz referentes ao consumo no mês de janeiro. Se a conta de água sofreu redução mensal de 15% 4 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 135 149 q p g Aula 13 nos meses de fevereiro e março subsequentes, e a conta de luz sofreu aumento mensal de 10% nesses dois meses, para pagar as contas de água e de luz referentes ao consumo no mês de março, Fernando gastou, no total,",
+      "o": [
+        "R$ 2,55 a menos do que gastou nas contas referentes ao consumo no mês de janeiro.",
+        "R$ 4,00 a mais do que gastou nas contas referentes ao consumo no mês de janeiro.",
+        "R$ 1,75 a mais do que gastou nas contas referentes ao consumo no mês de janeiro.",
+        "R$ 6,00 a menos do que gastou nas contas referentes ao consumo no mês de janeiro.",
+        "R$ 0,65 a mais do que gastou nas contas referentes ao consumo no mês de janeiro."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 12.",
+      "source_number": 12
+    },
+    {
+      "id": "atamf-mat6-0170",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FCC / ISS Manaus - 2019) Isabel fez uma aplicação de alto risco que se valorizou em 20% ao final do primeiro ano e 30% ao final do segundo, e desvalorizou- se em 50% ao final do terceiro ano, momento em que Isabel resgatou o saldo total de R$ 6.396,00. O valor nominal da aplicação inicial de Isabel foi de",
+      "o": [
+        "R$ 9.278,00.",
+        "R$ 6.396,00.",
+        "R$ 8.528,00.",
+        "R$ 7.600,00.",
+        "R$ 8.200,00."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 13.",
+      "source_number": 13
+    },
+    {
+      "id": "atamf-mat6-0171",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / Pref. Salvador - 2017) Em 2017, na festa junina de confraternização dos funcionários de determinada empresa, houve a participação de 40% dos funcionários. A direção da empresa espera que, nos dois próximos anos, essa participação dos funcionários aumente, a cada ano, 50% em relação à participação dos funcionários no ano anterior. Em 2019, a direção da empresa espera que a participação dos funcionários na festa junina de confraternização seja, em relação ao total de funcionários, de",
+      "o": [
+        "50%",
+        "60%",
+        "75%",
+        "90%",
+        "130%"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 14.",
+      "source_number": 14
+    },
+    {
+      "id": "atamf-mat6-0172",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / TJ SP - 2019) A média aritmética simples dos números 9, 12, 13, 16, 16 e 24 é a soma de todos eles dividida por 6. O maior desses números supera essa média aritmética simples em 5 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 136 149 q p g Aula 13",
+      "o": [
+        "55%",
+        "60%",
+        "45%",
+        "65%",
+        "50%"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 15.",
+      "source_number": 15
+    },
+    {
+      "id": "atamf-mat6-0173",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / MPE SP - 2019) De acordo com a Companhia Nacional de Abastecimentos (Conab), a saca de 60 kg do arroz longo fino, em casca, foi comercializada, no Estado de São Paulo, ao preço médio de R$ 50,05, no mês de janeiro de 2018, e ao preço médio de R$ 47,75, no mês de fevereiro de 2018. Isso significa que, de janeiro para fevereiro de 2018, o preço médio de comercialização do referido produto teve uma variação negativa que ficou entre:",
+      "o": [
+        "4,4% e 4,5%",
+        "4,5% e 4,6%",
+        "4,7% e 4,8%",
+        "4,8% e 4,9%",
+        "4,9% e 5,0% 6 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 137 149 q p g Aula 13"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 16.",
+      "source_number": 16
+    },
+    {
+      "id": "atamf-mat6-0174",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / SSP AM - 2022) A Secretaria de Segurança Pública do Estado do Amazonas registrou as ocorrências de roubo de veículos em Manaus nos últimos anos. No ano de 2019 foram 2440 ocorrências e no ano seguinte, 1880. Nesse período, as ocorrências de roubo de veículos em Manaus diminuíram em cerca de",
+      "o": [
+        "14%",
+        "17%",
+        "20%",
+        "23%",
+        "26%"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0175",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(CESGRANRIO / BASA - 2022) Em outubro de 2021, segundo dados do Banco Central, os saques nas cadernetas de poupança superaram os depósitos em cerca de R$7,4 bilhões. Foram R$278 bilhões em depósitos e R$285,4 bilhões em saques, aproximadamente, no período. Tomando-se como base o valor total dos depósitos, a diferença percentual entre os totais de retirada e de depósitos, no mês de outubro de 2021,",
+      "o": [
+        "foi de menos de 2%.",
+        "ficou entre 2% e 8%.",
+        "ficou entre 8% e 14%.",
+        "ficou entre 14% e 20%.",
+        "foi superior a 20%."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0176",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / Pref. Taubaté - 2022) Um agricultor possui em seu terreno 90 macieiras, cada uma produzindo, em média, 125 maças. Ao comprar um terreno vizinho com 160 macieiras, cada uma produzindo, em média, 100 maças, a produtividade média de maças por macieira com seu novo total de macieiras",
+      "o": [
+        "aumentou 2,66%.",
+        "aumentou 1,50%.",
+        "caiu 12,80%.",
+        "caiu 8,72%.",
+        "caiu 4,50%. 1 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 139 149 q p g Aula 13"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0177",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / PM AM - 2022) Segundo dados da PM do Estado do Amazonas, o número de veículos recuperados em 2018 foi 320 e o número de veículos recuperados em 2020 foi 870. Comparando os dados desses dois anos, o número de veículos recuperados em 2020 foi maior que o de 2018 em cerca de:",
+      "o": [
+        "130%.",
+        "140%.",
+        "150%.",
+        "160%.",
+        "170%. ==b3d1f=="
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0178",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV - PM SP - 2021) Em certa cidade, o número de furtos de automóveis em maio de 2020 foi 40% menor do que em janeiro de 2020. De maio de 2020 para janeiro de 2021, houve um aumento de 45% no número de furtos de automóveis. Nessa cidade, de janeiro de 2020 para janeiro de 2021, com relação ao número de furtos de automóveis, houve",
+      "o": [
+        "um aumento de 5%.",
+        "um aumento de 12,5%.",
+        "um aumento de 15%.",
+        "uma redução de 13%.",
+        "uma redução de 15%."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0179",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(CESPE / TCE PB – 2018) Se um lojista aumentar o preço original de um produto em 10% e depois der um desconto de 20% sobre o preço reajustado, então, relativamente ao preço original, o preço final do produto será 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 140 149 q p g Aula 13",
+      "o": [
+        "12% inferior",
+        "18% inferior",
+        "8% superior",
+        "15% superior",
+        "10% inferior"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0180",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / CGM Niterói - 2018) Sérgio tem 50% mais figurinhas das seleções da Copa do Mundo do que Alice. Sheila tem 25% menos figurinhas do que Alice. Conclui-se que",
+      "o": [
+        "Sérgio tem 20% mais figurinhas do que Sheila.",
+        "Sérgio tem 25% mais figurinhas do que Sheila.",
+        "Sérgio tem 50% mais figurinhas do que Sheila.",
+        "Sérgio tem 75% mais figurinhas do que Sheila.",
+        "Sérgio tem 100% mais figurinhas do que Sheila."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0181",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / MPE SP - 2019) De acordo com a Companhia Nacional de Abastecimentos (Conab), a saca de 60 kg do arroz longo fino, em casca, foi comercializada, no Estado de São Paulo, ao preço médio de R$ 50,05, no mês de janeiro de 2018, e ao preço médio de R$ 47,75, no mês de fevereiro de 2018. Isso significa que, de janeiro para fevereiro de 2018, o preço médio de comercialização do referido produto teve uma variação negativa que ficou entre:",
+      "o": [
+        "4,4% e 4,5%",
+        "4,5% e 4,6%",
+        "4,7% e 4,8%",
+        "4,8% e 4,9%",
+        "4,9% e 5,0%"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0182",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / TJ SC - 2015) Em uma casa de lanches, o sanduíche Big custa R$ 8,80, o copo com refrigerante R$ 2,50 e a porção de batatas fritas, R$ 4,70. Entretanto, o consumidor que pedir esses três produtos juntos pagará, na promoção, apenas R$ 14,20. Em relação ao preço normal, o preço da promoção equivale a um desconto de, aproximadamente:",
+      "o": [
+        "7%",
+        "9%",
+        "11%",
+        "13%",
+        "15%"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 11.",
+      "source_number": 11
+    },
+    {
+      "id": "atamf-mat6-0183",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / TJ SP - 2019) Um investidor comprou ações de uma empresa. Planejou vender essas ações em duas situações: I. se subirem 16%; II. se caírem 20%. Em relação ao preço de saída do negócio com prejuízo, o preço de saída do negócio com lucro é superior em",
+      "o": [
+        "45%",
+        "30%",
+        "42%",
+        "40%",
+        "36% 4 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 142 149 q p g Aula 13"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 12.",
+      "source_number": 12
+    },
+    {
+      "id": "atamf-mat6-0184",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / Pref. Jundiaí - 2022) O preço do litro do etanol em certo posto sofreu dois aumentos sucessivos: em março, aumentou 5% em relação ao seu valor inicial; e, em setembro, aumentou x% em relação ao valor vigente desde março. Se comparado com o valor inicial, o valor vigente a partir de setembro corresponde a um aumento de 11,3%. Então, é correto afirmar que x é igual a",
+      "o": [
+        "5,5",
+        "5,7",
+        "6,0",
+        "6,6",
+        "6,9"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0185",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / PC AM - 2022) Em certo município do sul do Estado do Amazonas o índice pluviométrico no ano 2010 foi 30% menor do que o do ano anterior e, em 2011, foi 40% maior do que o do ano anterior. Nesse município, o índice pluviométrico de 2011 foi, em relação ao índice de 2009,",
+      "o": [
+        "maior em 10%.",
+        "maior em 2%.",
+        "igual.",
+        "menor em 2%.",
+        "menor em 10%."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0186",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV - PM SP - 2021) Em certa cidade, o número de furtos de automóveis em maio de 2020 foi 40% menor do que em janeiro de 2020. De maio de 2020 para janeiro de 2021, houve um aumento de 45% no número de furtos de automóveis. Nessa cidade, de janeiro de 2020 para janeiro de 2021, com relação ao número de furtos de automóveis, houve",
+      "o": [
+        "um aumento de 5%.",
+        "um aumento de 12,5%.",
+        "um aumento de 15%. 1 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 144 149 q p g Aula 13",
+        "uma redução de 13%.",
+        "uma redução de 15%."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0187",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / Pref. Angra RJ - 2019) Em uma região turística, uma pousada recebeu, em 2018, 20% mais hóspedes do que tinha recebido no ano anterior e, em 2019, recebeu 40% mais hóspedes do que em 2018. Nesse período, de 2017 a 2019, o aumento do número de hóspedes que a pousada recebeu foi de",
+      "o": [
+        "60%",
+        "62%",
+        "64%",
+        "66%",
+        "68%"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0188",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / TJ SP - 2019) O preço x subiu 20% e agora é y. O preço y caiu 40% e agora é z. O preço z é menor que x em",
+      "o": [
+        "30%",
+        "25%",
+        "20%",
+        "28%",
+        "18% 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 145 149 q p g Aula 13"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0189",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / ALERO - 2018) O valor das ações de certa empresa sofreu queda de 8% no mês de maio, ficou estável em junho e teve queda de 15% em julho. Do início de maio até o final de julho a desvalorização do valor dessas ações foi de",
+      "o": [
+        "20%",
+        "21,6%",
+        "21,8%",
+        "23%",
+        "24,4%"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0190",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(VUNESP / TJ SP - 2019) Sobre o preço P de venda de determinado produto, aplicou-se um aumento de 15% e, sobre o novo preço de venda do produto, aplicou-se, dias depois, um desconto de 10%. Após essas duas mudanças, comparado ao preço P, o preço final de venda do produto aumentou",
+      "o": [
+        "3,0%",
+        "5,0%",
+        "4,5%",
+        "4,0%",
+        "3,5%"
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0191",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / ALERO - 2018) Em um determinado dia, uma ação da bolsa de valores desvalorizou 4%. No dia seguinte, essa mesma ação valorizou 4%. Ao final desses dois dias, em relação ao valor inicial, essa ação",
+      "o": [
+        "não valorizou nem desvalorizou.",
+        "valorizou 0,04%.",
+        "desvalorizou 0,04%.",
+        "valorizou 0,16%.",
+        "desvalorizou 0,16%."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0192",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 13 - Porcentagem",
+      "q": "(FGV / Pref. Paulínia - 2016) Uma fábrica de materiais para escritório começou a produzir em janeiro de 2013. No ano de 2014 a produção da fábrica foi 20% maior que a do ano anterior e, em 2015, por causa da crise, a produção da fábrica foi 30% menor do que a do ano anterior. Em relação a 2013, a produção de 2015 foi menor em",
+      "o": [
+        "10% 3 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 146 149 q p g Aula 13",
+        "12%",
+        "14%",
+        "16%",
+        "18% 4 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 147 149 q p g Aula 13"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 13 - Porcentagem_cropped.pdf, questão 10.",
+      "source_number": 10
+    },
+    {
+      "id": "atamf-mat6-0193",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FGV/ALETO/2024) Em um jogo, duas fichas azuis têm o mesmo valor de cinco fichas vermelhas e uma ficha preta vale o mesmo que três fichas azuis. Assim, duas fichas pretas equivalem a",
+      "o": [
+        "sete fichas vermelhas.",
+        "oito fichas vermelhas.",
+        "nove fichas vermelhas.",
+        "doze fichas vermelhas.",
+        "quinze fichas vermelhas."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 1.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-mat6-0194",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FGV/PMERJ/2024) Um número menos a sua terça parte é igual à sua metade mais 3 unidades. A soma dos algarismos desse número é:",
+      "o": [
+        "6;",
+        "7;",
+        "8;",
+        "9;",
+        "10."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0195",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FGV/CM-SP/2024) Utilizando apenas pesos de 200g e de 350g, o número mínimo de pesos que devem ser reunidos para que se obtenha exatamente 4kg é",
+      "o": [
+        "12.",
+        "14.",
+        "16.",
+        "18.",
+        "20."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0196",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FGV/CM-SP/2024) Neuza escreveu duas vezes, em uma folha de papel, um mesmo número inteiro. Marcelo, a seguir, escreveu três vezes um outro número inteiro, na mesma folha de papel. A soma dos 5 números escritos é 120 e um dos números é 22. A soma dos algarismos do outro número é",
+      "o": [
+        "6.",
+        "7.",
+        "8.",
+        "9.",
+        "10. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 147 www estrategiaconcursos com br 174 Aula 14"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0197",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FGV/TCE-SP/2023) O índice de massa corporal (IMC) de uma pessoa é o quociente de seu peso (em quilogramas) pelo quadrado da altura (em metros). Alberto e Roberto possuem o mesmo IMC. Alberto tem 70 kg de peso e 1,70 m de altura e Roberto tem 1,90 m de altura. O peso de Roberto é de, aproximadamente:",
+      "o": [
+        "79 kg;",
+        "82 kg;",
+        "87 kg;",
+        "91 kg;",
+        "95 kg. FCC ■"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0198",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FCC/TRT-4/2022) Em um clube de leitura há 66 participantes sendo 39 homens e 27 mulheres. A cada semana 4 novos homens e 6 novas mulheres se unem ao clube. O total de participantes na semana em que o número de homens se iguala ao número de mulheres é:",
+      "o": [
+        "126",
+        "136",
+        "146",
+        "96",
+        "116"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0199",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FCC/TRT-4/2022) Uma balsa pode transportar, no máximo, ou 10 carros pequenos ou 6 caminhonetes em uma viagem. O balseiro nunca mistura carros pequenos com caminhonetes em uma mesma viagem e só faz a travessia com a capacidade máxima de sua balsa. Em um determinado dia fez 5 viagens e transportou ao todo 42 veículos. O número de caminhonetes transportadas nesse dia foi",
+      "o": [
+        "24",
+        "12",
+        "30",
+        "18",
+        "36 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 148 www estrategiaconcursos com br 174 Aula 14"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0200",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FCC/TJ-CE/2022) André e Bruno possuem algumas bolinhas de gude. Se André der 2 de suas bolinhas para Bruno, eles ficam com a mesma quantidade de bolinhas. Por outro lado, se Bruno der duas de suas bolinhas para André, este ficará com o dobro de bolinhas que Bruno ficou. Ao todo, o número de bolinhas que André e Bruno possuem é igual a",
+      "o": [
+        "22.",
+        "24.",
+        "18.",
+        "20.",
+        "16. CEBRASPE"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 10.",
+      "source_number": 10
+    },
+    {
+      "id": "atamf-mat6-0201",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(VUNESP/DESENVOLVE SP/2024) Certo número de amigos decidiu se cotizar para comprar um presente de casamento para Mariana. Cada um deveria dar o mesmo valor, o que cobriria o preço de R$ 1.800,00 do presente. Antes da compra, dois novos amigos ingressaram no grupo e, com isso, o valor individual por amigo para a compra do presente de Mariana foi reduzido em R$ 12,50. Sendo x o número de amigos antes do ingresso dos dois novos amigos no grupo, x é igual a solução positiva da equação:",
+      "o": [
+        "x2 + 3x – 270 = 0",
+        "x2 + 8x – 240 = 0",
+        "x2 + 6x – 280 = 0",
+        "x2 + 2x – 288 = 0",
+        "x2 – 3x – 270 = 0"
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0202",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(VUNESP/ISS-SANTO ANDRÉ/2024) Um grupo de amigos combinou de preparar uma festa. Cada amigo deveria levar dois pratos de iguarias, cada prato contendo um número de iguarias igual ao número de amigos do grupo subtraído de 8. Se o total de iguarias que foram levadas foi 1768, o algarismo das unidades do número de amigos desse grupo é",
+      "o": [
+        "8.",
+        "7.",
+        "6.",
+        "5.",
+        "4."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0203",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FGV/PREF. SP/2023) Sabe-se que a soma dos cubos das raízes da equação 𝒙𝟐+ 𝒎𝒙+ 𝒏= 𝟎, onde m e n são reais, é 63. É correto afirmar que 𝒏 é igual a:",
+      "o": [
+        "𝑚2 + 63 𝑚2 63",
+        "+ 2 𝑚 𝑚2 21",
+        "+ 3 𝑚 𝑚3",
+        "+ 63 2 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 156 www estrategiaconcursos com br 174 Aula 14 𝑚3",
+        "+ 21 3"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0204",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FGV/MPE-SC/2022) Sejam A e B as raízes da equação 𝒙² −𝟕𝒙+ 𝟒= 𝟎. O valor de 𝑨𝟐+ 𝑩𝟐 é:",
+      "o": [
+        "49",
+        "41",
+        "36",
+        "28",
+        "11"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 5.",
+      "source_number": 5
+    },
+    {
+      "id": "atamf-mat6-0205",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FUNDATEC/PREF. FLORES DA CUNHA/2022) Considerando 𝒙= 𝟐 como uma das raízes reais da seguinte equação do 2º grau 𝟑𝒙𝟐−𝟒𝒙+ 𝒌= 𝟎, o valor de (𝒌 – 𝟏)𝟐 corresponde a:",
+      "o": [
+        "3.",
+        "5.",
+        "9.",
+        "10.",
+        "25."
+      ],
+      "r": "E",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 6.",
+      "source_number": 6
+    },
+    {
+      "id": "atamf-mat6-0206",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(CETREDE/PREF. FRECHEIRINHA/2022) Na equação 𝒙𝟐−𝒂𝒙−𝟐𝟎𝒂² = 𝟎, com 𝒂> 𝟎, os valores de x são",
+      "o": [
+        "𝑎 e −2𝑎.",
+        "−4𝑎 e 5𝑎.",
+        "−2 e 2𝑎².",
+        "−4 e 5.",
+        "5𝑎² e −3."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0207",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(FADESP/CM MARABÁ/2021) A equação 𝒙𝟐−𝟏𝟎𝒎𝒙+ 𝟐𝟓𝒎² = 𝟎 tem",
+      "o": [
+        "duas raízes iguais.",
+        "uma raiz igual ao dobro da outra.",
+        "uma raiz igual à metade da outra.",
+        "uma raiz igual ao triplo da outra.",
+        "uma raiz igual à terça parte da outra. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 157 www estrategiaconcursos com br 174 Aula 14"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 9.",
+      "source_number": 9
+    },
+    {
+      "id": "atamf-mat6-0208",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(AOCP/SED-MS/2022) Considere a equação (𝒎−𝟏)𝒙𝟐−𝟐𝒎𝒙+ (𝒎+ 𝟐) = 𝟎 na variável x, em que m é um número real e diferente de 1. Nessas condições, analise as assertivas a seguir e assinale a alternativa que aponta a(s) corretas(s). I. Se 𝒎> 𝟐, a equação não possui raízes reais. II. Existem apenas dois valores reais de m para os quais a equação admite raízes reais. III. Se 𝒎> 𝟐, a equação possui pelo menos uma raiz real. IV. Para algum 𝒎< 𝟐, a equação possui duas raízes reais e distintas cuja soma é zero.",
+      "o": [
+        "Apenas I.",
+        "Apenas I e IV.",
+        "Apenas III e IV.",
+        "Apenas II e III.",
+        "Apenas I, II e IV."
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 11.",
+      "source_number": 11
+    },
+    {
+      "id": "atamf-mat6-0209",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(IBADE/PREF. LINHARES/2020) Se 𝒙−𝟑 é menor que 𝒚, então",
+      "o": [
+        "𝑥 e 𝑦 são positivos.",
+        "𝑦 é menor que 𝑥+ 3.",
+        "𝑦 é maior que 𝑥.",
+        "𝑦+ 3 é maior que 𝑥.",
+        "𝑥 e 𝑦 são negativos."
+      ],
+      "r": "D",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 7.",
+      "source_number": 7
+    },
+    {
+      "id": "atamf-mat6-0210",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(QUADRIX/CRO-RS/2019) Sabendo‐se que X, Y e Z são números inteiros e positivos e que 𝑿+ 𝒀= 𝟏𝟎, 𝑿+ 𝒁< 𝟏𝟐 e 𝒀+ 𝒁< 𝟏𝟒, é correto afirmar que",
+      "o": [
+        "𝑍< 8.",
+        "𝑍< 𝑋.",
+        "𝑋< 𝑌.",
+        "𝑌< 𝑋.",
+        "𝑋+ 𝑌+ 𝑍< 16."
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 8.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-mat6-0211",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(AOCP/PREF. BETIM/2020) Considere 𝒙 um número real, sendo S1 o conjunto solução da inequação 𝒙² −𝒙−𝟔< 𝟎 e 𝑺𝟐 o conjunto solução da inequação 𝒙² −𝟑𝒙−𝟒> 𝟎. A intersecção de 𝑺𝟏 com 𝑺𝟐 resultará em um conjunto 𝑺𝟑, tal que",
+      "o": [
+        "𝑆3 = {𝑥∈ℝ∶−2 < 𝑥< −1}",
+        "𝑆3 = {𝑥∈ℝ∶−1 < 𝑥< 3}",
+        "𝑆3 = {𝑥∈ℝ∶3 < 𝑥< 4}",
+        "𝑆3 = {𝑥∈ℝ∶−3 < 𝑥< −2}",
+        "𝑆3 = {𝑥∈ℝ∶1 < 𝑥< 3}"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 2.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-mat6-0212",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(IDIB/PREF. JAGUARIBE/2020) Seja a inequação do segundo grau dada por 𝒙² −𝟐𝒙+ 𝒑> 𝟎, e seja 𝒑∈ ℝ. Assinale a alternativa que representa corretamente o valor de p para a inequação ser verdadeira para todo x.",
+      "o": [
+        "𝑝= 1",
+        "𝑝> 1",
+        "𝑝< 1",
+        "𝑝= 0"
+      ],
+      "r": "B",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 3.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-mat6-0213",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(IDECAN/CBM-ES/2022) Considerando 𝒙∈ℝ, determine o conjunto solução para a seguinte inequação do segundo grau. −𝟐𝒙𝟐+ 𝟑𝒙+ 𝟐≥𝟎 1",
+      "o": [
+        "𝑆= {𝑥∈ℝ | − ≤𝑥≤2} 2",
+        "𝑆= {𝑥∈ℝ | 𝑥≤2} 1",
+        "𝑆= {𝑥∈ℝ |𝑥≥− 2}",
+        "𝑆= {𝑥∈ℝ |0 ≤𝑥≤2} Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 168 www estrategiaconcursos com br 174 Aula 14 1",
+        "𝑆= {𝑥∈ℝ | − ≤𝑥≤0} 2"
+      ],
+      "r": "A",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 4.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-mat6-0214",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Aula 14 - Equação de Primeiro Grau",
+      "q": "(QUADRIX/CRB8/2018) A idade de Úrsula, em anos, é um número inteiro ímpar que satisfaz à inequação 𝒙² – 𝟑𝟒𝒙 + 𝟐𝟖𝟓< 𝟎. Com base nesse caso hipotético, assinale a alternativa que apresenta o conjunto ao qual a idade de Úrsula pertence.",
+      "o": [
+        "{10, 11, 12}",
+        "{13, 14, 15}",
+        "{16, 17, 18}",
+        "{19, 20, 21}",
+        "{21, 22, 23}"
+      ],
+      "r": "C",
+      "e": "Gabarito da lista de questões da apostila Aula 14 - Equação de Primeiro Grau_cropped.pdf, questão 7.",
+      "source_number": 7
+    }
+  ]
+}
