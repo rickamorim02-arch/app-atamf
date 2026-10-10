@@ -1,0 +1,1272 @@
+{
+  "questions": [
+    {
+      "id": "atamf-info10-deep-0167",
+      "s": "Informática",
+      "t": "Aula 08 - Excel",
+      "q": "(IBFC / PC-RJ – 2014) Uma caixa de texto é um objeto que permite inserir e digitar um texto em qualquer lugar do documento do Microsoft Office 2010. No Microsoft Excel 2010 para adicionar uma caixa de texto deve-se:",
+      "o": [
+        "ir na guia Ferramentas, no grupo Texto e clicar em Inserir Caixa.",
+        "ir na guia Inserir, no grupo Ferramentas e clicar em Caixa de Texto.",
+        "r na guia Ferramentas, no grupo Texto e clicar em Inserir Dados.",
+        "ir na guia Dados, no grupo Ferramentas e clicar em Inserir Dados.",
+        "ir na guia Inserir, no grupo Texto e clicar em Caixa de Texto."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 08, questão 127. Explicação conceitual pendente de validação.",
+      "source_number": 127
+    },
+    {
+      "id": "atamf-info10-deep-0185",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CEBRASPE / PC-PE – 2023) A função Novo Slide, na faixa de opções do PowerPoint, permite escolher:",
+      "o": [
+        "as dimensões do slide.",
+        "a transição do slide.",
+        "a configuração de impressão do slide.",
+        "o layout do slide.",
+        "a formatação da tela de fundo do slide."
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 10, questão 3. Explicação conceitual pendente de validação.",
+      "source_number": 3
+    },
+    {
+      "id": "atamf-info10-deep-0190",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CEBRASPE / TJ-CE - 2023) Assinale a opção em que estão apresentados apenas aplicativos do pacote Office 365:",
+      "o": [
+        "Excel, Word, Windows Explorer",
+        "Word, PowerPoint, Calculadora",
+        "PowerPoint, Excel, Paint, Word Pad",
+        "Word Pad PowerPoint, Excel",
+        "Outlook, PowerPoint, Excel, Word"
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 10, questão 8. Explicação conceitual pendente de validação.",
+      "source_number": 8
+    },
+    {
+      "id": "atamf-info10-deep-0203",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / SABESP - 2014) No Microsoft PowerPoint 2010, em português, no modo de visualização Normal é mostrado um painel à esquerda onde são exibidos os slides em miniatura, enquanto no centro da janela, aparece o slide atual em edição. As opções para inserir novo slide, duplicar slide ou excluir slide estão disponíveis clicando-se:",
+      "o": [
+        "com o botão direito do mouse sobre um dos slides em miniatura no painel da esquerda.",
+        "no grupo Opções da guia Slides.",
+        "no grupo Gerenciador de Slides da guia Ferramentas.",
+        "com o botão direito do mouse sobre o slide em edição no centro da tela.",
+        "na guia Página Inicial."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 10, questão 21. Explicação conceitual pendente de validação.",
+      "source_number": 21
+    },
+    {
+      "id": "atamf-info10-deep-0204",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / SERGAS - 2013) Em um slide em branco de uma apresentação criada utilizando-se o Microsoft PowerPoint 2010 (em português), uma das maneiras de acessar alguns dos comandos mais importantes é clicando-se com o botão direito do mouse sobre a área vazia do slide. Dentre as opções presentes nesse menu, estão as que permitem:",
+      "o": [
+        "copiar o slide e salvar o slide.",
+        "salvar a apresentação e inserir um novo slide.",
+        "salvar a apresentação e abrir uma apresentação já existente.",
+        "apresentar o slide em tela cheia e animar objetos presentes no slide.",
+        "mudar o layout do slide e a formatação do plano de fundo do slide."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 10, questão 22. Explicação conceitual pendente de validação.",
+      "source_number": 22
+    },
+    {
+      "id": "atamf-info10-deep-0205",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / PGE-BA - 2013) O conhecimento referido no item III possibilita a inserção de elementos nos slides como, por exemplo, fotos contidas em um álbum. Nativamente o PowerPoint (2010) abriga essa facilidade no \"Álbum de Fotografias\" localizado na Guia:",
+      "o": [
+        "Animações.",
+        "Arquivo.",
+        "Página inicial.",
+        "Design.",
+        "Inserir."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 10, questão 23. Explicação conceitual pendente de validação.",
+      "source_number": 23
+    },
+    {
+      "id": "atamf-info10-deep-0206",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / TER AC - 2010) Uma apresentação elaborada no MS PowerPoint 2003 pode ser impressa na forma de folhetos para consultas. Espaços em linhas para que se façam anotações sobre as apresentações são reservados no folheto de:",
+      "o": [
+        "um slide por página",
+        "dois slides por página",
+        "três slides por página",
+        "quatro slides por página",
+        "seis slides por página"
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 10, questão 24. Explicação conceitual pendente de validação.",
+      "source_number": 24
+    },
+    {
+      "id": "atamf-info10-deep-0208",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / SEPLA DR SP- 2009) Somente os títulos dos slides de uma apresentação em PowerPoint podem ser impressos escolhendo-se em imprimir a forma:",
+      "o": [
+        "Slides",
+        "Anotações, apenas",
+        "Folhetos, apenas",
+        "Anotações ou Folhetos",
+        "Estrutura de Tópicos"
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 10, questão 26. Explicação conceitual pendente de validação.",
+      "source_number": 26
+    },
+    {
+      "id": "atamf-info10-deep-0209",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC/ MPE RS- 2018) As anotações sobre um slide do PowerPoint podem ser digitadas por meio do painel de anotações no modo de exibição:",
+      "o": [
+        "de apresentação de slides",
+        "de classificação de slides",
+        "de anotações",
+        "mestre",
+        "normal"
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 10, questão 27. Explicação conceitual pendente de validação.",
+      "source_number": 27
+    },
+    {
+      "id": "atamf-info10-deep-0211",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / PGE BA - 2013) Quando há a necessidade de se fazer a impressão de uma apresentação elaborada com o Microsoft Power Point, há diferentes opções no que se refere ao Intervalo de Impressão. Uma dessas opções é:",
+      "o": [
+        "Último slide",
+        "Slide Atual",
+        "Primeira Metade",
+        "Primeiro slide",
+        "4 Primeiros Slides"
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 10, questão 29. Explicação conceitual pendente de validação.",
+      "source_number": 29
+    },
+    {
+      "id": "atamf-info10-deep-0213",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / DPE RS - 2017) No Power Point, a opção exibir em “Slide Mestre” contribui para:",
+      "o": [
+        "o efeito de transição entre dois slides sucessivos.",
+        "o controle do tempo de exibição de um slide entre os modos “avançar ao clique do mouse\" ou “avançar após um intervalo de tempo\".",
+        "controle da aparência na apresentação inteira e pode inserir uma forma ou logomarca para que ela seja mostrada em todos os slides.",
+        "a geração de um índice dos slides da apresentação e, dessa forma, permitir que se vá diretamente para um determinado slide durante uma apresentação.",
+        "a inserção de um slide no início da apresentação e executa um clip ou um programa"
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 10, questão 31. Explicação conceitual pendente de validação.",
+      "source_number": 31
+    },
+    {
+      "id": "atamf-info10-deep-0214",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / SANASA - 2019) Um Analista de TI pretende capturar um pedaço de uma foto que está na tela do seu computador para colocá-lo em um slide do Microsoft PowerPoint 2016, em Português, de uma apresentação que está elaborando. Para isso, ele deve escolher Recorte de Tela, que se encontra:",
+      "o": [
+        "na Barra de Ferramentas de Acesso Rápido, guia Imagens, no grupo Inserir Instantâneo.",
+        "no Menu Ferramentas, guia Imagens Online.",
+        "na Faixa de Opções , guia Inserir, Instantâneo.",
+        "no Menu Inserir, guia Imagens.",
+        "na Faixa de Opções, guia Imagens, Instantâneo."
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 10, questão 32. Explicação conceitual pendente de validação.",
+      "source_number": 32
+    },
+    {
+      "id": "atamf-info10-pre-0001",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / Prefeitura de Camaçari-BA – 2024) No ambiente Windows, para evitar a perda de informações em casos de falhas de hardware, erros do sistema e exclusões acidentais, recomenda-se a criação de cópias de segurança de arquivos e dados. Tal procedimento consiste em",
+      "o": [
+        "renomear arquivo.",
+        "realizar becape de arquivo.",
+        "criar atalho de arquivo.",
+        "reiniciar o sistema operacional.",
+        "compactar arquivo."
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 07, questão 1. Explicação conceitual pendente de validação.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-info10-pre-0002",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / PC-PE – 2024) Assinale a opção que corresponde a uma prática recomendada em relação a backups.",
+      "o": [
+        "fazer backup apenas dos dados mais recentes",
+        "usar um único método de backup",
+        "armazenar todas as cópias de backup no mesmo local",
+        "ter múltiplas cópias de backup em locais diferentes",
+        "fazer backups uma vez por ano para economizar espaço"
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 07, questão 2. Explicação conceitual pendente de validação.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-info10-pre-0005",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / IFF – 2018) Na primeira vez que se realiza uma cópia de segurança, seja de um servidor ou de um computador pessoal, o tipo de becape mais indicado é o:",
+      "o": [
+        "diferencial.",
+        "incremental",
+        "periódico.",
+        "diário.",
+        "completo."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 19. Explicação conceitual pendente de validação.",
+      "source_number": 19
+    },
+    {
+      "id": "atamf-info10-pre-0007",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "CESPE / TRE-PE – 2017) Acerca da realização de cópias de segurança ou becape do Windows, assinale a opção correta.",
+      "o": [
+        "Para que sejam efetivamente recuperados, os dados do becape são armazenados em outra pasta da mesma unidade de armazenamento dos dados originais.",
+        "O becape é uma atividade executada exclusivamente por administradores de redes.",
+        "Após a realização da cópia de segurança, gera-se um arquivo em formato .bkf, o qual não pode ser alterado para outra extensão.",
+        "Na cópia de segurança, são copiados todos os arquivos existentes no computador.",
+        "No becape incremental, são copiados apenas os arquivos novos ou os que foram alterados a partir do último becape."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 25. Explicação conceitual pendente de validação.",
+      "source_number": 25
+    },
+    {
+      "id": "atamf-info10-pre-0009",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / TRE-RS - 2015) Assinale a opção correta relativamente a becapes.",
+      "o": [
+        "Compressão e encriptação são opções relevantes nas estratégias de becape para colaborar na economia de espaço de armazenamento e largura de banda e na confidencialidade de dados sensíveis da organização.",
+        "As desvantagens dos becapes full incluem o demorado tempo para as restaurações e a complexidade de gerenciamento dos itens que devem ser incluídos nas cópias de segurança.",
+        "Os becapes incrementais incluem os arquivos que foram alterados desde o último becape full; os processos de restauração daqueles são mais rápidos que os destes.",
+        "Nos becapes diferenciais, o uso do espaço de armazenamento é mais eficiente que nos incrementais: o modelo de organização da gravação nos becapes diferenciais favorece o uso das áreas contíguas dos dispositivos de armazenamento.",
+        "Na estratégia de becape de dados críticos de uma organização, a opção sobre a frequência de realização do becape deve considerar o cenário mediano entre o pior e o melhor caso relativamente ao tempo, especificamente considerando o volume potencial de dados perdidos, a probabilidade estatística de um sinistro e o tempo médio para restauração do becape."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 32. Explicação conceitual pendente de validação.",
+      "source_number": 32
+    },
+    {
+      "id": "atamf-info10-pre-0010",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / TJ-CE - 2014) A respeito de becape, assinale a opção correta.",
+      "o": [
+        "No planejamento de uma política de becape, deve-se considerar a verificação da periodicidade e da quantidade de dados a serem armazenados.",
+        "A realização periódica de teste de restauração não é considerada uma boa prática de becape, ainda que os dados estejam armazenados em fitas.",
+        "Na medição do desempenho do becape, não se deve considerar a mídia utilizada.",
+        "Não é recomendado que se utilizem discos rígidos para armazenar becapes.",
+        "Os dispositivos ópticos são os melhores hardware disponíveis para a gravação de cópias de segurança no caso de ser necessário o armazenamento de grandes volumes de dados."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 35. Explicação conceitual pendente de validação.",
+      "source_number": 35
+    },
+    {
+      "id": "atamf-info10-deep-0001",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / Prefeitura de Camaçari-BA – 2024) No ambiente Windows, para evitar a perda de informações em casos de falhas de hardware, erros do sistema e exclusões acidentais, recomenda-se a criação de cópias de segurança de arquivos e dados. Tal procedimento consiste em",
+      "o": [
+        "renomear arquivo.",
+        "realizar becape de arquivo.",
+        "criar atalho de arquivo.",
+        "reiniciar o sistema operacional.",
+        "compactar arquivo."
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 07, questão 1. Explicação conceitual pendente de validação.",
+      "source_number": 1
+    },
+    {
+      "id": "atamf-info10-deep-0002",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / PC-PE – 2024) Assinale a opção que corresponde a uma prática recomendada em relação a backups.",
+      "o": [
+        "fazer backup apenas dos dados mais recentes",
+        "usar um único método de backup",
+        "armazenar todas as cópias de backup no mesmo local",
+        "ter múltiplas cópias de backup em locais diferentes",
+        "fazer backups uma vez por ano para economizar espaço"
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 07, questão 2. Explicação conceitual pendente de validação.",
+      "source_number": 2
+    },
+    {
+      "id": "atamf-info10-deep-0019",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / IFF – 2018) Na primeira vez que se realiza uma cópia de segurança, seja de um servidor ou de um computador pessoal, o tipo de becape mais indicado é o:",
+      "o": [
+        "diferencial.",
+        "incremental",
+        "periódico.",
+        "diário.",
+        "completo."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 19. Explicação conceitual pendente de validação.",
+      "source_number": 19
+    },
+    {
+      "id": "atamf-info10-deep-0025",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "CESPE / TRE-PE – 2017) Acerca da realização de cópias de segurança ou becape do Windows, assinale a opção correta.",
+      "o": [
+        "Para que sejam efetivamente recuperados, os dados do becape são armazenados em outra pasta da mesma unidade de armazenamento dos dados originais.",
+        "O becape é uma atividade executada exclusivamente por administradores de redes.",
+        "Após a realização da cópia de segurança, gera-se um arquivo em formato .bkf, o qual não pode ser alterado para outra extensão.",
+        "Na cópia de segurança, são copiados todos os arquivos existentes no computador.",
+        "No becape incremental, são copiados apenas os arquivos novos ou os que foram alterados a partir do último becape."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 25. Explicação conceitual pendente de validação.",
+      "source_number": 25
+    },
+    {
+      "id": "atamf-info10-deep-0032",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / TRE-RS - 2015) Assinale a opção correta relativamente a becapes.",
+      "o": [
+        "Compressão e encriptação são opções relevantes nas estratégias de becape para colaborar na economia de espaço de armazenamento e largura de banda e na confidencialidade de dados sensíveis da organização.",
+        "As desvantagens dos becapes full incluem o demorado tempo para as restaurações e a complexidade de gerenciamento dos itens que devem ser incluídos nas cópias de segurança.",
+        "Os becapes incrementais incluem os arquivos que foram alterados desde o último becape full; os processos de restauração daqueles são mais rápidos que os destes.",
+        "Nos becapes diferenciais, o uso do espaço de armazenamento é mais eficiente que nos incrementais: o modelo de organização da gravação nos becapes diferenciais favorece o uso das áreas contíguas dos dispositivos de armazenamento.",
+        "Na estratégia de becape de dados críticos de uma organização, a opção sobre a frequência de realização do becape deve considerar o cenário mediano entre o pior e o melhor caso relativamente ao tempo, especificamente considerando o volume potencial de dados perdidos, a probabilidade estatística de um sinistro e o tempo médio para restauração do becape."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 32. Explicação conceitual pendente de validação.",
+      "source_number": 32
+    },
+    {
+      "id": "atamf-info10-deep-0035",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / TJ-CE - 2014) A respeito de becape, assinale a opção correta.",
+      "o": [
+        "No planejamento de uma política de becape, deve-se considerar a verificação da periodicidade e da quantidade de dados a serem armazenados.",
+        "A realização periódica de teste de restauração não é considerada uma boa prática de becape, ainda que os dados estejam armazenados em fitas.",
+        "Na medição do desempenho do becape, não se deve considerar a mídia utilizada.",
+        "Não é recomendado que se utilizem discos rígidos para armazenar becapes.",
+        "Os dispositivos ópticos são os melhores hardware disponíveis para a gravação de cópias de segurança no caso de ser necessário o armazenamento de grandes volumes de dados."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 35. Explicação conceitual pendente de validação.",
+      "source_number": 35
+    },
+    {
+      "id": "atamf-info10-deep-0056",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / TJ-MA – 2019) Este tipo de backup cria uma cópia dos dados que foram alterados desde o último backup realizado. Tem como vantagem o baixo consumo de espaço em disco e tem, ainda, um baixo custo comparado com outros tipos de backup para empresas. No entanto, o lado negativo dessa alternativa é que, em casos de necessidade de recuperação de todo o backup, é necessário restaurar um full backup e vários backups anteriores deste tipo deixando a recuperação lenta e com uma maior probabilidade de erros. Este tipo de backup é denominado:",
+      "o": [
+        "diário.",
+        "diferencial.",
+        "completo.",
+        "diferencial progressivo.",
+        "incremental."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 56. Explicação conceitual pendente de validação.",
+      "source_number": 56
+    },
+    {
+      "id": "atamf-info10-deep-0057",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / Prefeitura de Manaus - AM – 2019) Considere que a Fazenda Municipal utiliza o esquema de backup do tipo diferencial dos seus dados. Para realizar a recuperação desse backup o Assistente de TI deve utilizar:",
+      "o": [
+        "apenas o último backup diferencial.",
+        "o último backup completo e o último backup diferencial.",
+        "apenas os backups diferenciais.",
+        "o último backup completo e todos os backups diferenciais.",
+        "apenas o último backup completo."
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 07, questão 57. Explicação conceitual pendente de validação.",
+      "source_number": 57
+    },
+    {
+      "id": "atamf-info10-deep-0059",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / DPE-AM - 2018) Uma das vantagens de escolher o Backup do tipo diferencial, para ser adotado na Defensoria, é:",
+      "o": [
+        "A recuperação requerer apenas o último Backup diferencial e o último Backup completo.",
+        "A menor quantidade de dados armazenado se comparado com o Backup incremental.",
+        "Requerer menor tempo de recuperação se comparado ao Backup completo.",
+        "A maior tolerância a falhas se comparado com o Backup completo.",
+        "Requerer um tempo menor para realizar o Backup se comparado com o Backup incremental."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 59. Explicação conceitual pendente de validação.",
+      "source_number": 59
+    },
+    {
+      "id": "atamf-info10-deep-0060",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / SEGEP-MA – 2018) Em uma situação hipotética, o Programador de Sistemas implementou uma política de backup para a Secretaria de Estado da Gestão, Patrimônio e Assistência dos Servidores − SEGEP que possui as seguintes características: − requer menos espaço de armazenamento; − requer menos tempo para realizar o backup; − copia os dados que foram modificados desde o último backup de qualquer tipo. O tipo de backup escolhido pelo Programador na política de backup é:",
+      "o": [
+        "incremental.",
+        "completo.",
+        "diferencial.",
+        "normal.",
+        "integral."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 60. Explicação conceitual pendente de validação.",
+      "source_number": 60
+    },
+    {
+      "id": "atamf-info10-deep-0062",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / TRF-5ª Região - 2017) Dentre os vários tipos de backup, o Técnico escolheu o tipo Diferencial, pois:",
+      "o": [
+        "ocupa menos espaço de armazenamento se comparado com o backup do tipo Incremental.",
+        "a velocidade para a recuperação do backup é maior, se comparada com a do backup completo.",
+        "os tamanhos dos backups diferenciais não crescem progressivamente como ocorre no backup incremental.",
+        "cada backup diferencial armazena apenas as modificações realizadas desde o backup diferencial anterior.",
+        "para a recuperação são necessários apenas o último backup completo e o último backup diferencial."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 62. Explicação conceitual pendente de validação.",
+      "source_number": 62
+    },
+    {
+      "id": "atamf-info10-deep-0063",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / TST – 2017) Em uma situação hipotética, um Analista de Suporte em Tecnologia da Informação deve escolher o tipo de Backup a ser utilizado no TST. Para tanto, deve considerar que:",
+      "o": [
+        "para a recuperação dos dados de um backup diferencial são necessários apenas o último backup diferencial e o último backup completo.",
+        "a recuperação dos dados de um backup diferencial é mais seguro e integro que em um backup completo.",
+        "o backup incremental ocupa mais espaço de armazenamento se comparado com o backup diferencial.",
+        "para a recuperação dos dados de um backup incremental são necessários apenas o último backup incremental e o último backup completo.",
+        "a recuperação dos dados de um backup do tipo completo é mais demorado que em um backup incremental."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 63. Explicação conceitual pendente de validação.",
+      "source_number": 63
+    },
+    {
+      "id": "atamf-info10-deep-0065",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / TRT-20ª Região - 2016) Um backup completo é executado na sexta-feira e um backup incremental é executado todos os dias a partir deste dia. No sábado são acrescentados 5 arquivos, que são copiados no backup incremental. No domingo alguns arquivos são modificados e somente estes arquivos são copiados no backup incremental. Na segunda-feira os dados do sistema são corrompidos, havendo a necessidade de restauração a partir do backup. Pode-se concluir que, para restaurar os dados ao estado imediatamente anterior à ocorrência do problema, será necessário restaurar:",
+      "o": [
+        "apenas os backups incrementais realizados.",
+        "todos os backups completos já realizados no sistema até segunda-feira.",
+        "apenas os backups incrementais realizados no sábado e no domingo.",
+        "somente o backup completo realizado na sexta-feira e o backup incremental realizado no domingo.",
+        "o backup completo e todos os backups incrementais realizados no período em questão."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 65. Explicação conceitual pendente de validação.",
+      "source_number": 65
+    },
+    {
+      "id": "atamf-info10-deep-0067",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / DPE-RR - 2015) Os backups realizados para atender aos requisitos de arquivamento podem ser categorizados como completos, incrementais e diferenciais. O backup incremental:",
+      "o": [
+        "copia os dados que foram modificados desde o último backup completo ou incremental, o que for mais recente.",
+        "é bem mais lento do que o backup completo, pois é necessário selecionar cada arquivo que foi modificado desde o último backup completo.",
+        "copia todos os dados nos volumes de produção, indistintamente, porém, em alta velocidade.",
+        "é, dentre os tipos de backup, o mais lento e que necessita de mais espaço de armazenamento, porém, a restauração é muito rápida.",
+        "copia os dados que foram modificados desde o último backup, sendo mais lento do que o backup diferencial, porém, mais rápido na restauração dos dados."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 67. Explicação conceitual pendente de validação.",
+      "source_number": 67
+    },
+    {
+      "id": "atamf-info10-deep-0068",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / TRE-PB - 2015) Considere que o administrador de um servidor adotou a política de backup que utiliza a combinação do backup normal e incremental. Para que o administrador possa restaurar os dados, ele precisará:",
+      "o": [
+        "de todos os conjuntos de backups normais e de todos os conjuntos de backups incrementais.",
+        "de todos os conjuntos de backups normais e apenas do último backup incremental.",
+        "apenas do último backup normal e do último backup incremental.",
+        "apenas do último backup normal e de todos os conjuntos de backups incrementais.",
+        "apenas do último backup incremental."
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 07, questão 68. Explicação conceitual pendente de validação.",
+      "source_number": 68
+    },
+    {
+      "id": "atamf-info10-deep-0070",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FGV / TJDFT – 2022) A equipe de Tecnologia da Informação (TI) de um órgão público recebeu uma solicitação para implementar um backup de uma máquina virtual hospedada em seu cluster de virtualização. O cliente solicitou que fossem realizadas cópias diárias dos dados alterados em relação ao último backup completo da pasta /importante. O tipo de backup a ser implementado pela equipe de TI para atender a solicitação do cliente é:",
+      "o": [
+        "imagem da máquina virtual;",
+        "diferencial;",
+        "completo;",
+        "incremental;",
+        "offline."
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 07, questão 70. Explicação conceitual pendente de validação.",
+      "source_number": 70
+    },
+    {
+      "id": "atamf-info10-deep-0071",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FGV / IBGE – 2016) O objetivo de um backup ou cópia de segurança é manter a integridade e a disponibilidade da informação. Cada tipo de ambiente de informação requer uma estratégia de backup adequada. Preocupada com o backup do banco de dados de missão crítica da sua empresa, Paula precisa de uma técnica que permita a cópia dos dados mesmo com o banco aberto (em uso). Para isso, Paula deve fazer um backup:",
+      "o": [
+        "quente (hot);",
+        "frio (cold);",
+        "particionado;",
+        "off-line database;",
+        "comprimido (shrink)."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 71. Explicação conceitual pendente de validação.",
+      "source_number": 71
+    },
+    {
+      "id": "atamf-info10-deep-0073",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FGV / AF-Osasco – 2014) Computadores são equipamentos sujeitos a falhas e acidentes, e por esse motivo os usuários procuram proteger seus arquivos para que não sejam perdidos, caso um computador torne-se inutilizável. O termo que caracteriza esses procedimentos de segurança e a sua materialização é:",
+      "o": [
+        "backup;",
+        "estabilizador;",
+        "HD;",
+        "pen drive;",
+        "anti-virus."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 73. Explicação conceitual pendente de validação.",
+      "source_number": 73
+    },
+    {
+      "id": "atamf-info10-deep-0074",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FGV / CGE-MA – 2014) O Backup é um dos principais procedimentos de segurança adotados pelos usuários dos sistemas informatizados. Nesse contexto, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Três exemplos de dispositivos que podem ser utilizados no backup são um pendrive de 32GB, um DVD/RW de 4,7 GB e um disco rígido de 2 TB. ( ) Restore é o nome dado ao processo de restauração de dados armazenados em subsistemas de discos e/ou biblioteca de fitas em um backup. ( ) o backup é dito incremental ou diferencial quando é realizada a cópia completa com execução diária, semanal e/ou mensal. As afirmativas são, respectivamente,",
+      "o": [
+        "F, V e F.",
+        "F, V e V.",
+        "V, F e F.",
+        "V, V e F.",
+        "F, F e V."
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 07, questão 74. Explicação conceitual pendente de validação.",
+      "source_number": 74
+    },
+    {
+      "id": "atamf-info10-deep-0077",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FGV / DETRAN-MA – 2013) Visando melhorar a segurança com os dados armazenados em microcomputadores, atualmente tem sido observada uma preocupação crescente com a realização de backups. Por suas características, os dois dispositivos ópticos mais adequados para essa atividade, são:",
+      "o": [
+        "CACHE de 2 MB e CD/RW de 700 MB.",
+        "USB de 480 Mbps e CACHE de 2 MB.",
+        "PENDRIVE de 16 GB e USB de 480 Mbps.",
+        "DVD/RW de 4,7 GB e Pendrive de 16 GB.",
+        "CD/RW de 700 MB e DVD/ RW de 4,7 GB."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 77. Explicação conceitual pendente de validação.",
+      "source_number": 77
+    },
+    {
+      "id": "atamf-info10-deep-0079",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(VUNESP / Câmara de Piracicaba - SP – 2019) Uma empresa faz um backup completo dos arquivos de seu servidor todo domingo, dia em que não há expediente, e esses arquivos não sofrem alterações nem novos arquivos são criados. De segunda a sábado, em horários pós- expediente, são feitos backups apenas dos arquivos que foram alterados ou criados em relação ao backup do dia anterior. Os backups realizados de segunda a sábado são classificados como:",
+      "o": [
+        "avulsos.",
+        "completos.",
+        "incrementais.",
+        "diferenciais.",
+        "espelhos."
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 07, questão 79. Explicação conceitual pendente de validação.",
+      "source_number": 79
+    },
+    {
+      "id": "atamf-info10-deep-0080",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(VUNESP / Pref RP - 2018) A política de backup de uma empresa estabelece como requisito principal o menor tempo para a restauração. Para atender a esse requisito, deve-se selecionar, dentre os tipos conhecidos, o backup",
+      "o": [
+        "completo.",
+        "diferencial.",
+        "diferencial+incremental.",
+        "incremental.",
+        "progressivo."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 07, questão 80. Explicação conceitual pendente de validação.",
+      "source_number": 80
+    },
+    {
+      "id": "atamf-info10-deep-0083",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESGRANRIO / BASA - 2022) A gravação de cópias de segurança (backup) é um dos procedimentos mais importantes na garantia da operação de um ambiente computacional. Políticas de backup devem ser desenhadas pelos administradores de suporte das empresas, com vistas a manter a disponibilidade e a integridade do sistema computacional. Uma providência importante referente à política de backup é:",
+      "o": [
+        "armazenar todos os volumes de backup em um só local.",
+        "automatizar backups de arquivos no formato Manchester Diferencial.",
+        "evitar a utilização de gerenciadores de backup de código aberto.",
+        "monitorar os volumes de backup gerados manualmente.",
+        "testar todos os volumes de backups gerados."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 07, questão 83. Explicação conceitual pendente de validação.",
+      "source_number": 83
+    },
+    {
+      "id": "atamf-info10-deep-0218",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / MPE RS - 2008) No PowerPoint XP, após selecionar um objeto cujo estilo deseja-se que seja usado como modelo e aplicado a um outro objeto, utiliza-se o:",
+      "o": [
+        "Copiar e colar",
+        "Formatar objeto",
+        "Pincel",
+        "Inserir objeto",
+        "Auto texto"
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 10, questão 36. Explicação conceitual pendente de validação.",
+      "source_number": 36
+    },
+    {
+      "id": "atamf-info10-deep-0219",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / MPE RS - 2008) As informações sobre o modelo de estrutura aplicado numa apresentação PowerPoint são armazenadas",
+      "o": [
+        "no painel de tarefas.",
+        "no slide mestre.",
+        "no layout de conteúdo.",
+        "na estrutura de slide.",
+        "na galeria de modelos."
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 10, questão 37. Explicação conceitual pendente de validação.",
+      "source_number": 37
+    },
+    {
+      "id": "atamf-info10-deep-0220",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / PGE BA - 2013) Em uma repartição pública os funcionários necessitam conhecer as ferramentas disponíveis para realizar tarefas e ajustes em seus computadores pessoais. Dentre estes trabalhos, tarefas e ajustes estão: I. Utilizar ferramentas de colaboração on-line para melhoria do clima interno da repartição e disseminação do conhecimento. II. Aplicar os conceitos de organização e de gerenciamento de informações, arquivos, pastas e programas a fim de possibilitar a rápida e precisa obtenção das informações, quando necessário. III. Conhecer e realizar operações de inserção de elementos nos slides do PowerPoint, dentre outras. IV. Conhecer as formas utilizadas pelo Excel para realizar cálculos e também operações de arrastar valores de uma célula para a outra. V. Realizar pesquisas na Internet usando os sites de busca mais conhecidos. O conhecimento referido no item III possibilita a inserção de elementos nos slides como, por exemplo, fotos contidas em um álbum. Nativamente o PowerPoint (2010) abriga essa facilidade no \"Álbum de Fotografias\" localizado na Guia:",
+      "o": [
+        "Animações.",
+        "Arquivo.",
+        "Página inicial.",
+        "Design.",
+        "Inserir."
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 10, questão 38. Explicação conceitual pendente de validação.",
+      "source_number": 38
+    },
+    {
+      "id": "atamf-info10-deep-0222",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / METRO SP - 2014) As apresentações feitas em PowerPoint ou programa equivalente utilizam:",
+      "o": [
+        "projetor multimídia",
+        "flipchart.",
+        "retroprojetor.",
+        "televisão.",
+        "diapositivos."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 10, questão 40. Explicação conceitual pendente de validação.",
+      "source_number": 40
+    },
+    {
+      "id": "atamf-info10-deep-0226",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FGV / COMPESA - 2014) No Powerpoint 2010 BR, o acionamento da tecla de função F5 tem por objetivo:",
+      "o": [
+        "formatar um gráfico visando a comparar dados.",
+        "inserir uma tabela em um slide da apresentação.",
+        "realizar a apresentação a partir do primeiro slide.",
+        "configurar as transições para exibição entre os slides.",
+        "escolher um design predefinido para a apresentação de slides."
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 10, questão 44. Explicação conceitual pendente de validação.",
+      "source_number": 44
+    },
+    {
+      "id": "atamf-info10-deep-0229",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FGV / TJ AM - 2013) No Powerpoint 2010 BR, instalado em um microcomputador com sistema operacional Windows Vista, a execução do atalho de teclado Shift + F5 tem por significado:",
+      "o": [
+        "iniciar a apresentação de slides a partir do primeiro slide.",
+        "iniciar a apresentação de slides a partir do slide atual.",
+        "inserir número do slide.",
+        "alterar o layout do slide selecionado.",
+        "alterar a orientação do slide entre retrato paisagem."
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 10, questão 47. Explicação conceitual pendente de validação.",
+      "source_number": 47
+    },
+    {
+      "id": "atamf-info10-deep-0232",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FGV / CONDER - 2013) O software Powerpoint 2010 BR tem por finalidade permitir a criação de:",
+      "o": [
+        "apresentações de slides em formato PPTX.",
+        "imagens animadas para a Web em formato FLV.",
+        "filmes ilustrados para o youtube em formato FLV.",
+        "arquivos compactados em formato WAR.",
+        "logomarcas vetoriais em formato INDD."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 10, questão 50. Explicação conceitual pendente de validação.",
+      "source_number": 50
+    },
+    {
+      "id": "atamf-info10-deep-0237",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FGV / DPE RO - 2015) João preparou uma apresentação por meio do MS Power Point 2010, na qual fez uso de alguns efeitos visuais oferecidos pelo software. João pretende distribuir uma cópia de seus slides para a audiência, e, nesse caso, o formato de arquivo mais indicado para exibir os slides e distribuir o conteúdo da palestra é:",
+      "o": [
+        ".pdf.",
+        ".pptx.",
+        ".xps",
+        ".ppsx",
+        ".potx"
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 10, questão 55. Explicação conceitual pendente de validação.",
+      "source_number": 55
+    },
+    {
+      "id": "atamf-info10-deep-0238",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FGV / SEDUC AM - 2014) Com relação aos recursos que podem ser utilizados no Powerpoint 2010 BR, assinale V para a afirmativa verdadeira e F para a falsa. ( ) O procedimento para salvar uma apresentação de slides no Powerpoint 2010 BR resulta na geração de um arquivo no formato padrão PPTX. ( ) O acionamento da tecla de função F2 resulta na apresentação de slides desde o começo, ou seja, a partir do primeiro slide. ( ) O acionamento da tecla de função F1 tem por objetivo realizar a verificação e a correção ortográfica da apresentação de slides. As afirmativas são, respectivamente,",
+      "o": [
+        "F, V e F.",
+        "F, V e V.",
+        "V, F e F.",
+        "V, V e F.",
+        "F, F e V."
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 10, questão 56. Explicação conceitual pendente de validação.",
+      "source_number": 56
+    },
+    {
+      "id": "atamf-info10-deep-0240",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FGV / CODEBA - 2010) Para iniciar uma apresentação de slides desde o começo, no Microsoft PowerPoint, deve-se pressionar a tecla:",
+      "o": [
+        "F2",
+        "F3",
+        "F6",
+        "F5",
+        "F9"
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 10, questão 58. Explicação conceitual pendente de validação.",
+      "source_number": 58
+    },
+    {
+      "id": "atamf-info10-deep-0243",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / AgeRIO – 2023) A criação de apresentações com editores especializados, como o PowerPoint da Microsoft, faz parte da rotina da grande maioria das organizações. Essas apresentações são usadas para, por exemplo, mostrar resultados ou vender uma ideia. Uma apresentação é organizada em slides, que podem ser considerados as páginas da apresentação. Cada slide pode ter um layout diferente, adequado ao seu conteúdo. É comum que um slide com layout:",
+      "o": [
+        "“Título e Conteúdo” seja utilizado para apresentar itens relevantes de um tema.",
+        "“Somente Título” seja utilizado para configurar o título de todos os slides.",
+        "“Em branco”, sem conteúdo, seja utilizado como primeiro slide.",
+        "“Comparação” seja utilizado para apresentar uma imagem.",
+        "“Cabeçalho da Seção” seja utilizado para configurar como a apresentação deve ser impressa."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 10, questão 61. Explicação conceitual pendente de validação.",
+      "source_number": 61
+    },
+    {
+      "id": "atamf-info10-deep-0244",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / AgeRIO – 2023) A criação de apresentações com editores especializados, como o PowerPoint da Microsoft, faz parte da rotina da grande maioria das organizações. Essas apresentações são usadas para, por exemplo, mostrar resultados ou vender uma ideia. Uma apresentação é organizada em slides, que podem ser considerados as páginas da apresentação. Cada slide pode ter um layout diferente, adequado ao seu conteúdo. É comum que um slide com layout:",
+      "o": [
+        "“Título e Conteúdo” seja utilizado para apresentar itens relevantes de um tema.",
+        "“Somente Título” seja utilizado para configurar o título de todos os slides.",
+        "“Em branco”, sem conteúdo, seja utilizado como primeiro slide.",
+        "“Comparação” seja utilizado para apresentar uma imagem.",
+        "“Cabeçalho da Seção” seja utilizado para configurar como a apresentação deve ser impressa."
+      ],
+      "r": "A",
+      "e": "Gabarito A localizado na tabela oficial da apostila Aula 10, questão 62. Explicação conceitual pendente de validação.",
+      "source_number": 62
+    },
+    {
+      "id": "atamf-info10-deep-0246",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / LIQUIGÁS – 2018) Considere a versão do Power Point 2010. Durante a confecção de um slide, o usuário apaga a primeira letra de uma palavra e, em seguida, resolve apagar a seguinte também. Uma das formas de executar essa ação é clicar a(s) tecla(s):",
+      "o": [
+        "Shift+F3",
+        "Shift+F4",
+        "Ctrl + F4",
+        "F3",
+        "F4"
+      ],
+      "r": "E",
+      "e": "Gabarito E localizado na tabela oficial da apostila Aula 10, questão 64. Explicação conceitual pendente de validação.",
+      "source_number": 64
+    },
+    {
+      "id": "atamf-info10-deep-0247",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / PETROBRAS – 2018) No MS PowerPoint 2016 em português existe uma função que permite optar por apresentar um slide em preto e branco. Para utilizar tal função, deve-se acessar a guia:",
+      "o": [
+        "Animações",
+        "Exibir",
+        "Página Inicial",
+        "Revisão",
+        "Transições"
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 10, questão 65. Explicação conceitual pendente de validação.",
+      "source_number": 65
+    },
+    {
+      "id": "atamf-info10-deep-0251",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / TRANSPETRO – 2018) O MS Power Point 2016 em português possui um recurso para converter, em texto, em formato adequado, expressões matemáticas manuscritas diretamente sobre a tela. Para tal, o usuário pode seguir o seguinte caminho:",
+      "o": [
+        "inserir >> ícones",
+        "inserir >> símbolo",
+        "desenhar >> tinta em expressões matemáticas",
+        "desenhar >> tinta em forma",
+        "inserir >> objeto"
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 10, questão 69. Explicação conceitual pendente de validação.",
+      "source_number": 69
+    },
+    {
+      "id": "atamf-info10-deep-0252",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / PETROBRAS – 2018) Ao montar um slide para sua apresentação, um usuário do PowerPoint 2016 em português deseja incluir um hiperlink associado a um texto, de modo que esse hiperlink aponte para uma página na web. Uma forma de o usuário fazer isso é:",
+      "o": [
+        "marcar o texto, copiá-lo e inseri-lo em um depositário, que vai ser associado à página web através de configuração.",
+        "marcar o texto em que deseja incluir o hiperlink, clicar com o botão direito do mouse, escolher a opção Link e vincular à página web desejada.",
+        "inserir um objeto que vai representar o hiperlink, e configurar esse objeto com as características da página web que se deseja alcançar.",
+        "incluir entre o texto que vai possuir o hiperlink as tags <A> e </A> , inserindo o nome da página web que se deseja alcançar.",
+        "copiar e colar a página web que se deseja alcançar e inseri-la ao lado do texto que se deseja associar a esse hiperlink."
+      ],
+      "r": "B",
+      "e": "Gabarito B localizado na tabela oficial da apostila Aula 10, questão 70. Explicação conceitual pendente de validação.",
+      "source_number": 70
+    },
+    {
+      "id": "atamf-info10-deep-0258",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / LIQUIGÁS – 2018) Os efeitos de animação do Power Point 2010 podem ser classificados, de acordo com os efeitos que produzem, em quatro tipos. Os efeitos de ênfase são aqueles que fazem, por exemplo, um objeto:",
+      "o": [
+        "aparecer gradualmente, surgir no slide de uma borda ou saltar para a exibição.",
+        "separar-se do slide, desaparecer da exibição ou espiralar para fora do slide.",
+        "diminuir ou aumentar de tamanho, alterar a cor ou girar.",
+        "ser movimentado para cima ou para baixo, para a esquerda ou para a direita ou em um padrão circular.",
+        "animar a maneira de como um slide é passado para o slide seguinte."
+      ],
+      "r": "C",
+      "e": "Gabarito C localizado na tabela oficial da apostila Aula 10, questão 76. Explicação conceitual pendente de validação.",
+      "source_number": 76
+    },
+    {
+      "id": "atamf-info10-deep-0261",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / BASA – 2014) Durante a exibição de uma apresentação realizada com o MS PowerPoint, o palestrante, ao exibir o slide de número 11, é questionado pela plateia sobre um aspecto que se encontra representado no slide 18. Para poder saltar diretamente (sem passar pelos slides 12, 13, ..., 17) ao slide 18 e depois retornar diretamente ao slide 11, tudo isso sem sair do modo de apresentação, o palestrante deverá usar:",
+      "o": [
+        "as teclas TAB+7 para ir ao 18 e, depois, SHIFT+TAB+7 para retornar.",
+        "as teclas ENTER, sete vezes seguidas, para ir ao 18 e, depois, BACKSPACE, sete vezes seguidas, para retornar.",
+        "as teclas +, seguida do número 7, para ir ao 18 e, depois, –, seguida do número 7, para retornar.",
+        "o número 18, seguido da tecla ENTER, para ir ao 18 e, depois, o número 11, seguido da tecla ENTER, para retornar.",
+        "o botão direito do mouse, 7 vezes seguidas, para ir ao 18 e, depois, o botão esquerdo do mouse, 7 vezes seguidas, para retornar."
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 10, questão 79. Explicação conceitual pendente de validação.",
+      "source_number": 79
+    },
+    {
+      "id": "atamf-info10-deep-0280",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(VUNESP / TJ SP - 2015) No MS-PowerPoint 2010, a finalidade da função Ocultar Slide, acionável por meio do botão de mesmo nome, é fazer com que o slide selecionado:",
+      "o": [
+        "tenha bloqueadas tentativas de alteração de seu conteúdo.",
+        "seja designado como o último a ser exibido na apresentação de slides.",
+        "tenha sua resolução reduzida até o mínimo suportado pelo computador em uso.",
+        "não seja exibido no modo de apresentação de slides.",
+        "tenha sua velocidade de transição entre slides fixada no valor médio."
+      ],
+      "r": "D",
+      "e": "Gabarito D localizado na tabela oficial da apostila Aula 10, questão 98. Explicação conceitual pendente de validação.",
+      "source_number": 98
+    },
+    {
+      "id": "atamf-info10-deep-0207",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / TRE AC - 2010) No MS PowerPoint 2003, os mestres que contêm e refletem os elementos de estilo, usados na apresentação toda, podem ser aplicados em:",
+      "o": [
+        "slides, anotações e folhetos",
+        "slides e anotações, apenas",
+        "slides e folhetos, apenas",
+        "slides, apenas",
+        "folhetos, apenas"
+      ],
+      "r": "A",
+      "e": "Gabarito A indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 25
+    },
+    {
+      "id": "atamf-info10-deep-0212",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / Técnico Fazendário MA - 2019) Um técnico está elaborando uma apresentação no Microsoft Powerpoint 2013, em português, mas ainda não sabe qual logotipo e estilo que cada slide deverá ter. Para que posteriormente esse técnico possa fazer as alterações com facilidade, ele deve editar um slide especial, que quando alterado, todos os slides baseados nele conterão essas alterações. Esse slide é denominado:",
+      "o": [
+        "Slide Mestre",
+        "Folha de Estilo",
+        "Folheto Mestre",
+        "Slide de Estilo",
+        "Anotações Mestras"
+      ],
+      "r": "A",
+      "e": "Gabarito A indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 30
+    },
+    {
+      "id": "atamf-info10-pre-0004",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / ITAIPU BINACIONAL – 2024) O becape tem como finalidade salvar a cópia de arquivos, para que eles possam ser restaurados no caso de uma situação inesperada. Para isso, existem técnicas e procedimentos, como o becape incremental, cuja função é realizar a cópia",
+      "o": [
+        "de todos os arquivos uma vez por dia.",
+        "dos arquivos que foram alterados desde a última cópia.",
+        "dos arquivos novos, excluindo os alterados desde a última cópia.",
+        "de arquivos considerados mais críticos para a organização.",
+        "completa de todos os arquivos a cada execução do becape."
+      ],
+      "r": "B",
+      "e": "Gabarito B indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 4
+    },
+    {
+      "id": "atamf-info10-pre-0006",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / TRE-BA - 2017) A política atual de becape de determinada organização consiste em um becape completo feito todos os domingos; e becapes incrementais realizados de segunda a sábado. Considerando que, todos os dias, haja entrada de novos dados e que, também todos os dias, seja efetuado becape, assinale a opção correta acerca dessa situação hipotética.",
+      "o": [
+        "Se o becape incremental for substituído pelo becape diferencial, passar-se-á a ocupar menos espaço de memória a cada becape diário, mas o tempo de execução do restore será aumentado.",
+        "Sob a referida política atual de becape, para a garantia da totalidade e da integridade dos arquivos em eventual operação de restauração, será obrigatório acrescentar à rotina um becape diferencial para cada becape incremental.",
+        "Se o becape incremental fosse substituído pelo becape completo, além da ocupação de menor espaço de memória a cada becape diário, a execução do restore seria mais rápida.",
+        "Caso, em determinada semana, seja necessário restaurar o becape até quinta-feira, será suficiente o becape da sexta-feira dessa mesma semana.",
+        "Caso se tivesse optado pelo becape diferencial em lugar do becape incremental e, nesse novo cenário hipotético, houvesse a necessidade de restaurar o becape até sexta-feira, bastaria, para isso, dispor dos arquivos completos e do dessa sexta-feira."
+      ],
+      "r": "E",
+      "e": "Gabarito E indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 22
+    },
+    {
+      "id": "atamf-info10-pre-0008",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / PC-GO – 2016) Com relação aos procedimentos de becape, assinale a opção correta.",
+      "o": [
+        "O becape incremental deve ser feito depois de realizada cópia completa de todos os arquivos de interesse.",
+        "A cópia completa deve ser feita periodicamente, para copiar os arquivos que sofreram alguma modificação na última cópia incremental.",
+        "Na cópia incremental, não é necessário especificar os intervalos de tempo em que houve alterações nos arquivos.",
+        "O becape incremental não utiliza dados recuperados das cópias completas.",
+        "Na cópia incremental, os arquivos copiados anteriormente são recopiados, independentemente do ponto de recuperação definido."
+      ],
+      "r": "A",
+      "e": "Gabarito A indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 26
+    },
+    {
+      "id": "atamf-info10-deep-0004",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / ITAIPU BINACIONAL – 2024) O becape tem como finalidade salvar a cópia de arquivos, para que eles possam ser restaurados no caso de uma situação inesperada. Para isso, existem técnicas e procedimentos, como o becape incremental, cuja função é realizar a cópia",
+      "o": [
+        "de todos os arquivos uma vez por dia.",
+        "dos arquivos que foram alterados desde a última cópia.",
+        "dos arquivos novos, excluindo os alterados desde a última cópia.",
+        "de arquivos considerados mais críticos para a organização.",
+        "completa de todos os arquivos a cada execução do becape."
+      ],
+      "r": "B",
+      "e": "Gabarito B indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 4,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0022",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / TRE-BA - 2017) A política atual de becape de determinada organização consiste em um becape completo feito todos os domingos; e becapes incrementais realizados de segunda a sábado. Considerando que, todos os dias, haja entrada de novos dados e que, também todos os dias, seja efetuado becape, assinale a opção correta acerca dessa situação hipotética.",
+      "o": [
+        "Se o becape incremental for substituído pelo becape diferencial, passar-se-á a ocupar menos espaço de memória a cada becape diário, mas o tempo de execução do restore será aumentado.",
+        "Sob a referida política atual de becape, para a garantia da totalidade e da integridade dos arquivos em eventual operação de restauração, será obrigatório acrescentar à rotina um becape diferencial para cada becape incremental.",
+        "Se o becape incremental fosse substituído pelo becape completo, além da ocupação de menor espaço de memória a cada becape diário, a execução do restore seria mais rápida.",
+        "Caso, em determinada semana, seja necessário restaurar o becape até quinta-feira, será suficiente o becape da sexta-feira dessa mesma semana.",
+        "Caso se tivesse optado pelo becape diferencial em lugar do becape incremental e, nesse novo cenário hipotético, houvesse a necessidade de restaurar o becape até sexta-feira, bastaria, para isso, dispor dos arquivos completos e do dessa sexta-feira."
+      ],
+      "r": "E",
+      "e": "Gabarito E indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 22,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0026",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / PC-GO – 2016) Com relação aos procedimentos de becape, assinale a opção correta.",
+      "o": [
+        "O becape incremental deve ser feito depois de realizada cópia completa de todos os arquivos de interesse.",
+        "A cópia completa deve ser feita periodicamente, para copiar os arquivos que sofreram alguma modificação na última cópia incremental.",
+        "Na cópia incremental, não é necessário especificar os intervalos de tempo em que houve alterações nos arquivos.",
+        "O becape incremental não utiliza dados recuperados das cópias completas.",
+        "Na cópia incremental, os arquivos copiados anteriormente são recopiados, independentemente do ponto de recuperação definido."
+      ],
+      "r": "A",
+      "e": "Gabarito A indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 26,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0042",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESPE / SESA-ES - 2013) Com relação a procedimentos de segurança, assinale a opção correta.",
+      "o": [
+        "O becape mais seguro é o incremental, mediante o qual é copiado o arquivo original.",
+        "A vantagem do becape incremental, em relação aos outros tipos de becape, é trabalhar independentemente de outros procedimentos de becape.",
+        "O procedimento de becape completo consiste em copiar todos os arquivos para a mídia apropriada, previamente selecionada.",
+        "Obtém-se maior eficiência na recuperação de dados e informações, mediante a utilização em conjunto de becapes diferenciais e becapes incrementais.",
+        "Para que arquivos sejam salvos de maneira segura, o becape deve ser realizado tanto na memória ROM quanto na memória RAM."
+      ],
+      "r": "C",
+      "e": "Gabarito C indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 42,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0061",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / SABESP/ Estagiário - 2017) Uma organização possui a política de realizar backup todos os dias e todos os dados são copiados diariamente, independentemente de terem sido modificados ou não, para dispositivos do tipo fita magnética, disco magnético ou óptico, DVD ou blu-ray. Esta organização realiza backup do tipo:",
+      "o": [
+        "completo",
+        "incremental",
+        "diferencial",
+        "progressivo",
+        "cumulativo"
+      ],
+      "r": "A",
+      "e": "Gabarito A indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 61,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0066",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FCC / DPE-SP/ Oficial de Defensoria Pública - 2015) Marcos Paulo fez um backup incremental de seus arquivos. Ele aplicou uma função que copia:",
+      "o": [
+        "somente os arquivos criados ou alterados desde o último backup normal ou incremental e os marca como arquivos que passaram por backup (o atributo de arquivo é desmarcado).",
+        "todos os arquivos selecionados e os marca como arquivos que passaram por backup (ou seja, o atributo de arquivo é desmarcado).",
+        "todos os arquivos selecionados que foram modificados no dia de execução do backup diário.",
+        "todos os arquivos selecionados, mas não os marca como arquivos que passaram por backup (ou seja, o atributo de arquivo não é desmarcado).",
+        "arquivos criados ou alterados desde o último backup normal ou incremental. Não marca os arquivos como arquivos que passaram por backup (o atributo de arquivo não é desmarcado)."
+      ],
+      "r": "A",
+      "e": "Gabarito A indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 66,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0072",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FGV / Câmara Municipal de Caruaru – 2015) O termo backup refere-se à geração de cópias de segurança, com a finalidade de garantir a integridade dos dados armazenados em discos rígidos. Em caso de pane, um disco rígido pode ser substituído por outro e mediante o uso dos dispositivos utilizados no backup, os dados podem ser recuperados para a situação original. Por suas características, além do HD, dois outros dispositivos de entrada e saída de dados podem ser utilizados nessa tarefa. Assinale a opção que os indica.",
+      "o": [
+        "DVD-RW e pendrive.",
+        "Pendrive e scanner.",
+        "Scanner e BLU-RAY.",
+        "BLU-RAY e plotter.",
+        "Plotter e DVD-RW."
+      ],
+      "r": "A",
+      "e": "Gabarito A indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 72,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0078",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(FGV / SEFAZ-MS – 2006) Como objetivo de assegurar a segurança dos dados, atualmente tem crescido a importância da atividade de backup. Além do disquete de 3 ½ pol - 1,44 MB, têm sido empregados nessa atividade os seguintes componentes de hardware:",
+      "o": [
+        "USB, HD e FLASH MEMORY.",
+        "RAM, DVD-RAM e ZIP DRIVE.",
+        "CD/RW, DVD/RW e FITAS DAT.",
+        "MODEM, PENDRIVE e FLASH RAM.",
+        "ROM, DVD-R e FITAS STREAMMER."
+      ],
+      "r": "C",
+      "e": "Gabarito C indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 78,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0082",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(VUNESP / PC SP – 2014) Recomenda-se que um usuário de computador sempre tenha uma cópia de segurança de seus arquivos. A operação que realiza este procedimento é conhecida como:",
+      "o": [
+        "Digitalização.",
+        "Codificação.",
+        "Certificação Digital.",
+        "Decodificação.",
+        "Backup."
+      ],
+      "r": "E",
+      "e": "Gabarito E indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 82,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0084",
+      "s": "Informática",
+      "t": "Aula 07 - Armazenamento de Dados",
+      "q": "(CESGRANRIO / BANCO DA AMAZÔNIA - 2018) O gerente de sistemas pediu que o analista fizesse um backup diferencial. Sendo assim, ele deve fazer um backup também chamado de:",
+      "o": [
+        "Backup incremental",
+        "Backup completo (full)",
+        "Backup full deduplicado",
+        "Backup em array de discos",
+        "Backup incremental cumulativo"
+      ],
+      "r": "E",
+      "e": "Gabarito E indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 84,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0217",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(FCC / MPE RS - 2008) Uma apresentação em PowerPoint pode conter efeitos nas exibições dos slides, entre outros, do tipo esquema de transição:",
+      "o": [
+        "mostrar em ordem inversa.",
+        "aplicar zoom gradativamente.",
+        "máquina de escrever colorida.",
+        "persiana horizontal.",
+        "lâmpada de flash."
+      ],
+      "r": "D",
+      "e": "Gabarito D indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 35,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    },
+    {
+      "id": "atamf-info10-deep-0260",
+      "s": "Informática",
+      "t": "Aula 10 Powerpoint",
+      "q": "(CESGRANRIO / BB – 2015) Ao ajudar a preparar uma apresentação no software PowerPoint, com os resultados obtidos por uma agência de um banco, um escriturário sugeriu o uso do recurso de animação. Esse recurso nos slides é voltado fundamentalmente para:",
+      "o": [
+        "utilizar filmes como recurso de multimídia.",
+        "permitir a inserção de histórias.",
+        "criar novas cores e estilos rápidos.",
+        "incluir efeitos de entradas e saídas.",
+        "criar slides mestres para processos."
+      ],
+      "r": "D",
+      "e": "Gabarito D indicado na tabela da apostila; justificativa semântica ainda não validada individualmente.",
+      "source_number": 78,
+      "pendencias": [
+        "sem_gabarito_associado"
+      ]
+    }
+  ]
+}
