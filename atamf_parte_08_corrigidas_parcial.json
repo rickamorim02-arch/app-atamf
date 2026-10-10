@@ -3225,19 +3225,6 @@
       "source_number": 13
     },
     {
-      "id": "atamf-info8-prof-0236",
-      "s": "Informática",
-      "t": "Aula 02-1 - Redes Sociais 1",
-      "q": "(CESPE / ANVISA – 2024) Uma vez que o serviço da ANVISA que permite emitir o certificado internacional de vacinação está disponível na Web, tal como apresentado na figura precedente, é correto concluir que o site da ANVISA está hospedado na nuvem através de um serviço de PaaS (platform as a service). Comentários: O fato de um site estar disponível na web não implica necessariamente que ele está hospedado em um serviço de Plataforma como Serviço (PaaS). O site da ANVISA pode estar hospedado em um serviço de Infraestrutura como Serviço (IaaS), em servidores dedicados ou mesmo em uma nuvem privada do governo. O PaaS é mais utilizado para desenvolvimento e hospedagem de aplicações, fornecendo um ambiente gerenciado para desenvolvedores. Gabarito: Errado",
-      "o": [
-        "Certo",
-        "Errado"
-      ],
-      "r": "B",
-      "e": "Gabarito indicado na lista da apostila Aula 02-1 - Redes Sociais 1, questão 14. Ainda requer confronto individual com o comentário original. [Conferido no PDF: Aula 02-1, gabarito ERRADO; alternativa B.]",
-      "source_number": 14
-    },
-    {
       "id": "atamf-info8-prof-0237",
       "s": "Informática",
       "t": "Aula 02-1 - Redes Sociais 1",
@@ -3849,19 +3836,6 @@
       "r": "A",
       "e": "Gabarito indicado na lista da apostila Aula 02-1 - Redes Sociais 1, questão 13. Ainda requer confronto individual com o comentário original.",
       "source_number": 13
-    },
-    {
-      "id": "atamf-info8-prof-0288",
-      "s": "Informática",
-      "t": "Aula 02-1 - Redes Sociais 1",
-      "q": "(CESPE / ANVISA – 2024) Uma vez que o serviço da ANVISA que permite emitir o certificado internacional de vacinação está disponível na Web, tal como apresentado na figura precedente, é correto concluir que o site da ANVISA está hospedado na nuvem através de um serviço de PaaS (platform as a service). ==b3d1f==",
-      "o": [
-        "Certo",
-        "Errado"
-      ],
-      "r": "A",
-      "e": "Gabarito indicado na lista da apostila Aula 02-1 - Redes Sociais 1, questão 14. Ainda requer confronto individual com o comentário original.",
-      "source_number": 14
     },
     {
       "id": "atamf-info8-prof-0289",
