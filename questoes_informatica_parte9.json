@@ -1057,22 +1057,6 @@
       "source_number": 21
     },
     {
-      "id": "atamf-info9-0069",
-      "s": "Informática",
-      "t": "Aula 03 - Aplicativo de Navegação",
-      "q": "(FUNDATEC / Prefeitura de Porto Alegre - RS - 2025) Assinale a alternativa que indica a função do botão de três pontos verticais, localizado no canto superior direito da janela do Google Chrome, ilustrado na Figura 1 abaixo.",
-      "o": [
-        "Abrir uma nova aba.",
-        "Atualizar a página atual.",
-        "Acessar o menu de configurações e opções adicionais.",
-        "Fechar a aba atual.",
-        "Iniciar o modo de navegação anônima diretamente."
-      ],
-      "r": "C",
-      "e": "O menu de três pontos abre opções e configurações do Google Chrome. [Revisão individual: resposta verificada por análise das alternativas e funcionalidade descrita.]",
-      "source_number": 2
-    },
-    {
       "id": "atamf-info9-0070",
       "s": "Informática",
       "t": "Aula 03 - Aplicativo de Navegação",
@@ -1313,22 +1297,6 @@
       "source_number": 13
     },
     {
-      "id": "atamf-info9-0093",
-      "s": "Informática",
-      "t": "Aula 03 - Aplicativo de Navegação",
-      "q": "(VUNESP / Câmara de Indaiatuba -SP – 2018) Observe a imagem do Google Chrome (Versão 64.0.3282.167), em sua configuração padrão. Para salvar a foto apresentada no portal como um arquivo local, usando apenas o navegador, o usuário pode clicar com o botão secundário do mouse, geralmente o botão direito, e clicar na opção:",
-      "o": [
-        "Salvar imagem como...",
-        "Copiar endereço da imagem.",
-        "Abrir imagem em uma nova guia.",
-        "Copiar imagem.",
-        "Inspecionar."
-      ],
-      "r": "A",
-      "e": "Gabarito extraído automaticamente da apostila Aula 03 - Aplicativo de Navegação_cropped.pdf, questão 14. Pendente de conferência individual.",
-      "source_number": 14
-    },
-    {
       "id": "atamf-info9-0094",
       "s": "Informática",
       "t": "Aula 03 - Aplicativo de Navegação",
@@ -1487,22 +1455,6 @@
       "r": "E",
       "e": "Gabarito extraído automaticamente da apostila Aula 03 - Aplicativo de Navegação_cropped.pdf, questão 13. Pendente de conferência individual.",
       "source_number": 13
-    },
-    {
-      "id": "atamf-info9-0104",
-      "s": "Informática",
-      "t": "Aula 03 - Aplicativo de Navegação",
-      "q": "(VUNESP / Câmara de Indaiatuba -SP – 2018) Observe a imagem do Google Chrome (Versão 64.0.3282.167), em sua configuração padrão. Para salvar a foto apresentada no portal como um arquivo local, usando apenas o navegador, o usuário pode clicar com o botão secundário do mouse, geralmente o botão direito, e clicar na opção:",
-      "o": [
-        "Salvar imagem como...",
-        "Copiar endereço da imagem.",
-        "Abrir imagem em uma nova guia.",
-        "Copiar imagem.",
-        "Inspecionar."
-      ],
-      "r": "A",
-      "e": "Gabarito extraído automaticamente da apostila Aula 03 - Aplicativo de Navegação_cropped.pdf, questão 14. Pendente de conferência individual.",
-      "source_number": 14
     },
     {
       "id": "atamf-info9-0105",
@@ -2079,22 +2031,6 @@
       "r": "B",
       "e": "Gabarito extraído automaticamente da apostila Aula 03 - Aplicativo de Navegação_cropped.pdf, questão 9. Pendente de conferência individual.",
       "source_number": 9
-    },
-    {
-      "id": "atamf-info9-0141",
-      "s": "Informática",
-      "t": "Aula 03 - Aplicativo de Navegação",
-      "q": "(CESPE / Prefeitura de São Paulo – 2016) A figura mostra parte de uma janela do navegador Microsoft Internet Explorer 11, que está sendo usado para o acesso ao portal da Transparência da Prefeitura do Município de São Paulo. Clicando-se, com o botão esquerdo do mouse, o ícone , é possível:",
-      "o": [
-        "tornar o Internet Explorer 11 o navegador padrão.",
-        "incluir o referido sítio na lista de favoritos.",
-        "usar a navegação InPrivate.",
-        "definir o referido sítio como página inicial do navegador.",
-        "excluir os cookies do navegador."
-      ],
-      "r": "B",
-      "e": "Gabarito extraído automaticamente da apostila Aula 03 - Aplicativo de Navegação_cropped.pdf, questão 10. Pendente de conferência individual.",
-      "source_number": 10
     },
     {
       "id": "atamf-info9-0142",
@@ -3857,22 +3793,6 @@
       "source_number": 8
     },
     {
-      "id": "atamf-info9-0257",
-      "s": "Informática",
-      "t": "Aula 05 - Segurança 1",
-      "q": "(FUNDATEC / ISS-Porto Alegre – 2022) A Figura 1 apresenta notícia a respeito da 2ª fase da Operação Spoofing, na qual os policiais federais cumpriram dois mandados de prisão temporária e outros de busca e apreensão em endereços de pessoas ligadas à organização criminosa investigada. Os criminosos invadiram os celulares de autoridades, tendo acessado e tomado conhecimento de informações, muito delas sensíveis, sem autorização dos respectivos proprietários. Nesse caso, é correto afirmar que o seguinte princípio básico da Segurança da Informação foi violado:",
-      "o": [
-        "Sigilo",
-        "Integridade.",
-        "Não repúdio.",
-        "Autenticidade.",
-        "Disponibilidade."
-      ],
-      "r": "A",
-      "e": "Gabarito extraído automaticamente da apostila Aula 05 - Segurança 1_cropped.pdf, questão 15. Pendente de conferência individual.",
-      "source_number": 15
-    },
-    {
       "id": "atamf-info9-0258",
       "s": "Informática",
       "t": "Aula 05 - Segurança 1",
@@ -4244,22 +4164,6 @@
       "r": "A",
       "e": "Extração profunda, gabarito associado por numeração da lista: 22. NÃO VALIDADO individualmente.",
       "source_number": 22,
-      "audit_status": "candidate_unverified"
-    },
-    {
-      "id": "atamf-info9-deep-0281",
-      "s": "Informática",
-      "t": "Aula 03 - Aplicativo de Navegação",
-      "q": "(CESPE / CBM-TO – 2023) A imagem precedente mostra parte da tela de um computador em que aparece uma janela do programa de navegação Google Chrome, em sua versão mais recente, sobre a Área de Trabalho do Windows 10. Assinale a opção que corresponde ao resultado obtido após o usuário clicar no arquivo edital_3_selecao_g....pdf, arrastá–lo e soltá– lo na Área de Trabalho.",
-      "o": [
-        "O arquivo edital_3_selecao_g....pdf será movido da pasta Downloads, definida como padrão no Chrome, para a Área de Trabalho.",
-        "O Windows emitirá uma mensagem de erro, pois não é permitido copiar, diretamente do navegador para a Área de Trabalho, um arquivo objeto de um download.",
-        "Uma cópia do arquivo edital_3_selecao_g....pdf será criada na Área de Trabalho.",
-        "Um atalho apontando para o arquivo edital_3_selecao_g....pdf será criado na Área de Trabalho."
-      ],
-      "r": "C",
-      "e": "Extração profunda, gabarito associado por numeração da lista: 9. NÃO VALIDADO individualmente.",
-      "source_number": 9,
       "audit_status": "candidate_unverified"
     },
     {
