@@ -505,7 +505,7 @@
       "o": [
         "nenhum dos filhos de João trabalha;",
         "os três filhos de João estudam;",
-        "pelo menos um filho de João estuda; Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 109 Aula 02",
+        "pelo menos um filho de João estuda;",
         "pelo menos um filho de João não trabalha;",
         "apenas um filho de João não trabalha."
       ],
@@ -552,7 +552,7 @@
       "o": [
         "nenhum usuário da secretaria conseguiu acessar o sistema ou todos os usuários da secretaria receberam uma mensagem de erro ao enviar um e-mail.",
         "todos os usuários da secretaria que conseguiram acessar o sistema receberam uma mensagem de erro ao enviar um e-mail.",
-        "pelo menos um usuário da secretaria não conseguiu acessar o sistema ou algum deles recebeu uma mensagem de erro ao enviar um e-mail. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 110 Aula 02",
+        "pelo menos um usuário da secretaria não conseguiu acessar o sistema ou algum deles recebeu uma mensagem de erro ao enviar um e-mail.",
         "algum usuário da secretaria não conseguiu acessar o sistema e pelo menos um dos que conseguiram acessar recebeu uma mensagem de erro ao enviar um e-mail.",
         "um grupo de usuários da secretaria não conseguiu acessar o sistema e, dentre os que conseguiram, ao menos um recebeu uma mensagem de erro ao enviar um e-mail."
       ],
@@ -615,7 +615,7 @@
       "q": "(IBADE/CRC-RO/2022) Analise o diagrama lógico abaixo: Estudantes Ansiosos João De acordo com o diagrama, é correto afirmar que:",
       "o": [
         "Todos os estudantes não são ansiosos.",
-        "João é um estudante ansioso. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 118 Aula 02",
+        "João é um estudante ansioso.",
         "Nenhum ansioso é também estudante.",
         "Alguns estudantes são ansiosos.",
         "João não é estudante, mas é ansioso."
@@ -665,7 +665,7 @@
         "Ana também gosta de Literatura.",
         "Ana não gosta de Matemática.",
         "Ana gosta de Matemática.",
-        "Ana mora em Vacaria. Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 119 Aula 02",
+        "Ana mora em Vacaria.",
         "Ana não mora em Vacaria"
       ],
       "r": "C",
@@ -1931,7 +1931,7 @@
         "38",
         "40",
         "32",
-        "35 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 72 Aula 12"
+        "35"
       ],
       "r": "A",
       "e": "Gabarito da lista de questões da apostila Aula 12 - Regra de Três_cropped.pdf, questão 4.",
@@ -2102,7 +2102,7 @@
       "o": [
         "Mais de 49",
         "Mais de 46 e menos de 49",
-        "Mais de 43 e menos de 46 Ministério da Fazenda (ATA - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 82 Aula 12",
+        "Mais de 43 e menos de 46",
         "Mais de 39 e menos de 43",
         "Menos de 39"
       ],
