@@ -265,6 +265,384 @@
       ],
       "r": "C",
       "e": "A aula atribui à revolução nas telecomunicações a viabilização de operações financeiras online e a maior interdependência financeira. Fonte: Aula 00 - Economia e Sociedade Internacional, página 9 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0020",
+      "s": "Português",
+      "t": "Classes gramaticais",
+      "q": "Qual classe de palavra geralmente modifica o substantivo, atribuindo-lhe característica?",
+      "o": [
+        "Adjetivo",
+        "Conjunção",
+        "Preposição",
+        "Interjeição"
+      ],
+      "r": "A",
+      "e": "Adjetivos caracterizam ou qualificam substantivos. Referência temática: Aula 01 - Morfologia."
+    },
+    {
+      "id": "atamf-2026-0021",
+      "s": "Português",
+      "t": "Pronomes",
+      "q": "Na frase 'Ela entregou o relatório', a palavra 'Ela' é:",
+      "o": [
+        "Artigo",
+        "Pronome pessoal",
+        "Advérbio",
+        "Conjunção"
+      ],
+      "r": "B",
+      "e": "'Ela' substitui ou retoma um referente e funciona como pronome pessoal. Referência temática: Aula 03 - Pronome."
+    },
+    {
+      "id": "atamf-2026-0022",
+      "s": "Português",
+      "t": "Conjunções",
+      "q": "Em 'Estudou muito, mas não passou', a palavra 'mas' exprime:",
+      "o": [
+        "Causa",
+        "Adição",
+        "Oposição",
+        "Conclusão"
+      ],
+      "r": "C",
+      "e": "'Mas' introduz uma relação adversativa. Referência temática: Aula 02 - Classes."
+    },
+    {
+      "id": "atamf-2026-0023",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Provimento",
+      "q": "Qual forma de provimento corresponde ao ingresso inicial do servidor em cargo público?",
+      "o": [
+        "Nomeação",
+        "Reintegração",
+        "Recondução",
+        "Reversão"
+      ],
+      "r": "A",
+      "e": "A nomeação é forma originária de provimento; as demais são formas derivadas previstas em lei. Referência temática: Aula 02 - Formas de Provimento e Vacância."
+    },
+    {
+      "id": "atamf-2026-0024",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Vacância",
+      "q": "Qual evento pode produzir vacância de cargo público?",
+      "o": [
+        "Exoneração",
+        "Lotação",
+        "Treinamento",
+        "Avaliação de desempenho sem desligamento"
+      ],
+      "r": "A",
+      "e": "A exoneração é hipótese legal de vacância do cargo. Referência temática: Aula 02 - Formas de Provimento e Vacância."
+    },
+    {
+      "id": "atamf-2026-0025",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Direitos dos servidores",
+      "q": "O período anual de descanso remunerado do servidor é chamado de:",
+      "o": [
+        "Licença para mandato classista",
+        "Férias",
+        "Recondução",
+        "Readaptação"
+      ],
+      "r": "B",
+      "e": "Férias constituem direito funcional, sujeito ao regime jurídico aplicável. Referência temática: Aula 03 - Direitos."
+    },
+    {
+      "id": "atamf-2026-0026",
+      "s": "Gestão de Pessoas e Atendimento ao Público",
+      "t": "Comunicação",
+      "q": "No processo comunicacional, o retorno dado pelo receptor é chamado de:",
+      "o": [
+        "Ruído",
+        "Feedback",
+        "Canal",
+        "Código"
+      ],
+      "r": "B",
+      "e": "Feedback é o retorno que permite ao emissor avaliar a compreensão da mensagem. Referência temática: Aula 01 - Comunicação Eficaz."
+    },
+    {
+      "id": "atamf-2026-0027",
+      "s": "Gestão de Pessoas e Atendimento ao Público",
+      "t": "Cultura organizacional",
+      "q": "Valores e crenças compartilhados em uma organização integram principalmente sua:",
+      "o": [
+        "Cultura organizacional",
+        "Folha de pagamento",
+        "Estrutura física",
+        "Escala de férias"
+      ],
+      "r": "A",
+      "e": "Cultura organizacional envolve valores, pressupostos e práticas compartilhadas. Referência temática: Aula 02 - Clima e Cultura Organizacionais."
+    },
+    {
+      "id": "atamf-2026-0028",
+      "s": "Gestão de Pessoas e Atendimento ao Público",
+      "t": "Gestão de conflitos",
+      "q": "A estratégia de resolução de conflitos que procura atender aos interesses das duas partes por solução conjunta é:",
+      "o": [
+        "Competição",
+        "Evitação",
+        "Colaboração",
+        "Imposição unilateral"
+      ],
+      "r": "C",
+      "e": "A colaboração busca solução conjunta e ganhos mútuos. Referência temática: Aula 03 - Administração de Conflitos."
+    },
+    {
+      "id": "atamf-2026-0029",
+      "s": "Atualidades",
+      "t": "Globalização",
+      "q": "Qual fenômeno está diretamente associado à globalização econômica?",
+      "o": [
+        "Redução absoluta das trocas internacionais",
+        "Ampliação de cadeias produtivas transnacionais",
+        "Fim do comércio exterior",
+        "Proibição de fluxos financeiros"
+      ],
+      "r": "B",
+      "e": "A integração produtiva e comercial entre países é característica da globalização. Referência temática: Aula 00 - Economia e Sociedade Internacional."
+    },
+    {
+      "id": "atamf-2026-0030",
+      "s": "Atualidades",
+      "t": "Economia brasileira",
+      "q": "O PIB mede, em termos gerais:",
+      "o": [
+        "O valor dos bens e serviços finais produzidos em determinado território e período",
+        "Apenas a dívida pública",
+        "Somente as exportações",
+        "A quantidade de moeda em circulação"
+      ],
+      "r": "A",
+      "e": "Produto Interno Bruto mede a produção de bens e serviços finais em um território e período. Referência temática: Aula 03 - Economia Brasileira."
+    },
+    {
+      "id": "atamf-2026-0031",
+      "s": "Atualidades",
+      "t": "Comércio internacional",
+      "q": "Quando um país vende bens ao exterior, essa operação é denominada:",
+      "o": [
+        "Importação",
+        "Exportação",
+        "Inflação",
+        "Tributação"
+      ],
+      "r": "B",
+      "e": "Exportação é venda ao exterior; importação é aquisição de bens ou serviços externos. Referência temática: Aula 00 - Economia e Sociedade Internacional."
+    },
+    {
+      "id": "atamf-2026-0032",
+      "s": "Administração Pública",
+      "t": "Princípios orçamentários",
+      "q": "O princípio da universalidade orçamentária determina, em regra, que o orçamento contenha:",
+      "o": [
+        "Apenas despesas de pessoal",
+        "Todas as receitas e despesas abrangidas pela lei orçamentária",
+        "Somente investimentos",
+        "Apenas receitas tributárias"
+      ],
+      "r": "B",
+      "e": "Universalidade requer abrangência das receitas e despesas previstas na legislação orçamentária. Referência temática: Aula 01 - Princípios."
+    },
+    {
+      "id": "atamf-2026-0033",
+      "s": "Administração Pública",
+      "t": "Créditos adicionais",
+      "q": "Qual crédito adicional se destina a reforçar dotação orçamentária existente?",
+      "o": [
+        "Suplementar",
+        "Especial",
+        "Extraordinário",
+        "Contingente"
+      ],
+      "r": "A",
+      "e": "O crédito suplementar reforça dotação já existente. Referência temática: Aula 02 - Créditos."
+    },
+    {
+      "id": "atamf-2026-0034",
+      "s": "Administração Pública",
+      "t": "Ciclo orçamentário",
+      "q": "Qual atividade integra o ciclo orçamentário?",
+      "o": [
+        "Elaboração da proposta orçamentária",
+        "Extinção de todos os tributos",
+        "Suspensão permanente do controle",
+        "Eliminação da prestação de contas"
+      ],
+      "r": "A",
+      "e": "O ciclo abrange elaboração, discussão e aprovação, execução e controle/avaliação. Referência temática: Aula 03 - Ciclo."
+    },
+    {
+      "id": "atamf-2026-0035",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Condicional",
+      "q": "A proposição 'Se p, então q' é falsa em qual situação?",
+      "o": [
+        "p verdadeira e q falsa",
+        "p falsa e q verdadeira",
+        "p falsa e q falsa",
+        "p verdadeira e q verdadeira"
+      ],
+      "r": "A",
+      "e": "A condicional material é falsa somente quando o antecedente é verdadeiro e o consequente é falso. Referência temática: Aula 00 - Estruturas Lógicas."
+    },
+    {
+      "id": "atamf-2026-0036",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Equivalências lógicas",
+      "q": "A negação de 'p e q' é equivalente a:",
+      "o": [
+        "Não p e não q",
+        "Não p ou não q",
+        "p ou q",
+        "p e não q"
+      ],
+      "r": "B",
+      "e": "Pela lei de De Morgan, ¬(p∧q) equivale a ¬p∨¬q. Referência temática: Aula 01 - Esquivalências Lógicas."
+    },
+    {
+      "id": "atamf-2026-0037",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Conjuntos",
+      "q": "Se todo A é B, qual afirmação é necessariamente verdadeira?",
+      "o": [
+        "Todo B é A",
+        "Nenhum A é B",
+        "A está contido em B",
+        "A e B são disjuntos"
+      ],
+      "r": "C",
+      "e": "A relação 'todo A é B' significa inclusão do conjunto A no conjunto B. Referência temática: Aula 02 - Diagramas Lógicos."
+    },
+    {
+      "id": "atamf-2026-0038",
+      "s": "Informática",
+      "t": "Protocolos de rede",
+      "q": "Qual protocolo é normalmente utilizado para traduzir nomes de domínio em endereços IP?",
+      "o": [
+        "DNS",
+        "SMTP",
+        "FTP",
+        "SSH"
+      ],
+      "r": "A",
+      "e": "DNS realiza resolução de nomes de domínio para endereços, entre outras consultas. Referência temática: Aula 01 - Conceitos de Rede 2."
+    },
+    {
+      "id": "atamf-2026-0039",
+      "s": "Informática",
+      "t": "Redes sociais",
+      "q": "Qual prática ajuda a proteger uma conta em rede social?",
+      "o": [
+        "Reutilizar a mesma senha em todos os sites",
+        "Divulgar códigos de verificação",
+        "Ativar autenticação multifator",
+        "Compartilhar senhas por mensagem"
+      ],
+      "r": "C",
+      "e": "Autenticação multifator acrescenta camada de proteção ao acesso. Referência temática: Aula 02-1 - Redes Sociais 1."
+    },
+    {
+      "id": "atamf-2026-0040",
+      "s": "Informática",
+      "t": "Redes de computadores",
+      "q": "Qual equipamento encaminha pacotes entre redes IP diferentes?",
+      "o": [
+        "Roteador",
+        "Monitor",
+        "Teclado",
+        "Scanner"
+      ],
+      "r": "A",
+      "e": "Roteadores selecionam caminhos e encaminham pacotes entre redes. Referência temática: Aula 00 - Conceitos de Rede 1."
+    },
+    {
+      "id": "atamf-2026-0041",
+      "s": "Controle Externo e Legislação Institucional",
+      "t": "Controle externo",
+      "q": "Na esfera federal, o controle externo é exercido pelo Congresso Nacional com auxílio do:",
+      "o": [
+        "Banco Central",
+        "Tribunal de Contas da União",
+        "Ministério da Saúde",
+        "Conselho Nacional de Justiça"
+      ],
+      "r": "B",
+      "e": "A Constituição atribui o controle externo ao Congresso Nacional com auxílio do TCU. Referência temática: Aula 01 - Tribunal de Contas."
+    },
+    {
+      "id": "atamf-2026-0042",
+      "s": "Controle Externo e Legislação Institucional",
+      "t": "Controle interno",
+      "q": "Qual objetivo é compatível com o sistema de controle interno da Administração?",
+      "o": [
+        "Dispensar prestação de contas",
+        "Avaliar resultados e apoiar o controle externo",
+        "Impedir qualquer fiscalização",
+        "Substituir integralmente o Poder Legislativo"
+      ],
+      "r": "B",
+      "e": "O controle interno acompanha gestão, avalia resultados e apoia o controle externo. Referência temática: Aula 02 - Sistema de Controle na Administração Pública."
+    },
+    {
+      "id": "atamf-2026-0043",
+      "s": "Controle Externo e Legislação Institucional",
+      "t": "Controle administrativo",
+      "q": "A fiscalização de atos quanto à conformidade com a lei é controle de:",
+      "o": [
+        "Legalidade",
+        "Popularidade",
+        "Publicidade comercial",
+        "Conveniência pessoal"
+      ],
+      "r": "A",
+      "e": "Controle de legalidade examina compatibilidade do ato com normas jurídicas. Referência temática: Aula 00 - Controle."
+    },
+    {
+      "id": "atamf-2026-0044",
+      "s": "Ética no Serviço Público",
+      "t": "Ética e moral",
+      "q": "Qual alternativa melhor descreve a ética como campo de reflexão?",
+      "o": [
+        "Investigação crítica de valores e condutas",
+        "Conjunto exclusivo de regras de trânsito",
+        "Sinônimo obrigatório de punição penal",
+        "Apenas hábito individual sem dimensão social"
+      ],
+      "r": "A",
+      "e": "A ética examina fundamentos e critérios do agir humano. Referência temática: Aula 02 - Ética e Moral."
+    },
+    {
+      "id": "atamf-2026-0045",
+      "s": "Ética no Serviço Público",
+      "t": "Conduta funcional",
+      "q": "É compatível com a ética no serviço público:",
+      "o": [
+        "Usar o cargo para obter vantagem pessoal",
+        "Tratar o cidadão com respeito e urbanidade",
+        "Ocultar informação pública sem fundamento legal",
+        "Discriminar usuários do serviço"
+      ],
+      "r": "B",
+      "e": "Urbanidade e respeito ao cidadão integram os deveres éticos do servidor. Referência temática: Aula 01 - Decreto 1.171-1994."
+    },
+    {
+      "id": "atamf-2026-0046",
+      "s": "Ética no Serviço Público",
+      "t": "Ética e legalidade",
+      "q": "Uma conduta formalmente legal é, por esse único motivo, necessariamente ética?",
+      "o": [
+        "Sim, em todas as situações",
+        "Sim, quando for conveniente ao agente",
+        "Não; a avaliação ética também considera finalidade e valores",
+        "Sim, se não houver fiscalização"
+      ],
+      "r": "C",
+      "e": "O Código de Ética enfatiza que a avaliação moral não se esgota na mera legalidade formal. Referência temática: Aula 01 - Decreto 1.171-1994."
     }
   ]
 }
