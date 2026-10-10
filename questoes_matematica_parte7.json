@@ -2527,7 +2527,7 @@
       "id": "atamf-mat7-0231",
       "s": "Matemática e Raciocínio Lógico",
       "t": "Aula 27 - Análise Combinatória",
-      "q": "(CONSULPLAN/2022 - Pref. Linhares) Uma==b3d1f== equipe composta por 7 alunos terá que realizar um trabalho escolar, em que serão necessárias as seguintes atividades: apresentação oral, elaboração do texto-base, confecção dos cartazes de exposição. Dessa forma, se a equipe decidir que serão dois alunos responsáveis pela apresentação oral, dois responsáveis pela elaboração do texto-base e três incumbidos da confecção dos cartazes de exposição, a quantidade de formas diferentes que essa equipe poderá se organizar para realizar o trabalho escolar está compreendida entre:",
+      "q": "(CONSULPLAN/2022 - Pref. Linhares) Uma equipe composta por 7 alunos terá que realizar um trabalho escolar, em que serão necessárias as seguintes atividades: apresentação oral, elaboração do texto-base, confecção dos cartazes de exposição. Dessa forma, se a equipe decidir que serão dois alunos responsáveis pela apresentação oral, dois responsáveis pela elaboração do texto-base e três incumbidos da confecção dos cartazes de exposição, a quantidade de formas diferentes que essa equipe poderá se organizar para realizar o trabalho escolar está compreendida entre:",
       "o": [
         "1 e 200",
         "201 e 500",
@@ -2535,7 +2535,7 @@
         "1001 e 5040"
       ],
       "r": "B",
-      "e": "O enunciado informa que 7 alunos serão divididos em três grupos, que realizarão atividades distintas, de modo que dois grupos terão 2 alunos e um grupo terá com 3 alunos. Como os grupos são diferentes entre si, devemos utilizar a fórmula da partição ordenada: 𝑁 𝑁! ( = 𝑛1, 𝑛2, 𝑛3) 𝑛1! 𝑛2! 𝑛3! 7 7! 7 × 6 × 5 × 4 × 3! (3,2,2) = 3! 2! 2! = 3! × 2 × 2 = 7 × 6 × 5 = 210 Que está entre 201 e 500. Fonte: Aula 27 - Análise Combinatória_cropped.pdf, questão 3.",
+      "e": "A distribuição dos 7 alunos em grupos distintos de 2, 2 e 3 é 7!/(2!×2!×3!) = 210. Portanto, a quantidade está entre 201 e 500 (alternativa B). Fonte: Aula 27 - Análise Combinatória.",
       "source_number": 3
     },
     {
