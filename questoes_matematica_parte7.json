@@ -340,7 +340,7 @@
         "4"
       ],
       "r": "B",
-      "e": "  - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 297 Aula 15 Vamos chamar de 𝑓 a função arrecadação em função do número 𝑥 de alunos. A banca nos informa que cada aluno 𝑥 irá pagar o equivalente a R$ 660,00, mais R$ 30,00 por cada lugar vago. Matematicamente teremos a seguinte equação: 𝑓= 𝑥∙(660 + 30 ∙(70 −𝑥)) Explicando melhor: A sala tem 70 lugares, certo? Se 𝑥 serão ocupados, teremos (70 −𝑥) lugares vagos. Ou seja, traduzindo a equação acima, cada aluno 𝑥 pagará 660 mais 30 vezes a quantidade de lugares vazios que é igual a (70 −𝑥). 𝑓= 𝑥∙(660 + 30 ∙(70 −𝑥)) 𝑓= 𝑥∙(660 + 2.100 −30𝑥) 𝑓= 𝑥∙(2.760 −30𝑥) → 𝒇= −𝟑𝟎𝒙𝟐+ 𝟐. 𝟕𝟔𝟎𝒙 A banca nos questiona o valor de 𝑥, isto é, o valor da quantidade de aluos que torna essa arrecadação 𝑓 máxima. Sendo assim, a banca nos questiona o 𝑥 do vértice da função. −𝑏 𝑥𝑉= 2𝑎 −2.760 −2.760 𝑥𝑉= = → 𝒙𝑽= 𝟒𝟔 2 ∙−30 −60 Logo, a arrecadação será máxima para 46 alunos pre Fonte: Aula 15 - Funções de Primeiro e Segundo Grau_cropped.pdf, questão 13.",
+      "e": "Receita R(x)=x[660+30(70−x)]=−30x²+2760x. O vértice ocorre em x=−2760/(2×−30)=46 alunos. O resto de 46 por 5 é 1. Resposta: B.",
       "source_number": 13
     },
     {
@@ -1685,22 +1685,6 @@
       "r": "C",
       "e": "  - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 212 Aula 26 Temos no enunciado que a média há 10 anos era 30 anos para um grupo de 526 pessoas. Então, vamos calcular a soma das idades: 𝑥1 + 𝑥2 + ⋯+ 𝑥526 30 = 526 𝑥1 + 𝑥2 + ⋯+ 𝑥526 = 526 × 30 𝑥1 + 𝑥2 + ⋯+ 𝑥526 = 15.780 Agora, vamos calcular a média atual das idades, considerando que cada pessoa envelheceu 10 anos: 15.780 + (526 × 10) 𝑥̅ = 526 15.780 + 5.260 𝑥̅ = 526 21.040 𝑥̅ = 526 𝑥̅ = 40 Utilizando as propriedades do desvio padrão, sabemos que essa medida não sofre alteração com o acréscimo de uma constante, como é o caso. Assim, não houve alteração do desvio padrão em relação à media anterior. Desta forma, o quociente entre o desvio padrão e a média das idades atual é: 8 = 0,2 40 Fonte: Aula 26 - Dispersão_cropped.pdf, questão 17.",
       "source_number": 17
-    },
-    {
-      "id": "atamf-mat7-0168",
-      "s": "Matemática e Raciocínio Lógico",
-      "t": "Aula 26 - Dispersão",
-      "q": "(CESGRANRIO/LIQUIGÁS/2018) Uma amostra (𝒙𝟏, 𝒙𝟐, . . . , 𝒙𝟏𝟎) de tamanho 10 de uma população nos forneceu os seguintes valores 𝟏𝟎 𝟏𝟎 ∑𝒙𝒊= 𝟐𝟎 𝒆 ∑𝒙𝒊𝟐= 𝟏𝟒𝟎 . 𝒊=𝟏 𝒊=𝟏 Qual o valor do coeficiente de variação amostral? 7",
-      "o": [
-        "20 5",
-        "3 1",
-        "7 1",
-        "6",
-        "6"
-      ],
-      "r": "B",
-      "e": "  - Assistente Técnico Administrativo) Matemática e Raciocínio Lógico 213 Aula 26 O coeficiente de variação é determinado pela divisão entre o desvio padrão e a média aritmética. Por sua vez, a variância populacional (𝜎2) é dada pela diferença entre a média dos quadrados e o quadrado da média. Assim, vamos iniciar a resolução calculando o quadrado da média: ∑ 10𝑖=1 𝑥𝑖 𝑥̅ = 10 20 𝑥̅ = 10 𝑥̅ = 2 𝑥̅2 = 22 = 4 Vamos calcular a média dos quadrados: ∑ 10𝑖=1 𝑥𝑖2 ̅̅̅𝑥2 = 10 140 ̅̅̅𝑥2 = 10 ̅̅̅𝑥2 = 14 Agora, já podemos calcular a variância populacional: 𝜎2 = ̅̅̅𝑥2 −𝑥̅2 𝜎2 = 14 −4 𝜎2 = 10 Temos a variância populacional, mas precisamos calcular a variância amostral, logo: 𝑛 𝑠2 = 𝜎2 × 𝑛−1 10 𝑠2 = 10 × 10 −1 10 𝑠2 = 10 × 9 100 𝑠2 = 9 𝑠= √100 9 Assim, já podemos calcular o coeficiente de variação amostral: √100 10 𝑠 9 3 5 𝐶𝑉= = = = 𝑥̅ 2 2 3 Fonte: Aula 26 - Dispersão_cropped.pdf, questão 18.",
-      "source_number": 18
     },
     {
       "id": "atamf-mat7-0170",
