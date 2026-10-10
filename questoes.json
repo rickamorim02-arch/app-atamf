@@ -97,6 +97,174 @@
       ],
       "r": "A",
       "e": "O material introduz controle como comparação de um objeto com um padrão de controle. Fonte: Aula 00 - Controle, página 6 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0008",
+      "s": "Português",
+      "t": "Ortografia e fonologia",
+      "q": "Qual termo designa o estudo da pronúncia correta das palavras?",
+      "o": [
+        "Prosódia",
+        "Ortoépia",
+        "Semântica",
+        "Sintaxe"
+      ],
+      "r": "B",
+      "e": "A aula diferencia ortoépia (pronúncia correta) de prosódia (sílaba e acentuação). Fonte: Aula 00 - Ortografia, página 5 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0009",
+      "s": "Português",
+      "t": "Acentuação",
+      "q": "Sobre as palavras 'saci' e 'café', assinale a afirmação correta.",
+      "o": [
+        "Ambas têm acento gráfico.",
+        "Nenhuma tem sílaba tônica.",
+        "Ambas têm sílaba tônica, mas só 'café' recebe acento gráfico.",
+        "Somente 'café' tem sílaba tônica."
+      ],
+      "r": "C",
+      "e": "Toda palavra possui tonicidade conforme a sua pronúncia; acento tônico e acento gráfico são conceitos distintos. Fonte: Aula 00 - Ortografia, página 5 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0010",
+      "s": "Português",
+      "t": "Fonemas",
+      "q": "Na fonologia, um fonema é:",
+      "o": [
+        "Uma unidade sonora capaz de distinguir palavras.",
+        "Necessariamente uma letra do alfabeto.",
+        "Sempre uma sílaba completa.",
+        "Um sinal exclusivamente gráfico."
+      ],
+      "r": "A",
+      "e": "O material usa a substituição do som inicial em 'pato' e 'gato' para exemplificar o caráter distintivo dos fonemas. Fonte: Aula 00 - Ortografia, página 6 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0011",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Improbidade administrativa",
+      "q": "Segundo o material sobre a Lei de Improbidade Administrativa, os atos de improbidade, por si sós:",
+      "o": [
+        "São sempre crimes.",
+        "Possuem necessariamente natureza penal.",
+        "Não são crimes, embora a mesma conduta possa também configurar crime.",
+        "Não podem gerar consequências civis."
+      ],
+      "r": "C",
+      "e": "A aula esclarece que a ação de improbidade não tem natureza penal; a mesma conduta pode, em certos casos, também ser tipificada criminalmente. Fonte: Aula 00 - Improbidade, página 8 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0012",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Improbidade administrativa",
+      "q": "Conforme a abordagem atual da Lei de Improbidade Administrativa no PDF, a configuração de ato de improbidade exige conduta:",
+      "o": [
+        "Exclusivamente culposa.",
+        "Dolosa.",
+        "Sempre involuntária.",
+        "Sem qualquer elemento subjetivo."
+      ],
+      "r": "B",
+      "e": "O material destaca a exigência de dolo para os atos de improbidade, em conformidade com a reforma legislativa. Fonte: Aula 00 - Improbidade, página 9 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0013",
+      "s": "Regime Jurídico dos Agentes Públicos",
+      "t": "Ilegalidade e improbidade",
+      "q": "Qual relação entre ilegalidade e improbidade é apresentada na aula?",
+      "o": [
+        "Toda ilegalidade constitui improbidade.",
+        "A improbidade é mais ampla que a ilegalidade.",
+        "Todo ato de improbidade é ilícito, mas nem toda ilegalidade é improbidade.",
+        "Improbidade e ilegalidade são sempre sinônimos."
+      ],
+      "r": "C",
+      "e": "A aula apresenta a ilegalidade como conceito mais amplo e diferencia irregularidades comuns de atos de improbidade. Fonte: Aula 00 - Improbidade, página 10 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0014",
+      "s": "Gestão de Pessoas e Atendimento ao Público",
+      "t": "Motivação",
+      "q": "Em ambiente organizacional, a motivação pode ser entendida como:",
+      "o": [
+        "Ausência de objetivos pessoais.",
+        "Forças que estimulam o esforço e a persistência em direção a objetivos.",
+        "Resultado exclusivamente de recompensas financeiras.",
+        "Garantia automática de alto desempenho."
+      ],
+      "r": "B",
+      "e": "A aula apresenta definições de Daft e Robbins que relacionam motivação ao esforço e à persistência. Fonte: Aula 00 - Motivação, página 7 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0015",
+      "s": "Gestão de Pessoas e Atendimento ao Público",
+      "t": "Motivação e desempenho",
+      "q": "De acordo com o material, o desempenho profissional depende:",
+      "o": [
+        "Apenas de motivação.",
+        "Somente da satisfação no trabalho.",
+        "De motivação, habilidades e oportunidade de aplicá-las.",
+        "Exclusivamente da remuneração."
+      ],
+      "r": "C",
+      "e": "A motivação é importante, mas não suficiente: habilidades e condições organizacionais também influenciam o desempenho. Fonte: Aula 00 - Motivação, página 8 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0016",
+      "s": "Gestão de Pessoas e Atendimento ao Público",
+      "t": "Satisfação e motivação",
+      "q": "Segundo a aula, é correto afirmar que:",
+      "o": [
+        "Todo funcionário satisfeito está necessariamente motivado.",
+        "Satisfação e motivação não são conceitos equivalentes.",
+        "Motivação depende apenas de fatores externos.",
+        "O ambiente de trabalho não influencia o desempenho."
+      ],
+      "r": "B",
+      "e": "O PDF adverte expressamente que satisfação não é sinônimo de motivação. Fonte: Aula 00 - Motivação, página 9 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0017",
+      "s": "Atualidades",
+      "t": "Globalização",
+      "q": "O conceito de globalização apresentado na aula enfatiza:",
+      "o": [
+        "Isolamento econômico e cultural entre países.",
+        "Integração e interconexão entre países, povos e atividades.",
+        "Fim da circulação internacional de informações.",
+        "Desaparecimento das empresas transnacionais."
+      ],
+      "r": "B",
+      "e": "O PDF define globalização como processo de integração e interconexão econômica, política, cultural e social. Fonte: Aula 00 - Economia e Sociedade Internacional, página 7 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0018",
+      "s": "Atualidades",
+      "t": "Globalização e tecnologia",
+      "q": "Qual transformação tecnológica contribuiu fortemente para a integração econômica global a partir dos anos 1990?",
+      "o": [
+        "Redução da capacidade de telecomunicações.",
+        "Expansão da internet e das telecomunicações.",
+        "Fim da circulação de capitais.",
+        "Proibição de investimentos internacionais."
+      ],
+      "r": "B",
+      "e": "O material relaciona internet e telecomunicações à troca quase instantânea de informações e à circulação de capital. Fonte: Aula 00 - Economia e Sociedade Internacional, página 8 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0019",
+      "s": "Atualidades",
+      "t": "Globalização financeira",
+      "q": "Conforme o PDF, a integração mundial dos mercados financeiros foi facilitada especialmente:",
+      "o": [
+        "Pelo isolamento dos sistemas bancários.",
+        "Pela impossibilidade de realizar operações online.",
+        "Pela revolução nas telecomunicações.",
+        "Pela eliminação de todas as instituições financeiras."
+      ],
+      "r": "C",
+      "e": "A aula atribui à revolução nas telecomunicações a viabilização de operações financeiras online e a maior interdependência financeira. Fonte: Aula 00 - Economia e Sociedade Internacional, página 9 (numeração do PDF)."
     }
   ]
 }
