@@ -10,7 +10,7 @@
         "Princípio da identidade.",
         "Princípio da não contradição.",
         "Princípio da ambiguidade.",
-        "Princípio da contagem. Comentários: Segundo o princípio da não contradição, uma proposição não pode ser verdadeira e falsa ao mesmo tempo."
+        "Princípio da contagem."
       ],
       "r": "C",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
@@ -25,7 +25,7 @@
         "Kris não estudou Português para o concurso.",
         "Pode ser que Kris não tenha estudado Português para o concurso.",
         "Talvez Kris não tenha estudado Português para o concurso.",
-        "Kris estudou Português, mas não para o concurso. Comentários: Para se negar uma proposição simples, a maneira mais comum consiste em inserir um “não” antes do verbo. Logo, a negação da proposição “Kris estudou Português para o concurso” é: “Kris não estudou Português para o concurso”"
+        "Kris estudou Português, mas não para o concurso."
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
@@ -40,7 +40,7 @@
         "Panambi é uma cidade de colonização holandesa.",
         "Panambi é uma cidade de colonização alemã.",
         "Os alemães não participaram da colonização da cidade.",
-        "Os alemães contribuíram no processo de colonização da cidade. Comentários: Note que a proposição simples apresentada é uma sentença declarativa negativa: p: “Panambi não é uma cidade de colonização alemã.” Para negar a proposição em questão, basta remover o \"não\": p: “Panambi é uma cidade de colonização alemã.”"
+        "Os alemães contribuíram no processo de colonização da cidade."
       ],
       "r": "C",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
@@ -55,7 +55,7 @@
         "p ∨ q",
         "p ∧ q",
         "p  q",
-        "p v q  r Comentários: Considere as seguintes proposições simples: p: \"Estudo matemática.\" q: \"Aprendo sobre a vida.\" Note que a proposição do enunciado apresenta o conectivo \"Se... então\". Assim, podemos representar essa proposição composta como um condicional da forma p→q. p→q: “Se [estudo Matemática], então [aprendo sobre a vida].”"
+        "p v q  r"
       ],
       "r": "A",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
@@ -70,7 +70,7 @@
         "Conjunção.",
         "Disjunção.",
         "Disjunção exclusiva.",
-        "Bicondicional. Comentários: Note que a tabela-verdade apresenta o caso em que a proposição composta é falsa somente quando ambas as proposições simples tiverem o mesmo valor. Trata-se da disjunção exclusiva."
+        "Bicondicional."
       ],
       "r": "D",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
@@ -85,7 +85,7 @@
         "Ganhou desconto ou pagou com PIX.",
         "Ou ganhou desconto ou pagou com PIX.",
         "Só será aceito o pagamento se for com PIX.",
-        "Se pagar com PIX, então ganhará desconto. Comentários: Segundo o enunciado, os dizeres “Pague com Pix e ganhe desconto” apresenta o sentido de uma condicional, que costuma ser expressa por meio do conectivo “se...então”. Logo, a frase pode ser reescrita do seguinte modo: “Se [pagar com PIX], então [ganhará desconto].”"
+        "Se pagar com PIX, então ganhará desconto."
       ],
       "r": "E",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
@@ -100,7 +100,7 @@
         "16 linhas.",
         "4 linhas.",
         "32 linhas.",
-        "64 linhas. Comentários: Deve-se entender que o enunciado apresenta uma situação de uma proposição composta formada por quatro proposições simples distintas. Sabemos que o número de linhas da tabela-verdade é 2n, sendo n o número de proposições simples distintas. Para o nosso caso, temos n = 4. Logo, o número de linhas é 24 = 16."
+        "64 linhas."
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 00 - Estruturas Lógicas_cropped.pdf."
@@ -115,7 +115,7 @@
         "(- P) ∧ (- Q)",
         "- (P ∨ Q)",
         "(- P) ∧ Q",
-        "P ∧ (- Q) Comentários: Originalmente, temos a conjunção de P com Q: P∧Q. Para negar uma conjunção, devemos utilizar De Morgan: negam-se as duas proposições e troca-se o \"e\" pelo \"ou\". Logo: ~(P∧Q) ≡ ~P ∨ ~Q"
+        "P ∧ (- Q)"
       ],
       "r": "A",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 01 - Esquivalências Lógicas_cropped.pdf."
@@ -130,7 +130,7 @@
         "Argumento Dedutivo; Premissas; Hipótese.",
         "Argumento Indutivo; Variáveis; Conclusão.",
         "Argumento Válido; Premissas; Hipótese.",
-        "Argumento Dedutivo; Premissas; Conclusão. Comentários: Trata-se de um argumento dedutivo em que P1; P2 ; ...; P3 são as premissas ou hipóteses e Q é a conclusão. Observação: lembre-se de que o conectivo \"&\" é uma conjunção, que poderia ter sido representada por \"∧\"."
+        "Argumento Dedutivo; Premissas; Conclusão."
       ],
       "r": "E",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 04 - Lógica de Argumentação_cropped.pdf."
@@ -145,7 +145,7 @@
         "10973",
         "10993",
         "19703",
-        "19790 Comentários: Pessoal, nessa questão, para encontrarmos o número decomposto, devemos realizar a soma indicada."
+        "19790"
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 08 - Operações Básicas_cropped.pdf."
@@ -160,7 +160,7 @@
         "vinte e cinco mil.",
         "duzentos e cinquenta mil.",
         "vinte e cinco milhões.",
-        "duzentos e cinquenta milhões. Comentários: Para desenvolver 2,5 × 104, a vírgula entre o 2 e o 5 deve \"andar quatro casas\". Isso significa que: 2,5 × 104 = 25.000 Temos, portanto, vinte e cinco mil."
+        "duzentos e cinquenta milhões."
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
@@ -175,7 +175,7 @@
         "100.",
         "135.",
         "170.",
-        "120. Comentários: O total de ml de café consumidos é: 1.200 xícaras × 100mL/xícara = 120.000 ml Para converter ml para l, devemos realizar três avanços para a esquerda. Logo: 120.000mL = 120.000 × 10−1 × 10−1 × 10−1 l = 120.000 × 10−3 l = 120 l"
+        "120."
       ],
       "r": "E",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
@@ -190,7 +190,7 @@
         "30 minutos.",
         "38 minutos.",
         "40 minutos.",
-        "48 minutos. Comentários: Após um treinamento, deseja-se que o tempo do procedimento seja reduzido em 0,2h. Como 1h = 60min, a redução desejada é: 0,2 × 60min = 𝟏𝟐 𝐦𝐢𝐧 Como o procedimento era realizado em 50min, o tempo que se deseja obter para a realização do procedimento é: 50min −12min = 38min"
+        "48 minutos."
       ],
       "r": "C",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
@@ -205,7 +205,7 @@
         "0,48 km³.",
         "4,8 km³.",
         "48 km³.",
-        "480 km³. Comentários: A capacidade informada é de 480.000.000 m3. Devemos transformar essa capacidade km3. Para converter m3 para km3, devemos realizar três avanços para a esquerda. Logo: 480.000.000 m3 = 480.000.000 × 10−3 × 10−3 × 10−3 km3 = 480.000.000 × (10−3)3 km3 = 480.000.000 × 10−9 km3 0,48 km3"
+        "480 km³."
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
@@ -220,7 +220,7 @@
         "2h30min",
         "14h30min",
         "19h30min",
-        "18h30min Comentários: Note que, como o horário de Lisboa está adiantado em 4 horas em relação a São Paulo, a apresentação, que começou às 21h do horário de Lisboa, começou às 21h−4h = 17h do horário de São Paulo. Como a apresentação musical teve duração de 1h30min, a apresentação terminou, no horário de São Paulo, às 17h + 1h30min= 18h30min."
+        "18h30min"
       ],
       "r": "E",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 09 - Potências de Dez_cropped.pdf."
@@ -235,7 +235,7 @@
         "38.",
         "39.",
         "40.",
-        "41. Comentários: Um algarismo menor à direita deve ser somado. XXX corresponde a 10 + 10 + 10 = 30 e VIII corresponde a 5 + 3 = 8. Devemos tratar XXXVI como [XXX][VIII]. Temos, portanto, 30 + 8 = 38."
+        "41."
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -250,7 +250,7 @@
         "XXXIIV.",
         "XXXIII.",
         "LLLXXX.",
-        "XXLCIII. Comentários: Podemos representar 30 por XXX e 3 por III. Logo, 33 é dado por XXXIII."
+        "XXLCIII."
       ],
       "r": "C",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -265,7 +265,7 @@
         "93.",
         "32.",
         "256.",
-        "22. Comentários: Observe abaixo a correlação entre os algarismos do número binário e as potências de 2. Temos, então: 𝟏× 26 + 𝟎× 25 + 𝟏× 24 + 𝟏× 23 + 𝟏× 22 + 𝟎× 21 + 𝟏× 20 = 64 + 0 + 16 + 8 + 4 + 0 + 1 = 93 Logo, o número binário 10111012 corresponde a 93 em base 10."
+        "22."
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -280,7 +280,7 @@
         "2 indica a quantidade máxima de unidades de milhar que esse número tem.",
         "3 indica a quantidade máxima de centenas que esse número tem.",
         "1 indica a quantidade máxima de dezenas que esse número tem.",
-        "5 indica a quantidade máxima de unidades que esse número tem. Comentários: Temos as seguintes ordens para os dígitos do número 42315: Logo, o dígito 4 indica a quantidade máxima de dezenas de milhar que esse número tem."
+        "5 indica a quantidade máxima de unidades que esse número tem."
       ],
       "r": "A",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -295,7 +295,7 @@
         "1010",
         "1100",
         "1111",
-        "10000 Comentários: Para transformar um número inteiro decimal em binário, podemos aplicar o método das divisões sucessivas. Logo, 15(10) = 1111(2)."
+        "10000"
       ],
       "r": "D",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -310,7 +310,7 @@
         "93.",
         "32.",
         "256.",
-        "22. Comentários: Para transformar o número binário para o sistema decimal, podemos transformá-lo em uma soma de potências de base 2. Para o número 1011101, temos: 𝟏× 26 + 𝟎× 25 + 𝟏× 24 + 𝟏× 23 + 𝟏× 22 + 𝟎× 21 + 𝟏× 20 = 64 + 0 + 16 + 8 + 4 + 0 + 1 = 83"
+        "22."
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -325,7 +325,7 @@
         "11101.",
         "11001.",
         "11011.",
-        "11110. Comentários: Para transformar um número inteiro decimal em binário, podemos aplicar o método das divisões sucessivas. Logo, 25(10) = 11001(2)."
+        "11110."
       ],
       "r": "C",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -340,7 +340,7 @@
         "25 < x < 51",
         "50 < x < 75",
         "74 < x < 100",
-        "x > 99 Comentários: Para converter o número binário para o sistema decimal, podemos transformá-lo em uma soma de potências de base 2. Para o número 1001011, temos: 𝟏× 26 + 𝟎× 25 + 𝟎× 24 + 𝟏× 23 + 𝟎× 22 + 𝟏× 21 + 𝟏× 20 = 64 + 8 + 2 + 1 = 75 Logo, 𝑥 está entre 74 e 100."
+        "x > 99"
       ],
       "r": "D",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -355,7 +355,7 @@
         "11001100",
         "10011101",
         "11011001",
-        "11001101 Comentários: Para transformar um número inteiro decimal em binário, podemos aplicar o método das divisões sucessivas. Logo, 157(10) = 10011101(2)."
+        "11001101"
       ],
       "r": "C",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -370,7 +370,7 @@
         "4, 7, 11, 33 e 45.",
         "1, 3, 5, 18 e 31.",
         "2, 5, 7, 9 e 17.",
-        "2, 7, 11, 19 e 23. Comentários: Conforme mostrado na teoria da aula, os números a seguir são os números primos até 47. São esses primos que você precisa decorar: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 Logo, a alternativa que apresenta apenas número primos é a letra E: 2, 7, 11, 19 e 23."
+        "2, 7, 11, 19 e 23."
       ],
       "r": "E",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 10 - Sistema Decimal_cropped.pdf."
@@ -385,7 +385,7 @@
         "1/3",
         "1/2",
         "1/4",
-        "1/5 Comentários: Podemos representar o denominador da fração como 3×12 12 36 = 𝟏𝟐 3 × 𝟏𝟐 Simplificando o número 12, obtém-se: 12 36 = 1 3"
+        "1/5"
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
@@ -400,7 +400,7 @@
         "𝑦 = 𝑎𝑥2 + 𝑏𝑥, com a e b reais e 𝑎 · 𝑏 ≠ 0",
         "𝑦 = 𝑎𝑥2, com 𝑎 ≠ 0, real",
         "𝑦 = 𝑎𝑥 + 𝑏, com a e b reais e 𝑎 · 𝑏 ≠ 0",
-        "𝑦 = 𝑎𝑥, com 𝑎 ≠ 0, real Comentários: Duas grandezas diretamente proporcionais podem ser representadas graficamente por uma reta que passa pela origem do plano cartesiano. Assim, as grandezas 𝑦 e 𝑥 podem ser relacionadas pela função 𝑦= 𝑎𝑥, com 𝑎 diferente de zero. Nesse caso, 𝑎 é a constante de proporcionalidade 𝑘."
+        "𝑦 = 𝑎𝑥, com 𝑎 ≠ 0, real"
       ],
       "r": "E",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
@@ -415,7 +415,7 @@
         "1,8 kg",
         "3 kg",
         "3,6 kg",
-        "4,2 kg Comentários: O comprador levou para casa um pedaço de queijo equivalente a 3 8 do peso total, que é 4,8kg. Portanto, o comprador levou para casa: 3 8 𝐝𝐞 4,8 = 3 8 × 4,8 = 3 × 4,8 8 = 3 × 0,6 = 1,8 kg"
+        "4,2 kg"
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
@@ -430,7 +430,7 @@
         "511 1000",
         "11 18",
         "14 15",
-        "5 9 Comentários: Vamos realizar a soma, separando o período de 0,16̅ do restante do número: 0, 4̅ + 0,16̅ = 4 9 + 0,1 + 0,06̅ = 4 9 + 0,1 + 1 10 × 0, 6̅ = 4 9 + 1 10 + 1 10 × 6 9 = 4 9 + 1 10 + 6 90 = 40 + 9 + 6 90 = 55 90 = 11 18"
+        "5 9"
       ],
       "r": "C",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
@@ -445,7 +445,7 @@
         "18.",
         "22.",
         "24.",
-        "27. Comentários: Como 12, 20, 𝑥 e 30 formam uma proporção, temos: 12 20 = 𝑥 30 Realizando a multiplicação cruzada, temos: 12 × 30 = 𝑥× 20 360 = 20𝑥 20𝑥= 360 𝑥= 360 20 𝑥= 18"
+        "27."
       ],
       "r": "B",
       "e": "Gabarito informado na resolução da apostila. Fonte: Aula 11 - Frações_cropped.pdf."
