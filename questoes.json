@@ -1,3 +1,102 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "id": "atamf-2026-0001",
+      "s": "Matemática e Raciocínio Lógico",
+      "t": "Proposições",
+      "q": "Qual das frases abaixo NÃO é uma proposição lógica?",
+      "o": [
+        "O número 2 é par.",
+        "Brasília é a capital do Brasil.",
+        "Feche a porta.",
+        "O número 7 é primo."
+      ],
+      "r": "C",
+      "e": "Uma ordem é sentença imperativa e não recebe valor lógico verdadeiro ou falso. Fonte: Aula 00 - Estruturas Lógicas, página 6 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0002",
+      "s": "Informática",
+      "t": "Redes de computadores",
+      "q": "Qual é uma finalidade típica de uma rede de computadores?",
+      "o": [
+        "Impedir a comunicação entre usuários.",
+        "Compartilhar impressoras e arquivos entre dispositivos.",
+        "Eliminar a necessidade de protocolos.",
+        "Garantir que nenhum dispositivo possa acessar a internet."
+      ],
+      "r": "B",
+      "e": "A aula identifica compartilhamento de recursos e comunicação eficiente como benefícios das redes. Fonte: Aula 00 - Conceitos de Rede 1, página 4 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0003",
+      "s": "Informática",
+      "t": "Redes de computadores",
+      "q": "Qual benefício está associado à centralização de dados em uma rede?",
+      "o": [
+        "Impossibilitar backups.",
+        "Aumentar a redundância de equipamentos.",
+        "Facilitar backups e gerenciamento das informações.",
+        "Eliminar toda necessidade de segurança."
+      ],
+      "r": "C",
+      "e": "A centralização de dados simplifica backups e gerenciamento, sem eliminar a necessidade de segurança. Fonte: Aula 00 - Conceitos de Rede 1, página 4 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0004",
+      "s": "Ética no Serviço Público",
+      "t": "Moralidade administrativa",
+      "q": "De acordo com o Código de Ética tratado no material, a moralidade administrativa exige considerar:",
+      "o": [
+        "Apenas a conveniência pessoal do agente.",
+        "Apenas a distinção entre bem e mal, sem finalidade pública.",
+        "O bem comum e o equilíbrio entre legalidade e finalidade.",
+        "Somente o interesse financeiro do órgão."
+      ],
+      "r": "C",
+      "e": "O inciso III das regras deontológicas destaca o bem comum e o equilíbrio entre legalidade e finalidade. Fonte: Aula 01 - Decreto 1.171-1994, página 4 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0005",
+      "s": "Ética no Serviço Público",
+      "t": "Dever de veracidade",
+      "q": "Na abordagem do dever ético de prestar informações, o servidor deve:",
+      "o": [
+        "Ocultar fatos sempre que forem desfavoráveis à Administração.",
+        "Prestar informações verdadeiras, observadas as restrições legais de sigilo.",
+        "Responder apenas a solicitações de superiores.",
+        "Substituir a verdade por informações mais convenientes."
+      ],
+      "r": "B",
+      "e": "A aula destaca o dever de veracidade perante o cidadão; esse dever convive com hipóteses legais de sigilo. Fonte: Aula 01 - Decreto 1.171-1994, página 6 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0006",
+      "s": "Administração Pública",
+      "t": "Planejamento orçamentário",
+      "q": "Quais instrumentos de planejamento e orçamento são mencionados no art. 165 da Constituição?",
+      "o": [
+        "PPA, LDO e LOA.",
+        "CLT, CPC e CPP.",
+        "IPTU, ICMS e ISS.",
+        "RAP, RGF e RREO exclusivamente."
+      ],
+      "r": "A",
+      "e": "A aula aborda a integração entre Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO) e Lei Orçamentária Anual (LOA). Fonte: Aula 00 - Orçamento, página 5 (numeração do PDF)."
+    },
+    {
+      "id": "atamf-2026-0007",
+      "s": "Controle Externo e Legislação Institucional",
+      "t": "Conceito de controle",
+      "q": "Em termos gerais, o ato de controlar consiste em:",
+      "o": [
+        "Comparar um objeto ou resultado a um padrão de referência.",
+        "Apenas punir agentes públicos.",
+        "Eliminar qualquer necessidade de fiscalização.",
+        "Autorizar automaticamente todos os atos administrativos."
+      ],
+      "r": "A",
+      "e": "O material introduz controle como comparação de um objeto com um padrão de controle. Fonte: Aula 00 - Controle, página 6 (numeração do PDF)."
+    }
+  ]
 }
